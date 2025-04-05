@@ -1,0 +1,974 @@
+id,name,addressLine3,foundedOn,currentTransferRecord,currentMarketValue,squad.size,squad.averageAge,squad.foreigners,squad.nationalTeamPlayers,league.id,league.name,league.tier
+1,1.FC Saarbrücken,Germany,1903-04-18,-75000,8500000,29,27.0,7,0,L3,3. Liga,Third Tier
+2,1.FC Kaiserslautern,Germany,1900-06-02,-1890000,30450000,31,26.2,10,2,L2,2. Bundesliga,Second Tier
+3,1.FC Köln,Germany,1948-02-13,3100000,61630000,31,25.7,11,5,L2,2. Bundesliga,Second Tier
+4,1.FC Nuremberg,Germany,1900-05-04,25270000,34530000,29,24.2,9,1,L2,2. Bundesliga,Second Tier
+5,AC Milan,Italy,1899-12-16,-70900000,570000000,26,26.2,20,14,IT1,Serie A,First Tier
+6,Adanaspor,Türkiye,1954-01-23,0,7550000,30,27.3,13,0,TR2,1.Lig,Second Tier
+7,Al Ahly FC,Egypt,1907-04-24,1460000,33900000,32,27.2,7,14,EGY1,Egyptian Premier League,First Tier
+8,Alemannia Aachen,Germany,1900-12-16,0,5000000,30,26.4,6,0,L3,3. Liga,Third Tier
+10,Arminia Bielefeld,Germany,1905-05-03,-800000,7980000,25,24.7,6,1,L3,3. Liga,Third Tier
+52,MSV Duisburg,Germany,1902-09-17,0,3800000,26,26.1,4,1,RLW3,Regionalliga West,Fourth Tier
+53,OFK Beograd,Serbia,1911-09-01,700000,14830000,35,23.8,13,3,SER1,Super liga Srbije,First Tier
+56,Rot-Weiss Essen,Germany,1907-02-01,750000,6230000,27,25.8,7,0,L3,3. Liga,Third Tier
+57,Rot-Weiß Oberhausen,Germany,1904-12-18,0,1800000,24,25.9,2,0,RLW3,Regionalliga West,Fourth Tier
+58,RSC Anderlecht,Belgium,1908-05-27,13550000,108400000,26,25.5,13,7,BE1,Jupiler Pro League,First Tier
+60,SC Freiburg,Germany,1904-05-30,-7100000,167350000,27,27.3,12,6,L1,Bundesliga,First Tier
+61,Servette FC,Switzerland,1890-03-20,0,30100000,28,26.3,17,4,C1,Super League,First Tier
+62,SK Slavia Prague,Czech Republic,1892-11-02,18860000,104550000,29,25.0,10,19,TS1,Chance Liga,First Tier
+64,SV 07 Elversberg,Germany,1907-01-01,350000,21880000,26,26.6,4,2,L2,2. Bundesliga,Second Tier
+65,SpVgg Greuther Fürth,Germany,1903-09-23,1050000,21550000,27,25.5,6,1,L2,2. Bundesliga,Second Tier
+66,SpVgg Unterhaching,Germany,1925-01-01,65000,6480000,34,23.5,2,0,L3,3. Liga,Third Tier
+67,SpVgg Unterhaching II,Germany,1925-01-01,0,600000,21,19.6,3,0,OLB2,Bayernliga Süd,Fifth Tier
+69,SSV Ulm 1846,Germany,1970-05-05,-1350000,12130000,25,26.8,3,0,L2,2. Bundesliga,Second Tier
+71,Stuttgarter Kickers,Germany,1899-09-21,100000,2630000,27,25.8,5,0,RLSW,Regionalliga Südwest,Fourth Tier
+72,TSV 1860 Munich,Germany,1860-05-17,330000,7680000,28,26.1,8,0,L3,3. Liga,Third Tier
+73,TSV 1860 München II,Germany,1860-05-17,0,150000,34,21.2,6,0,OLB2,Bayernliga Süd,Fifth Tier
+76,Vålerenga Fotball Elite,Norway,1913-07-29,2800000,14350000,23,24.2,8,0,NO1,Eliteserien,First Tier
+77,Vardar Skopje,North Macedonia,1947-07-22,-100000,4010000,28,27.6,8,1,MAZ1,Prva Makedonska Fudbalska Liga,First Tier
+78,VfB Lübeck,Germany,1919-08-28,0,1940000,23,24.2,0,0,RLN3,Regionalliga Nord,Fourth Tier
+79,VfB Stuttgart,Germany,1893-09-09,-11580000,333730000,35,24.0,15,13,L1,Bundesliga,First Tier
+80,VfL Bochum,Germany,1949-07-29,4800000,54850000,27,27.3,13,5,L1,Bundesliga,First Tier
+81,VfL Osnabrück,Germany,1899-04-17,-90000,7780000,27,25.7,7,0,L3,3. Liga,Third Tier
+82,VfL Wolfsburg,Germany,1945-09-12,-19050000,229300000,30,25.6,21,13,L1,Bundesliga,First Tier
+84,Debreceni VSC,Hungary,1902-03-12,2029999,9550000,28,27.1,12,3,UNG1,Nemzeti Bajnokság,First Tier
+85,SV Waldhof Mannheim,Germany,1907-04-11,0,6550000,28,26.2,5,0,L3,3. Liga,Third Tier
+86,SV Werder Bremen,Germany,1899-02-04,-1130000,131350000,27,26.5,12,6,L1,Bundesliga,First Tier
+88,Widzew Lodz,Poland,1910-11-25,1440000,10200000,32,25.1,15,2,PL1,PKO BP Ekstraklasa,First Tier
+89,1.FC Union Berlin,Germany,1966-01-20,6700000,115880000,27,27.5,15,7,L1,Bundesliga,First Tier
+90,SV Babelsberg 03,Germany,1991-12-10,0,1790000,26,24.9,3,1,RLN4,Regionalliga Northeast,Fourth Tier
+91,Preußen Münster,Germany,1906-04-30,-50000,11800000,27,27.6,6,1,L2,2. Bundesliga,Second Tier
+93,SC Verl,Germany,1924-09-06,850000,5480000,26,24.8,3,0,L3,3. Liga,Third Tier
+94,FC Erzgebirge Aue,Germany,1946-03-04,-20000,5750000,25,25.2,7,0,L3,3. Liga,Third Tier
+116,FC Aarau,Switzerland,1902-05-26,100000,6500000,25,25.1,8,0,C2,Challenge League,Second Tier
+117,Eintracht Norderstedt,Germany,2003-04-23,0,1030000,27,25.3,2,0,RLN3,Regionalliga Nord,Fourth Tier
+119,Maccabi Tel Aviv,Israel,1906-01-01,-1450000,23950000,27,25.9,7,14,ISR1,Ligat ha'Al,First Tier
+120,Kocaelispor,Türkiye,1966-04-24,-377000,11000000,24,29.5,7,3,TR2,1.Lig,Second Tier
+121,Dynamo Moscow,Russia,1923-04-18,-17700000,99500000,24,26.3,14,11,RU1,Premier Liga,First Tier
+122,SK Sturm Graz,Austria,1909-05-01,15860000,68780000,25,23.7,19,6,A1,Bundesliga,First Tier
+124,Rangers FC,Scotland,1872-03-01,-13910000,75450000,25,26.0,21,9,SC1,Scottish Premiership,First Tier
+126,Caykur Rizespor,Türkiye,1953-05-19,486000,37480000,25,25.7,13,8,TR1,Süper Lig,First Tier
+127,SC Paderborn 07,Germany,1985-06-01,1550000,27050000,26,24.8,4,1,L2,2. Bundesliga,Second Tier
+129,SG Dynamo Dresden,Germany,1953-04-12,333000,10080000,28,24.9,5,2,L3,3. Liga,Third Tier
+130,Parma Calcio 1913,Italy,1913-07-27,-40350000,150980000,31,24.7,24,10,IT1,Serie A,First Tier
+131,FC Barcelona,Spain,1899-11-29,6100000,1010000000,26,24.9,8,14,ES1,LaLiga,First Tier
+132,NAC Breda,Netherlands,1912-09-19,1000000,21500000,30,25.2,18,4,NL1,Eredivisie,First Tier
+133,SC Cambuur Leeuwarden,Netherlands,1964-06-19,1150000,8830000,29,23.9,9,4,NL2,Keuken Kampioen Divisie,Second Tier
+134,Xerez CD,Spain,1947-09-24,0,1050000,22,26.2,2,0,E4G4,Segunda Federación - Grupo IV,Fourth Tier
+139,Kickers Emden,Germany,1946-03-24,0,1030000,22,25.3,0,0,RLN3,Regionalliga Nord,Fourth Tier
+141,Galatasaray,Türkiye,1905-10-01,-20800000,277230000,30,27.0,17,15,TR1,Süper Lig,First Tier
+142,Real Zaragoza,Spain,1932-03-18,4350000,34800000,24,26.0,7,4,ES2,LaLiga2,Second Tier
+144,HNK Rijeka,Croatia,1946-07-29,19800000,24580000,30,24.8,15,5,KR1,SuperSport HNL,First Tier
+148,Tottenham Hotspur,England,1882-09-05,-120050000,846100000,30,25.4,21,19,GB1,Premier League,First Tier
+150,Real Betis Balompié,Spain,1907-09-12,19650000,164950000,25,28.2,12,5,ES1,LaLiga,First Tier
+151,1.FC Kaiserslautern II,Germany,1900-06-02,0,350000,27,20.9,4,0,OLRP,Oberliga Rheinland-Pfalz/Saar,Fifth Tier
+152,Samsunspor,Türkiye,1965-06-30,277000,29030000,27,26.3,12,7,TR1,Süper Lig,First Tier
+156,Levski Sofia,Bulgaria,1914-05-24,5080000,18750000,23,26.3,16,6,BU1,efbet Liga,First Tier
+157,KAA Gent,Belgium,1898-01-01,5630000,79980000,30,25.1,19,5,BE1,Jupiler Pro League,First Tier
+159,Red Star Belgrade,Serbia,1945-03-04,26120000,70550000,28,24.7,15,10,SER1,Super liga Srbije,First Tier
+161,Al-Wahda FC,United Arab Emirates,1983-11-30,-8550000,36550000,25,24.9,15,5,UAE1,UAE Pro League,First Tier
+162,AS Monaco,Monaco,1924-08-23,-41250000,403700000,25,24.4,25,12,FR1,Ligue 1,First Tier
+163,FC Vaduz,Liechtenstein,1932-02-14,0,4950000,25,25.9,20,4,C2,Challenge League,Second Tier
+164,Blackburn Rovers,England,1875-11-05,8610000,52550000,27,27.2,11,5,GB2,Championship,Second Tier
+168,Zaglebie Lubin,Poland,1945-09-10,620000,16030000,34,25.2,4,0,PL1,PKO BP Ekstraklasa,First Tier
+169,Panionios Athens,Greece,1890-09-14,0,4430000,31,27.1,10,1,GRS2,Super League 2,Second Tier
+170,Rapid Vienna,Austria,1899-01-08,4800000,47850000,27,24.6,10,5,A1,Bundesliga,First Tier
+171,Real Murcia CF,Spain,1908-02-20,120000,5900000,26,27.2,7,1,E3G2,Primera Federación - Grupo II,Third Tier
+172,R Charleroi SC,Belgium,1904-01-01,2800000,34100000,26,24.3,17,5,BE1,Jupiler Pro League,First Tier
+173,Odense Boldklub,Denmark,1887-07-12,2370000,12450000,23,24.7,10,4,DK2,1.Division,Second Tier
+175,Lyn 1896 FK,Norway,1896-03-03,260000,2920000,23,23.8,2,0,NO2,OBOS-ligaen,Second Tier
+177,Eintracht Frankfurt II,Germany,1899-03-08,250000,6490000,30,20.7,11,0,RLSW,Regionalliga Südwest,Fourth Tier
+180,Southampton FC,England,1885-11-21,-80560000,275900000,29,26.3,16,9,GB1,Premier League,First Tier
+184,Club Alianza Lima,Peru,1901-02-15,3870000,12230000,35,26.2,8,8,TDeA,Liga 1 Apertura,First Tier
+187,1.FC Magdeburg,Germany,1965-12-22,-100000,20650000,31,25.8,17,2,L2,2. Bundesliga,Second Tier
+189,CA Boca Juniors,Argentina,1905-04-03,13360000,85030000,36,28.0,8,5,ARG1,Torneo Apertura,First Tier
+190,FC Copenhagen,Denmark,1992-07-01,35060000,77550000,28,26.0,19,9,DK1,Superliga,First Tier
+192,Roda JC Kerkrade,Netherlands,1962-06-27,0,8750000,28,24.1,13,1,NL2,Keuken Kampioen Divisie,Second Tier
+195,Rosenborg BK,Norway,1917-05-19,385000,36450000,25,24.2,8,2,NO1,Eliteserien,First Tier
+197,AC Sparta Prague,Czech Republic,1893-11-16,-3100000,90950000,28,25.7,17,14,TS1,Chance Liga,First Tier
+199,Sport Club Corinthians Paulista,Brazil,1910-09-01,16180000,111250000,33,26.3,10,5,BRA1,Campeonato Brasileiro Série A,First Tier
+200,FC Utrecht,Netherlands,1970-07-01,14330000,51400000,27,25.1,17,3,NL1,Eredivisie,First Tier
+202,FC Groningen,Netherlands,1971-06-16,2080000,22430000,28,24.4,9,4,NL1,Eredivisie,First Tier
+206,Bröndby IF,Denmark,1964-12-03,-1610000,55730000,22,25.8,9,4,DK1,Superliga,First Tier
+208,CSKA-Sofia,Bulgaria,2016-06-02,-4000000,22750000,27,26.3,18,10,BU1,efbet Liga,First Tier
+209,CA River Plate,Argentina,1901-05-25,-521000,106500000,29,29.2,4,8,ARG1,Torneo Apertura,First Tier
+210,Grêmio Foot-Ball Porto Alegrense,Brazil,1903-09-15,-125000,93600000,33,26.4,11,3,BRA1,Campeonato Brasileiro Série A,First Tier
+218,San Jose Earthquakes,United States,1994-06-15,-65000,33280000,26,27.5,12,1,MLS1,Major League Soccer,First Tier
+220,FC Gütersloh,Germany,2000-02-23,0,1310000,28,26.9,5,1,RLW3,Regionalliga West,Fourth Tier
+221,Santos FC,Brazil,1912-04-14,6930000,90550000,35,26.5,8,4,BRA1,Campeonato Brasileiro Série A,First Tier
+222,BFC Dynamo,Germany,1966-01-15,0,1910000,25,26.4,6,0,RLN4,Regionalliga Northeast,Fourth Tier
+223,HNK Sibenik,Croatia,1932-12-01,0,7780000,29,26.0,8,0,KR1,SuperSport HNL,First Tier
+225,FC St. Pauli II,Germany,1910-05-15,0,2330000,26,21.4,3,0,RLN3,Regionalliga Nord,Fourth Tier
+232,Spartak Moscow,Russia,1922-04-18,-44490000,121050000,25,26.7,13,13,RU1,Premier Liga,First Tier
+234,Feyenoord Rotterdam,Netherlands,1908-07-19,64500000,280400000,32,24.4,21,13,NL1,Eredivisie,First Tier
+235,RKC Waalwijk,Netherlands,1940-08-26,0,10450000,30,26.4,13,4,NL1,Eredivisie,First Tier
+237,RCD Mallorca,Spain,1916-03-05,11650000,83000000,24,28.8,10,7,ES1,LaLiga,First Tier
+244,Olympique Marseille,France,1899-08-31,-2000000,281600000,27,26.5,22,13,FR1,Ligue 1,First Tier
+245,SC Freiburg II,Germany,1904-05-30,100000,5940000,27,22.3,8,0,RLSW,Regionalliga Südwest,Fourth Tier
+247,SV Meppen,Germany,1912-11-29,0,1860000,24,23.6,3,0,RLN3,Regionalliga Nord,Fourth Tier
+250,Etoile Sportive du Sahel,Tunisia,1925-05-11,114000,6800000,29,25.0,3,2,TUN1,Ligue Professionnelle 1,First Tier
+252,Genoa CFC,Italy,1893-09-07,5040000,144150000,29,26.4,18,6,IT1,Serie A,First Tier
+253,Torpedo Kutaisi,Georgia,1945-11-30,276000,4580000,26,24.9,11,1,GE1N,Erovnuli Liga,First Tier
+254,SV Sandhausen,Germany,1916-08-01,500000,8330000,33,26.4,8,1,L3,3. Liga,Third Tier
+255,Legia Warszawa,Poland,1916-03-10,-5360000,36250000,31,25.2,13,3,PL1,PKO BP Ekstraklasa,First Tier
+256,LKS Lodz,Poland,1908-01-01,530000,6330000,31,24.7,8,0,PL2,Betclic 1 Liga,Second Tier
+282,FK Sarajevo,Bosnia-Herzegovina,1946-10-24,4170000,11680000,32,24.5,18,3,BOS1,Premijer Liga Bosne i Hercegovine,First Tier
+288,Club Estudiantes de La Plata,Argentina,1905-08-04,-6410000,56250000,27,26.4,7,2,ARG1,Torneo Apertura,First Tier
+289,Sunderland AFC,England,1879-10-17,5950000,124880000,29,23.7,16,6,GB2,Championship,Second Tier
+290,AJ Auxerre,France,1905-12-29,1000000,65099999,28,25.2,17,8,FR1,Ligue 1,First Tier
+293,FSV Frankfurt,Germany,1899-08-20,0,2100000,26,24.4,9,1,RLSW,Regionalliga Südwest,Fourth Tier
+294,SL Benfica,Portugal,1904-02-28,86320000,341200000,28,25.1,17,15,PO1,Liga Portugal,First Tier
+299,Wuppertaler SV,Germany,1954-07-08,0,1580000,28,24.0,9,0,RLW3,Regionalliga West,Fourth Tier
+301,FCSB,Romania,1947-06-07,-770000,40780000,32,26.2,10,9,RO1,SuperLiga,First Tier
+306,SC Heerenveen,Netherlands,1920-07-20,4230000,37400000,30,24.2,17,5,NL1,Eredivisie,First Tier
+311,Pohang Steelers,"Korea, South",1973-04-01,-397000,8700000,38,25.0,5,2,RSK1,K League 1,First Tier
+313,SV Waldhof Mannheim U21,Germany,1907-04-11,0,10000,27,20.9,11,0,VLBA,Verbandsliga Nordbaden,Sixth Tier
+314,HNK Cibalia Vinkovci,Croatia,1919-05-07,0,2660000,24,24.3,5,0,KR2,Prva Nogometna Liga,Second Tier
+316,Grazer AK 1902,Austria,1902-08-18,0,8330000,24,27.0,7,2,A1,Bundesliga,First Tier
+317,Twente Enschede FC,Netherlands,1965-07-01,7850000,69000000,25,25.4,12,4,NL1,Eredivisie,First Tier
+318,Ruch Chorzow,Poland,1920-04-20,-155000,6480000,28,26.4,8,0,PL2,Betclic 1 Liga,Second Tier
+321,FC Sion,Switzerland,1909-07-01,2089999,22510000,34,26.2,17,4,C1,Super League,First Tier
+322,Yverdon Sport FC,Switzerland,1897-07-01,2049999,21000000,28,25.8,22,3,C1,Super League,First Tier
+324,Pogon Szczecin,Poland,1948-04-21,-150000,13400000,31,25.0,12,1,PL1,PKO BP Ekstraklasa,First Tier
+327,NK Osijek,Croatia,1947-02-27,1550000,22950000,27,24.9,15,4,KR1,SuperSport HNL,First Tier
+329,Sliema Wanderers,Malta,1908-11-30,0,4070000,23,28.6,13,7,MT1P,Premier League Closing Round,First Tier
+330,Clube Atlético Mineiro,Brazil,1908-03-25,-14960000,92100000,30,26.3,7,3,BRA1,Campeonato Brasileiro Série A,First Tier
+331,CA Osasuna,Spain,1920-11-17,700000,109000000,22,28.4,2,3,ES1,LaLiga,First Tier
+332,SSC Bari,Italy,1908-01-15,-70000,18650000,25,28.0,8,0,IT2,Serie B,Second Tier
+333,CA Lanús,Argentina,1915-01-03,12600000,27630000,29,27.1,4,0,ARG1,Torneo Apertura,First Tier
+336,Sporting CP,Portugal,1906-07-01,-16610000,464000000,25,24.7,14,13,PO1,Liga Portugal,First Tier
+337,Birmingham City,England,1875-03-06,-30460000,44650000,26,27.2,14,7,GB3,League One,Third Tier
+338,Dynamo Kyiv,Ukraine,1927-05-13,-1800000,77250000,28,25.1,2,9,UKR1,Premier Liga,First Tier
+347,FC Metz,France,1932-09-11,19800000,25630000,25,25.8,18,6,FR2,Ligue 2,Second Tier
+349,Barnsley FC,England,1887-01-01,365000,13280000,24,25.5,14,3,GB3,League One,Third Tier
+350,Sheffield United,England,1889-03-22,25120000,124550000,29,25.0,12,6,GB2,Championship,Second Tier
+352,Swindon Town,England,1881-01-01,0,3730000,25,25.6,8,0,GB4,League Two,Fourth Tier
+353,Lillestrøm SK,Norway,1917-04-02,2910000,9530000,28,24.7,9,0,NO2,OBOS-ligaen,Second Tier
+354,KV Mechelen,Belgium,1904-10-01,7440000,32549999,29,25.4,14,3,BE1,Jupiler Pro League,First Tier
+355,Bolton Wanderers,England,1874-01-01,-50000,13130000,26,26.1,13,6,GB3,League One,Third Tier
+358,Charlton Athletic,England,1905-01-01,-265000,9300000,23,26.0,10,4,GB3,League One,Third Tier
+365,Spartak Trnava,Slovakia,1923-05-30,0,8450000,27,28.2,12,2,SLO1,Nike Liga,First Tier
+366,Real Valladolid CF,Spain,1928-06-20,975000,45600000,25,26.7,17,7,ES1,LaLiga,First Tier
+367,Rayo Vallecano,Spain,1924-05-29,2000000,60900000,25,29.8,9,5,ES1,LaLiga,First Tier
+368,Sevilla FC,Spain,1890-01-25,16550000,174500000,23,26.0,13,7,ES1,LaLiga,First Tier
+369,Lyngby Boldklub,Denmark,1921-03-30,2510000,11730000,27,25.5,8,1,DK1,Superliga,First Tier
+370,Aberdeen FC,Scotland,1903-04-14,3170000,22050000,26,25.6,19,7,SC1,Scottish Premiership,First Tier
+371,Celtic FC,Scotland,1887-11-06,12780000,123650000,25,27.2,19,14,SC1,Scottish Premiership,First Tier
+373,KSV Hessen Kassel,Germany,1998-02-03,0,1600000,29,25.8,5,0,RLSW,Regionalliga Südwest,Fourth Tier
+377,FC Banik Ostrava,Czech Republic,1922-09-08,2680000,20350000,28,25.6,10,4,TS1,Chance Liga,First Tier
+379,West Ham United,England,1895-01-01,-98250000,495700000,27,28.4,18,13,GB1,Premier League,First Tier
+380,US Salernitana 1919,Italy,1919-06-19,18800000,29750000,30,25.8,13,4,IT2,Serie B,Second Tier
+383,PSV Eindhoven,Netherlands,1913-08-31,0,347250000,27,25.8,14,13,NL1,Eredivisie,First Tier
+384,MVV Maastricht,Netherlands,1902-04-02,600000,5350000,28,22.7,16,0,NL2,Keuken Kampioen Divisie,Second Tier
+385,Fortuna Sittard,Netherlands,1968-07-01,-250000,23080000,26,26.0,18,0,NL1,Eredivisie,First Tier
+392,1.FC Bocholt,Germany,1900-08-21,0,1840000,23,25.8,4,1,RLW3,Regionalliga West,Fourth Tier
+393,SpVgg Greuther Fürth II,Germany,1903-09-23,0,1880000,27,21.2,6,0,RLB3,Regionalliga Bayern,Fourth Tier
+398,SS Lazio,Italy,1900-01-09,-25550000,282600000,31,26.3,22,12,IT1,Serie A,First Tier
+399,Leeds United,England,1919-10-17,130479999,173500000,23,27.1,18,10,GB2,Championship,Second Tier
+402,FC Hansa Rostock II,Germany,1965-12-28,0,175000,21,22.0,1,0,OBLF,NOFV-Oberliga Nord,Fifth Tier
+403,Willem II Tilburg,Netherlands,1896-08-12,550000,15130000,26,24.7,14,1,NL1,Eredivisie,First Tier
+404,FC Den Bosch,Netherlands,1965-08-18,0,6500000,29,23.4,9,3,NL2,Keuken Kampioen Divisie,Second Tier
+405,Aston Villa,England,1874-03-01,42970000,642150000,24,27.6,16,15,GB1,Premier League,First Tier
+408,Ascoli Calcio,Italy,1898-11-01,2500000,5000000,29,25.8,4,0,IT3B,Serie C - Girone B,Third Tier
+409,Red Bull Salzburg,Austria,1933-09-13,7600000,145550000,28,22.9,23,11,A1,Bundesliga,First Tier
+410,Udinese Calcio,Italy,1896-07-05,-270000,141500000,30,25.9,26,10,IT1,Serie A,First Tier
+413,LASK,Austria,1908-08-01,5300000,29530000,35,25.2,22,5,A1,Bundesliga,First Tier
+415,FC Toulouse,France,1937-01-01,47800000,82350000,23,25.4,17,10,FR1,Ligue 1,First Tier
+416,Torino FC,Italy,1906-12-03,21900000,185700000,29,26.8,24,14,IT1,Serie A,First Tier
+417,OGC Nice,France,1904-07-09,3300000,219600000,27,26.1,16,11,FR1,Ligue 1,First Tier
+418,Real Madrid,Spain,1902-03-06,-33000000,1230000000,23,27.2,17,16,ES1,LaLiga,First Tier
+419,GNK Dinamo Zagreb,Croatia,1911-04-26,7100000,79900000,31,26.4,12,6,KR1,SuperSport HNL,First Tier
+421,Kongsvinger IL,Norway,1892-01-31,0,4330000,22,24.5,8,0,NO2,OBOS-ligaen,Second Tier
+422,Wisla Kraków,Poland,1906-09-01,-12000,7650000,30,25.6,12,0,PL2,Betclic 1 Liga,Second Tier
+428,Górnik Zabrze,Poland,1948-12-14,2710000,13200000,27,25.1,15,3,PL1,PKO BP Ekstraklasa,First Tier
+429,Apollon Limassol,Cyprus,1954-04-14,-550000,13230000,29,27.4,20,7,ZYP1,Cyprus League,First Tier
+430,ACF Fiorentina,Italy,1926-08-29,-31970000,280800000,25,25.8,10,10,IT1,Serie A,First Tier
+432,Chicago Fire FC,United States,1997-10-08,-5720000,37480000,28,25.2,10,3,MLS1,Major League Soccer,First Tier
+434,FC Luzern,Switzerland,1901-04-13,12270000,29980000,25,24.4,13,5,C1,Super League,First Tier
+435,SGV Freiberg,Germany,1973-10-26,0,2180000,24,24.9,9,0,RLSW,Regionalliga Südwest,Fourth Tier
+438,1.FC Köln II,Germany,1948-02-13,-100000,2600000,25,22.3,8,2,RLW3,Regionalliga West,Fourth Tier
+440,Hallescher FC,Germany,1966-01-26,0,2980000,29,24.3,3,0,RLN4,Regionalliga Northeast,Fourth Tier
+443,Vejle Boldklub,Denmark,1891-05-03,5500000,11650000,27,25.4,16,4,DK1,Superliga,First Tier
+446,VfL Bochum II,Germany,1949-07-29,0,200000,23,22.6,4,0,OLW3,Oberliga Westfalen,Fifth Tier
+447,HNK Hajduk Split,Croatia,1911-02-13,-100000,47150000,28,25.7,11,5,KR1,SuperSport HNL,First Tier
+448,FK Vojvodina Novi Sad,Serbia,1914-03-06,2450000,19030000,33,24.8,9,4,SER1,Super liga Srbije,First Tier
+449,Trabzonspor,Türkiye,1967-08-02,-26220000,94150000,27,25.9,13,8,TR1,Süper Lig,First Tier
+450,FK Dukla Prague,Czech Republic,1947-11-30,0,5980000,28,27.9,11,0,TS1,Chance Liga,First Tier
+452,BSC Young Boys,Switzerland,1898-03-14,-100000,61230000,26,25.6,12,10,C1,Super League,First Tier
+455,FC Rapid 1923,Romania,1923-06-25,3050000,27650000,30,25.5,14,6,RO1,SuperLiga,First Tier
+456,HNK Vukovar 1991,Croatia,1990-11-30,0,5620000,29,24.5,12,1,KR2,Prva Nogometna Liga,Second Tier
+459,FC 08 Homburg,Germany,1908-08-01,200000,2480000,25,26.4,4,0,RLSW,Regionalliga Südwest,Fourth Tier
+465,St. Mirren FC,Scotland,1877-01-01,-26000,8300000,24,26.5,18,5,SC1,Scottish Premiership,First Tier
+466,Preston North End,England,1863-01-01,-4630000,42650000,28,27.0,17,6,GB2,Championship,Second Tier
+467,NEC Nijmegen,Netherlands,1900-11-15,-900000,34350000,28,25.3,11,2,NL1,Eredivisie,First Tier
+468,Sparta Rotterdam,Netherlands,1888-04-01,3950000,31900000,25,24.9,9,3,NL1,Eredivisie,First Tier
+472,UD Las Palmas,Spain,1949-08-22,3500000,120400000,25,27.4,9,2,ES1,LaLiga,First Tier
+473,1.FC Nuremberg II,Germany,1900-05-04,0,2500000,27,21.6,6,1,RLB3,Regionalliga Bayern,Fourth Tier
+475,Sint-Truidense VV,Belgium,1924-02-23,16399999,35050000,29,25.3,17,6,BE1,Jupiler Pro League,First Tier
+476,TSV Havelse,Germany,1912-08-05,0,1590000,27,26.9,4,0,RLN3,Regionalliga Nord,Fourth Tier
+479,Slezsky FC Opava,Czech Republic,2015-03-24,-3000,3410000,26,25.1,7,1,TS2,Chance Narodni Liga,Second Tier
+494,Sporting Club de Toulon,France,1945-06-25,0,350000,24,27.7,8,1,CN2A,Championnat National 2 - Groupe A,Fourth Tier
+496,Malmö FF,Sweden,1910-02-24,11750000,38700000,32,26.2,12,6,SE1,Allsvenskan,First Tier
+497,1. FC Lokomotive Leipzig,Germany,1893-11-11,0,2060000,26,25.7,4,1,RLN4,Regionalliga Northeast,Fourth Tier
+499,Vitesse Arnhem,Netherlands,1892-05-14,285000,5030000,27,22.2,5,0,NL2,Keuken Kampioen Divisie,Second Tier
+500,Helmond Sport,Netherlands,1967-07-27,1240000,7000000,26,23.7,16,2,NL2,Keuken Kampioen Divisie,Second Tier
+501,FK Bodø/Glimt,Norway,1916-09-19,10920000,42350000,29,24.8,6,4,NO1,Eliteserien,First Tier
+503,Admira Wacker,Austria,1905-06-17,500000,4980000,27,25.2,9,0,A2,2. Liga,Second Tier
+504,Grasshopper Club Zurich,Switzerland,1886-09-01,50000,21500000,32,24.9,20,8,C1,Super League,First Tier
+506,Juventus FC,Italy,1897-11-01,-87400000,645200000,27,25.4,20,19,IT1,Serie A,First Tier
+537,Botafogo de Futebol e Regatas,Brazil,1894-07-01,-53800000,119000000,30,25.8,5,4,BRA1,Campeonato Brasileiro Série A,First Tier
+540,Slovan Bratislava,Slovakia,1919-05-03,-2700000,27930000,28,27.9,15,7,SLO1,Nike Liga,First Tier
+541,SC Austria Lustenau,Austria,1914-03-30,0,4500000,28,23.9,15,0,A2,2. Liga,Second Tier
+543,Wolverhampton Wanderers,England,1877-01-13,-8210000,390800000,31,26.3,27,18,GB1,Premier League,First Tier
+565,SV Viktoria Aschaffenburg,Germany,1901-08-06,0,990000,26,24.8,3,0,RLB3,Regionalliga Bayern,Fourth Tier
+568,Kaizer Chiefs,South Africa,1970-10-16,-465000,16129999,33,27.3,6,6,SFA1,Betway Premiership,First Tier
+581,CS Sfaxien,Tunisia,1928-05-28,1580000,8900000,30,24.1,4,3,TUN1,Ligue Professionnelle 1,First Tier
+582,Karlsruher SC II,Germany,1952-10-16,0,500000,23,22.9,4,0,VLBA,Verbandsliga Nordbaden,Sixth Tier
+583,Paris Saint-Germain,France,1970-08-12,-109820000,870500000,24,23.7,15,17,FR1,Ligue 1,First Tier
+585,São Paulo Futebol Clube,Brazil,1930-01-25,20250000,76850000,34,27.0,7,7,BRA1,Campeonato Brasileiro Série A,First Tier
+588,FC Dinamo City,Albania,1950-07-19,60000,4800000,26,25.4,10,2,ALB1,Kategoria Superiore,First Tier
+589,Antalyaspor,Türkiye,1966-07-02,-780000,25300000,29,27.3,14,4,TR1,Süper Lig,First Tier
+593,Kyoto Sanga,Japan,1921-11-30,-1400000,14150000,34,26.1,7,0,JAP1,J1 League,First Tier
+595,SC Bastia,France,1905-01-01,3680000,11800000,26,25.0,11,4,FR2,Ligue 2,Second Tier
+596,Gamba Osaka,Japan,1979-11-30,1700000,16880000,29,26.9,4,1,JAP1,J1 League,First Tier
+599,NK Varazdin,Croatia,1931-06-03,2250000,7950000,26,26.0,10,2,KR1,SuperSport HNL,First Tier
+601,KV Kortrijk,Belgium,1901-03-14,-2200000,26950000,27,24.7,17,7,BE1,Jupiler Pro League,First Tier
+602,FK Zalgiris Vilnius,Lithuania,1947-05-16,0,5580000,24,24.8,14,5,LI1,A Lyga,First Tier
+603,Cardiff City,Wales,1899-01-01,620000,46200000,28,26.4,23,8,GB2,Championship,Second Tier
+607,Venezia FC,Italy,1907-01-01,-3500000,66500000,30,26.1,23,10,IT1,Serie A,First Tier
+609,Cruzeiro Esporte Clube,Brazil,1921-01-02,-40090000,95150000,30,27.6,6,4,BRA1,Campeonato Brasileiro Série A,First Tier
+610,Ajax Amsterdam,Netherlands,1900-03-18,56610000,186650000,27,25.8,12,9,NL1,Eredivisie,First Tier
+614,CR Flamengo,Brazil,1895-11-15,-11850000,201250000,31,26.9,7,11,BRA1,Campeonato Brasileiro Série A,First Tier
+615,SpVgg Ansbach,Germany,1908-11-30,0,770000,23,25.3,3,0,RLB3,Regionalliga Bayern,Fourth Tier
+618,AS Saint-Étienne,France,1933-06-01,-8100000,52700000,27,26.7,12,5,FR1,Ligue 1,First Tier
+621,Athletic Bilbao,Spain,1898-01-01,-8750000,352900000,23,27.5,1,6,ES1,LaLiga,First Tier
+623,New York Red Bulls,United States,1995-10-17,7580000,40300000,32,23.7,17,6,MLS1,Major League Soccer,First Tier
+625,Neuchâtel Xamax FCS,Switzerland,1910-06-16,100000,5750000,27,26.0,13,0,C2,Challenge League,Second Tier
+626,New England Revolution,United States,1995-10-17,-11940000,34550000,28,25.5,14,4,MLS1,Major League Soccer,First Tier
+628,FK Velez Mostar,Bosnia-Herzegovina,1922-06-26,200000,5500000,26,25.3,13,2,BOS1,Premijer Liga Bosne i Hercegovine,First Tier
+630,Racing Santander,Spain,1913-06-14,-400000,36650000,26,26.3,5,1,ES2,LaLiga2,Second Tier
+631,Chelsea FC,England,1905-03-10,-47100000,928500000,30,23.6,18,12,GB1,Premier League,First Tier
+634,MTK Budapest,Hungary,1888-11-16,0,8980000,27,25.7,6,4,UNG1,Nemzeti Bajnokság,First Tier
+641,Middlesbrough FC,England,1876-01-01,1960000,102250000,27,26.1,16,10,GB2,Championship,Second Tier
+642,De Graafschap Doetinchem,Netherlands,1954-02-01,1170000,9150000,29,24.7,7,0,NL2,Keuken Kampioen Divisie,Second Tier
+648,CD Tenerife,Spain,1922-08-08,1700000,14600000,25,28.5,5,0,ES2,LaLiga2,Second Tier
+653,OFI Crete FC,Greece,1925-09-01,1400000,14530000,33,26.0,15,3,GR1,Super League 1,First Tier
+660,Shakhtar Donetsk,Ukraine,1936-05-24,-150000,151630000,30,23.8,12,9,UKR1,Premier Liga,First Tier
+663,Dinamo Tbilisi,Georgia,1925-09-01,1400000,5330000,33,23.0,7,1,GE1N,Erovnuli Liga,First Tier
+664,Zamalek SC,Egypt,1911-01-05,-2570000,15650000,37,26.5,7,9,EGY1,Egyptian Premier League,First Tier
+667,RC Strasbourg Alsace,France,1906-01-01,-55400000,194650000,26,22.6,18,7,FR1,Ligue 1,First Tier
+668,Sportfreunde Lotte,Germany,1929-01-01,0,2200000,26,26.5,4,0,RLW3,Regionalliga West,Fourth Tier
+669,FK Partizan Belgrade,Serbia,1945-10-04,3730000,25630000,36,24.7,14,5,SER1,Super liga Srbije,First Tier
+672,JEF United Chiba,Japan,1945-11-30,0,10590000,34,27.8,4,0,JAP2,J2 League,Second Tier
+675,Slavia Sofia,Bulgaria,1913-04-10,0,5880000,26,25.5,5,2,BU1,efbet Liga,First Tier
+677,Ipswich Town,England,1878-10-16,-150230000,274500000,29,26.8,14,11,GB1,Premier League,First Tier
+679,Club Athletico Paranaense,Brazil,1924-03-26,41740000,38300000,32,26.3,8,1,BRA2,Campeonato Brasileiro Série B,Second Tier
+681,Real Sociedad,Spain,1908-11-30,24350000,421000000,25,25.5,8,12,ES1,LaLiga,First Tier
+683,Olympiacos Piraeus,Greece,1925-03-10,-7310000,107750000,26,26.3,18,11,GR1,Super League 1,First Tier
+687,Molde FK,Norway,1911-06-19,3110000,25100000,30,25.6,6,0,NO1,Eliteserien,First Tier
+697,FC Slovan Liberec,Czech Republic,1958-07-12,-2049999,12430000,27,24.4,11,3,TS1,Chance Liga,First Tier
+698,Bristol City,England,1894-01-01,-4900000,43550000,24,25.8,12,5,GB2,Championship,Second Tier
+699,Helsingborgs IF,Sweden,1907-06-04,0,4650000,20,22.8,7,0,SE2,Superettan,Second Tier
+701,Trelleborgs FF,Sweden,1926-12-06,0,3600000,23,23.5,7,0,SE2,Superettan,Second Tier
+703,Nottingham Forest,England,1865-01-01,-18800000,406180000,24,27.1,19,13,GB1,Premier League,First Tier
+704,Calcio Foggia 1920,Italy,1920-07-05,-40000,4440000,25,25.4,5,0,IT3C,Serie C - Girone C,Third Tier
+708,Újpest FC,Hungary,1885-06-16,-2020000,14300000,31,26.2,13,3,UNG1,Nemzeti Bajnokság,First Tier
+709,Budapest Honvéd FC,Hungary,1909-08-03,0,2930000,30,26.3,3,0,UN2,Nemzeti Bajnokság II.,Second Tier
+710,NK Celje,Slovenia,1919-12-28,1100000,13630000,29,26.2,17,5,SL1,Prva Liga,First Tier
+711,Siarka Tarnobrzeg,Poland,1957-01-01,0,25000,26,23.6,3,0,PL34,Betclic 3 Liga - Group IV,Fourth Tier
+713,BATE Borisov,Belarus,1996-04-12,200000,3850000,23,23.6,6,0,WER1,Vysheyshaya Liga,First Tier
+714,RCD Espanyol Barcelona,Spain,1900-10-20,1100000,69500000,28,26.0,8,2,ES1,LaLiga,First Tier
+715,Bohemians Prague 1905,Czech Republic,1904-11-30,80000,6410000,29,28.5,5,2,TS1,Chance Liga,First Tier
+720,FC Porto,Portugal,1893-09-28,116740000,303100000,26,25.2,14,8,PO1,Liga Portugal,First Tier
+723,Almere City FC,Netherlands,2001-09-14,1150000,13330000,28,26.0,21,7,NL1,Eredivisie,First Tier
+724,FC Volendam,Netherlands,1977-06-01,800000,6880000,28,24.8,7,4,NL2,Keuken Kampioen Divisie,Second Tier
+730,Lokomotiv Sofia,Bulgaria,1929-09-02,100000,6450000,26,27.5,11,2,BU1,efbet Liga,First Tier
+738,Le Havre AC,France,1872-01-01,11250000,67150000,27,26.3,15,4,FR1,Ligue 1,First Tier
+739,KS Besa,Albania,1925-01-01,0,1400000,26,26.8,13,0,ALB2,Kategoria e Parë,Second Tier
+743,ZSKA Dushanbe,Tajikistan,1947-02-05,0,225000,23,25.0,5,1,TAD1,Vysshaya Liga,First Tier
+747,FC Baden 1897,Switzerland,1897-07-01,0,1550000,31,24.9,6,0,CHPR,Promotion League,Third Tier
+749,FC Empoli,Italy,1920-03-30,11050000,88000000,28,26.2,16,5,IT1,Serie A,First Tier
+750,FC Sochaux-Montbéliard,France,1928-01-01,250000,7150000,28,26.8,10,4,FR3,Championnat National,Third Tier
+752,SpVgg Bayreuth,Germany,1921-07-23,0,1790000,23,24.9,3,0,RLB3,Regionalliga Bayern,Fourth Tier
+767,SV Lippstadt 08,Germany,1997-06-04,0,25000,26,23.6,1,0,OLW3,Oberliga Westfalen,Fifth Tier
+776,Coritiba Foot Ball Club,Brazil,1909-10-12,6640000,15200000,29,27.5,3,1,BRA2,Campeonato Brasileiro Série B,Second Tier
+786,AEL Limassol,Cyprus,1930-10-04,4000,9500000,33,25.5,15,5,ZYP1,Cyprus League,First Tier
+788,FK Napredak Krusevac,Serbia,1946-12-08,0,8279999,32,25.8,3,0,SER1,Super liga Srbije,First Tier
+789,NK Rudar Velenje,Slovenia,1948-08-05,0,1100000,30,23.0,11,0,SL2,Druga Liga,Second Tier
+790,NK Maribor,Slovenia,1960-12-12,150000,11700000,26,25.9,15,4,SL1,Prva Liga,First Tier
+798,Excelsior Rotterdam,Netherlands,1902-07-23,5050000,12880000,28,23.1,9,1,NL2,Keuken Kampioen Divisie,Second Tier
+800,Atalanta BC,Italy,1907-10-17,11450000,475600000,26,27.6,14,20,IT1,Serie A,First Tier
+801,IFK Göteborg,Sweden,1904-10-04,9810000,16850000,26,24.0,12,1,SE1,Allsvenskan,First Tier
+804,FK Trinec,Czech Republic,1920-11-30,0,300000,24,24.6,5,0,CZ3M,Moravskoslezska fotbalova liga,Third Tier
+810,Hapoel Haifa,Israel,1924-01-01,375000,6900000,26,26.9,6,3,ISR1,Ligat ha'Al,First Tier
+813,Columbus Crew,United States,1994-06-15,16890000,37700000,23,26.7,12,7,MLS1,Major League Soccer,First Tier
+814,FK Teplice,Czech Republic,1944-11-30,1400000,11490000,32,24.7,7,0,TS1,Chance Liga,First Tier
+819,Club Africain,Tunisia,1920-10-04,-580000,10950000,30,24.8,9,8,TUN1,Ligue Professionnelle 1,First Tier
+820,Genclerbirligi Ankara,Türkiye,1923-03-14,55000,6480000,26,27.7,8,0,TR2,1.Lig,Second Tier
+826,RC Lens,France,1906-01-01,73190000,118900000,26,26.7,17,10,FR1,Ligue 1,First Tier
+828,Urawa Red Diamonds,Japan,1949-11-30,-150000,21780000,31,27.5,5,1,JAP1,J1 League,First Tier
+830,CA Banfield,Argentina,1896-01-21,6480000,19480000,30,25.4,7,2,ARG1,Torneo Apertura,First Tier
+839,AC Perugia Calcio,Italy,1905-06-09,1250000,5000000,30,24.9,9,0,IT3B,Serie C - Girone B,Third Tier
+840,Enosis Neon Paralimniou,Cyprus,1936-02-20,0,4250000,30,24.4,16,1,ZYP1,Cyprus League,First Tier
+850,FC Wil 1900,Switzerland,1899-11-30,0,5350000,27,23.4,8,0,C2,Challenge League,Second Tier
+851,1.FSV Mainz 05 II,Germany,1905-03-16,0,2850000,27,22.2,6,0,RLSW,Regionalliga Südwest,Fourth Tier
+853,F91 Dudelange,Luxembourg,1991-04-26,0,1930000,28,24.2,13,2,LUX1,BGL Ligue,First Tier
+855,EA Guingamp,France,1912-01-01,3100000,14750000,26,25.8,8,3,FR2,Ligue 2,Second Tier
+861,CA Peñarol,Uruguay,1891-09-28,2200000,30100000,30,27.7,3,3,URU1,Liga AUF Apertura,First Tier
+862,Chievo Verona,Italy,1928-11-30,0,1080000,23,25.0,2,0,IT4B,Serie D - Girone B,Fourth Tier
+865,FC Midtjylland,Denmark,1999-07-01,-3450000,67400000,28,24.8,21,10,DK1,Superliga,First Tier
+866,Club Nacional,Uruguay,1899-05-14,13190000,18430000,29,26.9,6,7,URU1,Liga AUF Apertura,First Tier
+868,MKE Ankaragücü,Türkiye,1910-08-31,2200000,9830000,27,27.2,13,2,TR2,1.Lig,Second Tier
+873,Crystal Palace,England,1905-09-10,8800000,428450000,27,26.0,12,13,GB1,Premier League,First Tier
+875,Adelaide United,Australia,2002-11-30,3000000,6800000,30,24.4,5,0,AUS1,A-League Men,First Tier
+895,AS Cannes,France,1902-01-01,0,150000,23,28.9,8,2,CN2A,Championnat National 2 - Groupe A,Fourth Tier
+897,Deportivo de La Coruña,Spain,1906-05-11,-2100000,19750000,26,27.8,9,0,ES2,LaLiga2,Second Tier
+899,Walsall FC,England,1888-01-01,300000,5050000,30,25.2,13,4,GB4,League Two,Fourth Tier
+920,Derry City,Northern Ireland,1927-11-30,-40000,4130000,26,27.4,18,0,IR1,League of Ireland Premier Division,First Tier
+924,Istanbulspor,Türkiye,1926-01-04,500000,8250000,28,24.7,9,3,TR2,1.Lig,Second Tier
+928,Club Atlético Platense,Argentina,1905-05-25,-1320000,23180000,31,25.5,5,1,ARG1,Torneo Apertura,First Tier
+932,Lokomotiv Moscow,Russia,1922-07-23,7520000,86800000,24,24.8,5,12,RU1,Premier Liga,First Tier
+935,LASK Amateure OÖ,Austria,2007-05-16,0,50000,33,19.7,16,0,ATRM,Regional League Central,Third Tier
+936,Schwarz-Weiß Bregenz,Austria,2005-06-27,100000,4030000,24,24.9,7,0,A2,2. Liga,Second Tier
+937,Júbilo Iwata,Japan,1971-11-30,685000,10300000,30,26.8,6,0,JAP2,J2 League,Second Tier
+938,FC Thun,Switzerland,1898-05-04,480000,7800000,26,25.1,7,1,C2,Challenge League,Second Tier
+939,SR Delémont,Switzerland,1909-08-17,0,1400000,24,25.4,16,0,CHPR,Promotion League,Third Tier
+940,Celta de Vigo,Spain,1923-08-23,12500000,85800000,24,26.9,6,4,ES1,LaLiga,First Tier
+941,FC Viktoria Plzen,Czech Republic,1911-03-01,4830000,49950000,27,25.4,10,9,TS1,Chance Liga,First Tier
+943,Yokohama FC,Japan,1998-11-30,0,9950000,34,27.0,5,0,JAP1,J1 League,First Tier
+947,Boldklubben af 1893,Denmark,1893-05-19,1050000,4130000,27,25.2,4,0,DK2,1.Division,Second Tier
+951,FC 08 Villingen,Germany,1908-10-01,0,590000,26,24.8,3,0,RLSW,Regionalliga Südwest,Fourth Tier
+952,UTA Arad,Romania,1945-04-18,855000,8880000,27,27.1,16,7,RO1,SuperLiga,First Tier
+964,Zenit St. Petersburg,Russia,1925-05-25,-33409999,177800000,28,26.9,14,13,RU1,Premier Liga,First Tier
+967,Cherno More Varna,Bulgaria,1913-03-03,1500000,6930000,23,27.5,9,6,BU1,efbet Liga,First Tier
+968,KVC Westerlo,Belgium,1933-09-05,9500000,56500000,30,24.6,20,5,BE1,Jupiler Pro League,First Tier
+969,Montpellier HSC,France,1974-01-01,27000000,62550000,25,26.6,15,6,FR1,Ligue 1,First Tier
+970,Perth Glory,Australia,1995-12-01,297000,6530000,30,26.1,6,2,AUS1,A-League Men,First Tier
+972,Yeovil Town,England,1895-01-01,0,550000,22,25.9,7,0,CNAT,National League,Fifth Tier
+978,Clube de Regatas Vasco da Gama,Brazil,1898-08-21,-10380000,84750000,37,27.5,12,3,BRA1,Campeonato Brasileiro Série A,First Tier
+979,Moreirense FC,Portugal,1938-11-01,2600000,24950000,27,26.0,17,3,PO1,Liga Portugal,First Tier
+983,TSG 1899 Hoffenheim II,Germany,1899-07-01,-80000,3200000,29,21.5,16,1,RLSW,Regionalliga Südwest,Fourth Tier
+984,West Bromwich Albion,England,1878-11-01,-4110000,75400000,26,26.6,14,9,GB2,Championship,Second Tier
+985,Manchester United,England,1902-04-24,-143300000,724050000,26,26.3,18,19,GB1,Premier League,First Tier
+986,Cambridge United,England,1912-01-01,0,7150000,35,26.4,8,3,GB3,League One,Third Tier
+987,Motherwell FC,Scotland,1886-05-17,1590000,14200000,34,25.8,24,4,SC1,Scottish Premiership,First Tier
+988,Oxford United,England,1893-10-27,-3820000,19430000,30,27.4,16,6,GB2,Championship,Second Tier
+989,AFC Bournemouth,England,1899-01-01,-60790000,367700000,25,24.8,18,13,GB1,Premier League,First Tier
+990,Coventry City,England,1883-01-01,-17250000,85450000,28,25.7,13,5,GB2,Championship,Second Tier
+993,Córdoba CF,Spain,1953-11-30,700000,10500000,23,25.8,4,0,ES2,LaLiga2,Second Tier
+995,FC Nantes,France,1943-04-21,1050000,102050000,26,27.0,13,8,FR1,Ligue 1,First Tier
+997,Lüner SV,Germany,1945-08-26,0,10000,28,25.3,9,0,VLW2,Westfalenliga 2,Sixth Tier
+999,NK Istra 1961,Croatia,1947-11-30,2350000,10050000,29,24.0,15,0,KR1,SuperSport HNL,First Tier
+1000,TSG Sprockhövel,Germany,1907-03-24,0,10000,28,25.3,5,0,VLW2,Westfalenliga 2,Sixth Tier
+1002,FC Flora Tallinn,Estonia,1990-03-10,0,3410000,28,22.1,0,8,EST1,Premium Liiga,First Tier
+1003,Leicester City,England,1884-01-01,-41800000,281300000,29,26.8,21,15,GB1,Premier League,First Tier
+1005,US Lecce,Italy,1908-03-16,45500000,73580000,34,24.9,29,7,IT1,Serie A,First Tier
+1006,Borussia Mönchengladbach II,Germany,1900-08-01,200000,3340000,24,21.9,8,0,RLW3,Regionalliga West,Fourth Tier
+1007,FC U Craiova 1948,Romania,2017-03-18,800000,3710000,30,24.2,8,1,RO2,Liga 2,Second Tier
+1008,HJK Helsinki,Finland,1907-06-19,1260000,6280000,27,24.1,6,4,FI1,Veikkausliiga,First Tier
+1010,Watford FC,England,1881-01-01,26720000,47700000,26,25.3,19,7,GB2,Championship,Second Tier
+1011,Halmstads BK,Sweden,1914-03-06,0,8450000,27,25.0,11,1,SE1,Allsvenskan,First Tier
+1017,Hapoel Tel Aviv,Israel,1926-01-01,876000,5400000,30,26.1,7,1,ISR2,Liga Leumit,Second Tier
+1020,Portsmouth FC,England,1898-04-05,-4600000,24600000,33,25.4,16,4,GB2,Championship,Second Tier
+1022,Cerezo Osaka,Japan,1956-11-30,310000,16450000,29,26.9,6,1,JAP1,J1 League,First Tier
+1023,Sociedade Esportiva Palmeiras,Brazil,1914-08-26,46150000,230450000,31,25.6,8,7,BRA1,Campeonato Brasileiro Série A,First Tier
+1025,Bologna FC 1909,Italy,1909-10-03,51670000,251800000,28,26.2,19,12,IT1,Serie A,First Tier
+1027,Bradford City,England,1903-05-25,0,5000000,28,27.3,10,0,GB4,League Two,Fourth Tier
+1028,Millwall FC,England,1885-01-01,4059999,40030000,32,25.6,12,3,GB2,Championship,Second Tier
+1029,CA Vélez Sarsfield,Argentina,1910-01-01,-3920000,63430000,30,24.7,3,2,ARG1,Torneo Apertura,First Tier
+1030,AA Argentinos Juniors,Argentina,1904-08-15,7650000,33380000,29,26.1,7,0,ARG1,Torneo Apertura,First Tier
+1031,Luton Town,England,1885-04-11,-7350000,96780000,31,26.9,19,7,GB2,Championship,Second Tier
+1032,Reading FC,England,1871-12-25,3550000,9100000,26,24.4,16,6,GB3,League One,Third Tier
+1033,Valur Reykjavík,Iceland,1911-05-11,135000,3050000,27,26.1,4,0,IS1,Besta deild,First Tier
+1034,Grimsby Town,England,1878-01-01,-135000,3530000,24,25.5,5,0,GB4,League Two,Fourth Tier
+1035,Sheffield Wednesday,England,1867-09-04,-4350000,37000000,28,27.8,17,7,GB2,Championship,Second Tier
+1037,Club Universidad de Chile,Chile,1927-05-24,-943000,27230000,31,27.0,7,10,CLPD,Liga de Primera,First Tier
+1038,UC Sampdoria,Italy,1946-08-12,7900000,35800000,30,27.6,8,2,IT2,Serie B,Second Tier
+1039,Queens Park Rangers,England,1882-01-01,-4270000,50850000,31,25.0,20,6,GB2,Championship,Second Tier
+1041,Olympique Lyon,France,1950-08-03,-79740000,218930000,23,26.5,16,11,FR1,Ligue 1,First Tier
+1042,Crewe Alexandra,England,1877-01-01,600000,5430000,28,24.1,7,1,GB4,League Two,Fourth Tier
+1044,Djurgårdens IF,Sweden,1891-03-12,11550000,23280000,28,26.0,12,4,SE1,Allsvenskan,First Tier
+1045,Notts County,England,1862-11-28,570000,4850000,25,25.8,10,1,GB4,League Two,Fourth Tier
+1047,Como 1907,Italy,1907-05-25,-93000000,137950000,32,26.5,23,4,IT1,Serie A,First Tier
+1049,Valencia CF,Spain,1919-03-18,28650000,239900000,26,25.8,9,5,ES1,LaLiga,First Tier
+1050,Villarreal CF,Spain,1923-03-10,11500000,216100000,24,27.4,11,11,ES1,LaLiga,First Tier
+1053,Aalborg BK,Denmark,1885-05-13,7000000,15030000,26,23.3,15,1,DK1,Superliga,First Tier
+1056,Örebro SK,Sweden,1908-10-28,0,2890000,25,22.7,7,2,SE2,Superettan,Second Tier
+1062,Shimizu S-Pulse,Japan,1991-07-04,-1500000,9750000,32,26.3,4,1,JAP1,J1 League,First Tier
+1063,Viborg FF,Denmark,1896-04-01,1080000,21750000,25,23.7,12,3,DK1,Superliga,First Tier
+1064,Maccabi Haifa,Israel,1913-01-01,6540000,23540000,31,27.1,11,12,ISR1,Ligat ha'Al,First Tier
+1065,Hannover 96 II,Germany,1896-04-12,0,6150000,33,21.9,7,3,L3,3. Liga,Third Tier
+1066,Nagoya Grampus,Japan,1938-11-30,-350000,15030000,35,27.4,3,0,JAP1,J1 League,First Tier
+1070,CA Colón,Argentina,1905-05-05,-315000,5010000,26,27.6,2,0,ARG2,Primera Nacional,Second Tier
+1071,Wigan Athletic,England,1932-01-01,8420000,10630000,33,24.6,9,2,GB3,League One,Third Tier
+1072,Peterborough United,England,1934-05-17,4010000,10950000,26,23.2,10,1,GB3,League One,Third Tier
+1074,Tranmere Rovers,England,1884-01-01,0,3980000,29,27.4,9,1,GB4,League Two,Fourth Tier
+1075,SC Braga,Portugal,1921-01-19,39070000,109100000,25,24.9,15,1,PO1,Liga Portugal,First Tier
+1076,Esteghlal FC,Iran,1945-09-26,-1580000,13450000,30,26.5,5,8,IRN1,Persian Gulf Pro League,First Tier
+1078,Oldham Athletic,England,1899-07-04,0,850000,29,28.2,8,2,CNAT,National League,Fifth Tier
+1080,Stade Lavallois,France,1902-07-17,0,11050000,26,28.4,11,5,FR2,Ligue 2,Second Tier
+1082,LOSC Lille,France,1944-09-23,39000000,297350000,26,27.2,18,12,FR1,Ligue 1,First Tier
+1083,FC Rostov,Russia,1930-05-10,8670000,47830000,26,25.0,8,8,RU1,Premier Liga,First Tier
+1084,Málaga CF,Spain,1947-11-30,1800000,12000000,26,26.1,5,0,ES2,LaLiga2,Second Tier
+1088,Rochdale AFC,England,1907-01-01,470000,100000,24,25.4,7,1,CNAT,National League,Fifth Tier
+1090,AZ Alkmaar,Netherlands,1967-05-10,27500000,78100000,28,24.1,7,4,NL1,Eredivisie,First Tier
+1091,PAOK Thessaloniki,Greece,1926-04-20,23850000,93680000,31,29.0,24,11,GR1,Super League 1,First Tier
+1092,IF Brommapojkarna,Sweden,1942-01-01,1520000,9900000,34,23.5,14,4,SE1,Allsvenskan,First Tier
+1095,ESTAC Troyes,France,1986-01-01,28000000,17830000,25,26.7,13,4,FR2,Ligue 2,Second Tier
+1096,Royal Antwerp FC,Belgium,1880-09-01,43600000,60800000,32,24.2,15,4,BE1,Jupiler Pro League,First Tier
+1098,Stockport County,England,1883-01-01,-450000,11200000,25,26.6,6,1,GB3,League One,Third Tier
+1099,Bath City,England,1889-09-18,0,50000,25,26.2,2,0,NLS6,National League South,Sixth Tier
+1100,SK Brann,Norway,1908-09-26,550000,21230000,26,23.8,6,2,NO1,Eliteserien,First Tier
+1101,IF Elfsborg,Sweden,1904-06-26,5410000,19280000,26,26.0,9,3,SE1,Allsvenskan,First Tier
+1102,Vaasan Palloseura,Finland,1924-09-26,0,3680000,30,24.2,11,0,FI1,Veikkausliiga,First Tier
+1103,Ternana Calcio,Italy,1925-10-02,525000,8250000,28,27.7,4,0,IT3B,Serie C - Girone B,Third Tier
+1104,ACR Messina,Italy,1900-12-01,40000,3180000,27,26.1,7,3,IT3C,Serie C - Girone C,Third Tier
+1105,Ravenna FC,Italy,1913-01-01,0,2650000,29,25.2,3,0,IT4D,Serie D - Girone D,Fourth Tier
+1106,Club de Gimnasia y Esgrima La Plata,Argentina,1887-06-03,4160000,17050000,29,26.7,7,3,ARG1,Torneo Apertura,First Tier
+1108,Deportivo Alavés,Spain,1921-01-23,9790000,78300000,25,26.4,10,4,ES1,LaLiga,First Tier
+1109,BK Häcken,Sweden,1940-08-02,70000,17300000,24,25.9,10,2,SE1,Allsvenskan,First Tier
+1110,Huddersfield Town,England,1908-01-01,730000,18580000,28,27.5,13,7,GB3,League One,Third Tier
+1112,Wrexham AFC,Wales,1864-10-22,-4960000,13300000,33,27.8,31,1,GB3,League One,Third Tier
+1118,Örgryte IS,Sweden,1887-12-04,0,3800000,22,25.8,4,1,SE2,Superettan,Second Tier
+1123,Norwich City,England,1902-06-17,6850000,93000000,28,24.3,19,11,GB2,Championship,Second Tier
+1124,Fakel Voronezh,Russia,1947-01-10,170000,13050000,24,28.1,6,1,RU1,Premier Liga,First Tier
+1132,Burnley FC,England,1882-01-01,53320000,178800000,30,25.8,17,8,GB2,Championship,Second Tier
+1134,Associação Atlética Ponte Preta,Brazil,1900-08-11,0,7200000,34,29.5,1,0,BCP1,Campeonato Paulista,Regional Championship
+1143,CD El Nacional,Ecuador,1964-06-01,0,6850000,29,28.7,0,0,EC1N,LigaPro Serie A,First Tier
+1146,Club Necaxa,Mexico,1923-08-21,-3820000,43900000,27,25.2,10,4,MEXA,Liga MX Apertura,First Tier
+1147,AC Ajaccio,France,1910-03-01,1250000,7750000,24,27.2,10,1,FR2,Ligue 2,Second Tier
+1148,Brentford FC,England,1889-10-09,-23900000,422850000,26,25.3,21,12,GB1,Premier League,First Tier
+1150,Leyton Orient,England,1881-01-01,0,9430000,30,25.4,11,2,GB3,League One,Third Tier
+1154,Red Star FC,France,1897-02-21,0,10300000,27,26.6,9,3,FR2,Ligue 2,Second Tier
+1158,FC Lorient,France,1926-04-02,18160000,56900000,25,25.2,15,9,FR2,Ligue 2,Second Tier
+1164,Le Mans FC,France,1985-06-12,0,3630000,27,24.7,6,1,FR3,Championnat National,Third Tier
+1165,FC Martigues,France,1921-12-01,0,6650000,25,27.6,11,5,FR2,Ligue 2,Second Tier
+1167,Shkendija Tetovo,North Macedonia,1979-08-27,-205000,5080000,22,25.7,8,0,MAZ1,Prva Makedonska Fudbalska Liga,First Tier
+1170,FC Dieppe,France,1896-11-18,0,150000,21,25.6,2,0,C3BR,Championnat National 3 - Groupe E,Fifth Tier
+1171,Holstein Kiel II,Germany,1900-10-07,0,2000000,27,22.0,5,0,RLN3,Regionalliga Nord,Fourth Tier
+1175,LB Châteauroux,France,1883-01-01,0,3630000,28,26.4,12,4,FR3,Championnat National,Third Tier
+1176,Racing Ferrol,Spain,1919-10-05,1800000,10900000,25,29.0,4,0,ES2,LaLiga2,Second Tier
+1177,Silkeborg IF,Denmark,1917-04-26,7660000,14650000,22,24.6,5,2,DK1,Superliga,First Tier
+1180,Dinamo Minsk,Belarus,1927-06-18,1080000,6100000,27,23.5,3,3,WER1,Vysheyshaya Liga,First Tier
+1181,Blackpool FC,England,1887-07-26,700000,9330000,23,26.1,6,1,GB3,League One,Third Tier
+1184,KRC Genk,Belgium,1988-07-01,78300000,107900000,26,22.7,14,6,BE1,Jupiler Pro League,First Tier
+1185,FH Hafnarfjördur,Iceland,1929-10-14,0,1610000,23,25.1,1,0,IS1,Besta deild,First Tier
+1186,Torpedo Moscow,Russia,1924-08-17,-3690000,15100000,28,24.9,6,2,RU2,1.Division,Second Tier
+1189,St. Patrick's Athletic,Ireland,1929-05-31,0,4050000,32,24.3,7,0,IR1,League of Ireland Premier Division,First Tier
+1191,Falkirk FC,Scotland,1877-01-01,0,3430000,25,25.9,4,0,SC2,Scottish Championship,Second Tier
+1192,Ayr United FC,Scotland,1910-01-01,0,4080000,23,25.5,7,1,SC2,Scottish Championship,Second Tier
+1193,Bahlinger SC,Germany,1929-06-16,0,1060000,27,25.3,5,0,RLSW,Regionalliga Südwest,Fourth Tier
+1194,Rotherham United,England,1870-01-01,2400000,10200000,23,28.1,7,0,GB3,League One,Third Tier
+1195,Kidderminster Harriers,England,1885-11-30,0,75000,26,26.8,2,1,NLN6,National League North,Sixth Tier
+1198,Lincoln City,England,1884-01-01,340000,7780000,26,25.5,13,1,GB3,League One,Third Tier
+1210,US Livorno 1915,Italy,1915-02-15,0,2520000,32,25.0,2,0,IT4E,Serie D - Girone E,Fourth Tier
+1211,Port Vale FC,England,1876-03-06,0,4830000,30,25.4,6,0,GB4,League Two,Fourth Tier
+1212,Eintracht Braunschweig II,Germany,1895-12-15,0,50000,30,20.9,6,0,OBLN,Oberliga Niedersachsen,Fifth Tier
+1214,Club Cerro Porteño,Paraguay,1912-10-01,38000,31950000,31,27.3,10,4,PR1A,Primera División Apertura,First Tier
+1216,FC Ismaning,Germany,1920-11-30,0,10000,31,23.3,15,0,OLB2,Bayernliga Süd,Fifth Tier
+1219,Chesterfield FC,England,1866-01-01,0,4680000,30,28.4,9,1,GB4,League Two,Fourth Tier
+1220,Carlisle United,England,1904-05-17,-75000,5030000,33,25.9,12,1,GB4,League Two,Fourth Tier
+1225,FC Haka,Finland,1934-01-01,0,2280000,24,24.8,10,1,FI1,Veikkausliiga,First Tier
+1226,Geylang International,Singapore,1973-11-30,0,2049999,22,26.9,6,5,SIN1,Singapore Premier League,First Tier
+1228,TOP Oss,Netherlands,1928-04-09,0,4130000,25,24.7,9,2,NL2,Keuken Kampioen Divisie,Second Tier
+1230,Al-Arabi SC,Qatar,1951-11-30,-8900000,29250000,27,27.8,10,8,QSL,Qatar Stars League,First Tier
+1231,ÍA Akranes,Iceland,1945-11-30,0,1890000,22,25.6,3,0,IS1,Besta deild,First Tier
+1234,CA Independiente,Argentina,1905-01-01,-1080000,34130000,27,26.5,7,2,ARG1,Torneo Apertura,First Tier
+1236,Östers IF,Sweden,2017-09-17,500000,6530000,30,24.5,6,0,SE1,Allsvenskan,First Tier
+1237,Brighton & Hove Albion,England,1901-07-24,-229960000,549400000,28,26.1,20,17,GB1,Premier League,First Tier
+1241,Livingston FC,Scotland,1943-01-01,0,3630000,24,27.8,11,0,SC2,Scottish Championship,Second Tier
+1242,NK Siroki Brijeg,Bosnia-Herzegovina,1948-01-01,0,3930000,26,25.9,13,0,BOS1,Premijer Liga Bosne i Hercegovine,First Tier
+1244,CD Leganés,Spain,1928-06-23,910000,46500000,24,27.9,11,3,ES1,LaLiga,First Tier
+1245,KAS Eupen,Belgium,1945-08-18,1000000,10450000,33,24.1,19,3,BE2,Challenger Pro League,Second Tier
+1247,Colorado Rapids,United States,1995-10-17,1150000,38080000,27,24.4,10,3,MLS1,Major League Soccer,First Tier
+1251,Cliftonville FC,Northern Ireland,1879-09-20,0,2750000,30,24.5,11,0,NIR1,Premiership,First Tier
+1252,York City,England,1921-11-30,-420000,175000,25,26.6,5,0,CNAT,National League,Fifth Tier
+1253,Lucchese 1905,Italy,1905-05-25,35000,3280000,29,26.5,7,0,IT3B,Serie C - Girone B,Third Tier
+1257,Jeunesse Esch,Luxembourg,1907-08-13,0,1270000,30,27.6,21,1,LUX1,BGL Ligue,First Tier
+1268,ADO Den Haag,Netherlands,1905-02-01,350000,6930000,26,24.2,10,3,NL2,Keuken Kampioen Divisie,Second Tier
+1269,PEC Zwolle,Netherlands,1910-06-12,-600000,22750000,26,25.0,12,5,NL1,Eredivisie,First Tier
+1270,Dunfermline Athletic FC,Scotland,1885-06-02,0,3230000,27,24.8,14,1,SC2,Scottish Championship,Second Tier
+1274,Stabæk Fotball,Norway,1912-03-16,0,13750000,28,23.9,7,0,NO2,OBOS-ligaen,Second Tier
+1277,FC Schaffhausen,Switzerland,1896-07-01,350000,4930000,32,23.8,17,1,C2,Challenge League,Second Tier
+1283,FC Emmen,Netherlands,1925-08-21,-150000,5980000,24,24.4,13,0,NL2,Keuken Kampioen Divisie,Second Tier
+1286,CA Newell's Old Boys,Argentina,1903-11-03,6600000,20530000,28,26.7,4,1,ARG1,Torneo Apertura,First Tier
+1290,Grenoble Foot 38,France,1892-01-01,900000,10800000,25,26.3,13,3,FR2,Ligue 2,Second Tier
+1292,Etoile Carouge FC,Switzerland,1904-07-01,0,4330000,24,25.7,11,1,C2,Challenge League,Second Tier
+1293,Tromsø IL,Norway,1920-09-15,5330000,16930000,28,24.9,6,0,NO1,Eliteserien,First Tier
+1301,CS Marítimo,Portugal,1910-09-20,500000,9680000,29,25.3,12,2,PO2,Liga Portugal 2,Second Tier
+1302,Northampton Town,England,1897-01-01,0,9130000,31,26.8,9,2,GB3,League One,Third Tier
+1304,Heracles Almelo,Netherlands,1903-05-03,-352000,15730000,29,24.6,15,3,NL1,Eredivisie,First Tier
+1306,Danubio FC,Uruguay,1932-03-01,340000,5700000,24,27.1,1,0,URU1,Liga AUF Apertura,First Tier
+1307,FC Pistoiese,Italy,1921-04-11,0,1890000,24,25.1,2,0,IT4D,Serie D - Girone D,Fourth Tier
+1316,TSV Aubstadt,Germany,1920-11-30,0,1350000,30,24.9,4,0,RLB3,Regionalliga Bayern,Fourth Tier
+1321,SK Dynamo Ceske Budejovice,Czech Republic,1900-03-02,440000,4830000,27,26.3,11,2,TS1,Chance Liga,First Tier
+1322,FK Jablonec,Czech Republic,1945-11-03,-200000,9100000,25,27.0,9,3,TS1,Chance Liga,First Tier
+1328,Bremer SV,Germany,1906-01-01,50000,650000,26,24.4,5,0,RLN3,Regionalliga Nord,Fourth Tier
+1385,Modena FC,Italy,1912-04-05,-3480000,18500000,28,26.9,7,0,IT2,Serie B,Second Tier
+1386,Reggina 1914,Italy,1914-01-11,0,1970000,29,26.4,11,0,IT4I,Serie D - Girone I,Fourth Tier
+1387,Siena FC,Italy,1904-09-13,0,960000,26,25.0,3,0,IT4E,Serie D - Girone E,Fourth Tier
+1388,Ancona Calcio,Italy,1905-03-05,0,1390000,24,23.2,4,0,IT4F,Serie D - Girone F,Fourth Tier
+1390,Cagliari Calcio,Italy,1920-05-30,5800000,74700000,24,27.0,11,8,IT1,Serie A,First Tier
+1391,Zalaegerszegi TE FC,Hungary,1919-11-30,700000,6800000,26,25.2,8,0,UNG1,Nemzeti Bajnokság,First Tier
+1402,Olympiakos Nicosia,Cyprus,1931-01-23,0,75000,30,24.1,7,0,CYP2,2. Division,Second Tier
+1403,Santos Laguna,Mexico,1983-09-04,-2330000,34400000,24,27.0,9,4,MEXA,Liga MX Apertura,First Tier
+1408,Piacenza Calcio 1919,Italy,1919-06-30,130000,2060000,30,25.1,4,0,IT4D,Serie D - Girone D,Fourth Tier
+1418,CA Rosario Central,Argentina,1889-12-24,-4190000,38430000,29,27.2,7,1,ARG1,Torneo Apertura,First Tier
+1420,Angers SCO,France,1919-10-19,474000,36850000,28,26.8,16,8,FR1,Ligue 1,First Tier
+1421,Stade Reims,France,1931-06-18,39350000,116400000,25,24.8,18,8,FR1,Ligue 1,First Tier
+1423,Valenciennes FC,France,1913-01-01,5500000,8480000,29,25.2,11,0,FR3,Championnat National,Third Tier
+1426,VVV-Venlo,Netherlands,1903-02-07,350000,5850000,29,24.3,8,1,NL2,Keuken Kampioen Divisie,Second Tier
+1429,Cesena FC,Italy,2018-08-02,550000,23150000,29,24.6,6,2,IT2,Serie B,Second Tier
+1434,SC Telstar,Netherlands,1963-07-17,300000,4500000,25,25.6,4,2,NL2,Keuken Kampioen Divisie,Second Tier
+1435,Go Ahead Eagles,Netherlands,1902-12-02,6600000,20130000,25,24.3,11,1,NL1,Eredivisie,First Tier
+1443,MSK Zilina,Slovakia,1908-06-20,1250000,12750000,25,22.7,7,1,SLO1,Nike Liga,First Tier
+1444,Racing Club,Argentina,1903-03-25,-5280000,73550000,28,26.7,4,1,ARG1,Torneo Apertura,First Tier
+1455,FC Dordrecht,Netherlands,1972-07-01,1060000,7530000,30,22.3,15,1,NL2,Keuken Kampioen Divisie,Second Tier
+1462,FC Bayern Munich U19,Germany,1900-02-27,500000,1200000,29,18.2,13,0,19LA,U19 DFB-Nachwuchsliga - Hauptrunde Liga A,Youth league
+1463,FC Schalke 04 U19,Germany,1904-05-04,0,300000,28,18.0,10,0,19LA,U19 DFB-Nachwuchsliga - Hauptrunde Liga A,Youth league
+1464,Borussia Dortmund U19,Germany,1909-12-19,4080000,1500000,25,17.9,14,0,19LA,U19 DFB-Nachwuchsliga - Hauptrunde Liga A,Youth league
+1465,Estoril Praia,Portugal,1939-05-17,5750000,26100000,26,24.7,18,4,PO1,Liga Portugal,First Tier
+1467,Göztepe,Türkiye,1925-06-14,-475000,33350000,27,25.6,15,3,TR1,Süper Lig,First Tier
+1468,FV Illertissen,Germany,1920-11-30,0,1910000,24,23.9,5,0,RLB3,Regionalliga Bayern,Fourth Tier
+1471,DJK Vilzing,Germany,1967-05-03,0,1200000,25,26.2,3,0,RLB3,Regionalliga Bayern,Fourth Tier
+1496,FK Pardubice,Czech Republic,2007-11-30,1200000,8550000,33,24.2,11,0,TS1,Chance Liga,First Tier
+1508,7 Eylül Turgutlu 1984,Türkiye,1984-01-01,0,10000,31,23.8,0,0,TR4D,3.Lig Grup 4,Fourth Tier
+1515,Zonguldak Spor FK,Türkiye,1966-01-01,0,150000,31,25.0,0,0,TR4D,3.Lig Grup 4,Fourth Tier
+1519,Dundee United FC,Scotland,1909-05-24,40000,9130000,22,26.6,13,4,SC1,Scottish Premiership,First Tier
+1531,Elche CF,Spain,1922-08-28,-3450000,33750000,28,26.9,10,1,ES2,LaLiga2,Second Tier
+1532,Albacete Balompié,Spain,1940-08-01,2400000,11950000,24,28.0,1,0,ES2,LaLiga2,Second Tier
+1533,SD Eibar,Spain,1940-11-30,5200000,20150000,25,27.2,1,0,ES2,LaLiga2,Second Tier
+1536,Burgos CF,Spain,1982-11-30,0,26750000,26,27.6,7,2,ES2,LaLiga2,Second Tier
+1557,Würzburger Kickers,Germany,1907-11-17,0,2250000,21,26.4,2,0,RLB3,Regionalliga Bayern,Fourth Tier
+1564,FC Rouen 1899,France,1899-07-11,0,4050000,28,26.2,7,0,FR3,Championnat National,Third Tier
+1615,Schwaben Augsburg,Germany,1847-01-01,0,725000,26,25.3,5,0,RLB3,Regionalliga Bayern,Fourth Tier
+1622,FC Viktoria Köln,Germany,2010-06-22,500000,6150000,29,24.9,3,0,L3,3. Liga,Third Tier
+1627,Catania FC,Italy,1929-08-28,-245000,5620000,34,26.3,3,0,IT3C,Serie C - Girone C,Third Tier
+1694,FC Eintracht Bamberg,Germany,2010-07-05,0,585000,28,24.4,3,0,RLB3,Regionalliga Bayern,Fourth Tier
+1701,FC Felgueiras 1932,Portugal,2006-05-08,1100000,6080000,28,27.0,7,0,PO2,Liga Portugal 2,Second Tier
+1750,GKS Tychy,Poland,1971-04-20,0,4750000,30,23.8,8,0,PL2,Betclic 1 Liga,Second Tier
+1751,América FC,Brazil,1915-07-14,0,100000,30,28.6,0,0,BRNE,Copa do Nordeste,Further Cup
+1755,Guarani Futebol Clube (SP),Brazil,1911-04-02,-28000,5700000,34,25.0,1,0,BCP1,Campeonato Paulista,Regional Championship
+1771,CSD Tristan Suarez,Argentina,1929-08-08,0,2630000,26,26.5,0,0,ARG2,Primera Nacional,Second Tier
+1775,CA San Lorenzo de Almagro,Argentina,1908-04-01,15010000,34430000,26,26.1,5,0,ARG1,Torneo Apertura,First Tier
+1799,FC Rustavi,Georgia,1948-01-01,0,200000,28,25.3,5,0,GEO2,Erovnuli Liga 2,Second Tier
+1804,Deportivo Toluca,Mexico,1917-02-12,-12650000,71950000,26,26.5,10,4,MEXA,Liga MX Apertura,First Tier
+1826,Quilmes AC,Argentina,1887-11-27,115000,3050000,23,28.3,2,1,ARG2,Primera Nacional,Second Tier
+1829,Instituto ACC,Argentina,1918-08-08,4420000,26380000,29,26.3,2,0,ARG1,Torneo Apertura,First Tier
+1837,Panachaiki GE,Greece,1891-06-14,100000,4150000,34,26.2,13,0,GRS2,Super League 2,Second Tier
+2035,Avaí FC,Brazil,1923-09-01,-100000,9050000,26,29.6,1,0,BRA2,Campeonato Brasileiro Série B,Second Tier
+2036,1.FC Heidenheim 1846,Germany,1972-05-27,9450000,65180000,28,26.8,4,1,L1,Bundesliga,First Tier
+2038,Sogndal IL,Norway,1926-02-19,3300000,3750000,21,23.4,7,1,NO2,OBOS-ligaen,Second Tier
+2047,AC Bellinzona,Switzerland,1904-07-01,0,5080000,27,25.9,15,1,C2,Challenge League,Second Tier
+2049,KF Tirana,Albania,1920-08-15,250000,4400000,27,24.4,10,1,ALB1,Kategoria Superiore,First Tier
+2053,FC Bulle,Switzerland,1910-07-01,0,1380000,25,24.8,11,0,CHPR,Promotion League,Third Tier
+2055,FC La Chaux-de-Fonds,Switzerland,1894-07-01,0,75000,31,23.0,19,0,CHC1,1. Liga Classic group 1,Fourth Tier
+2056,FC Schötz,Switzerland,1927-07-01,0,25000,26,26.4,7,0,CHC2,1. Liga Classic group 2,Fourth Tier
+2063,CA Huracán,Argentina,1908-11-01,10970000,23000000,28,27.5,4,2,ARG1,Torneo Apertura,First Tier
+2068,Raja Club Athletic,Morocco,1949-03-20,3590000,9080000,25,26.3,5,4,MAR1,Botola Pro Inwi,First Tier
+2073,SC Chabab Mohammédia,Morocco,1948-11-30,154000,3000000,23,22.7,1,0,MAR1,Botola Pro Inwi,First Tier
+2074,SC Kriens,Switzerland,1944-06-14,0,2380000,28,24.6,3,0,CHPR,Promotion League,Third Tier
+2118,Wisla Plock,Poland,1947-01-01,0,4250000,30,25.7,12,3,PL2,Betclic 1 Liga,Second Tier
+2125,Esporte Clube Vitória,Brazil,1899-05-13,1980000,32530000,35,28.0,1,0,BRA1,Campeonato Brasileiro Série A,First Tier
+2154,CA Chacarita Juniors,Argentina,1906-05-01,414000,5090000,29,28.0,1,0,ARG2,Primera Nacional,Second Tier
+2155,FC Biel-Bienne 1896,Switzerland,1896-11-13,0,2880000,28,24.1,9,0,CHPR,Promotion League,Third Tier
+2156,AEK Larnaca,Cyprus,1994-07-18,-310000,12500000,29,28.5,20,1,ZYP1,Cyprus League,First Tier
+2157,FC Blau-Weiss Linz,Austria,1997-08-01,400000,11480000,30,26.0,11,0,A1,Bundesliga,First Tier
+2190,Belasitsa Petrich,Bulgaria,1923-07-01,0,1420000,22,25.8,3,0,BU2,Vtora Liga,Second Tier
+2205,ES Zarzis,Tunisia,1933-11-30,289000,3500000,40,25.9,7,0,TUN1,Ligue Professionnelle 1,First Tier
+2209,FK Borac 1926 Cacak,Serbia,1926-05-01,0,2160000,28,25.2,5,0,SER2,Prva liga Srbije,Second Tier
+2232,SV Wallern,Austria,1971-11-30,0,25000,25,25.0,2,0,ATRM,Regional League Central,Third Tier
+2239,US Cremonese,Italy,1903-03-24,-1600000,31900000,27,27.8,9,2,IT2,Serie B,Second Tier
+2241,Kashima Antlers,Japan,1946-11-30,2100000,18150000,29,25.5,5,0,JAP1,J1 League,First Tier
+2250,AC Prato,Italy,1908-10-27,0,1500000,31,23.0,1,0,IT4D,Serie D - Girone D,Fourth Tier
+2251,Treviso FBC 1993,Italy,1909-01-18,0,1940000,25,24.6,4,0,IT4C,Serie D - Girone C,Fourth Tier
+2253,SEF Torres 1903,Italy,1903-03-19,170000,4880000,23,29.3,4,1,IT3B,Serie C - Girone B,Third Tier
+2254,Pro Sesto 1913,Italy,1912-11-30,0,1250000,21,22.8,1,0,IT4B,Serie D - Girone B,Fourth Tier
+2259,Lokomotiv Plovdiv,Bulgaria,1926-07-25,685000,6050000,26,24.9,11,2,BU1,efbet Liga,First Tier
+2262,Plymouth Argyle,England,1886-01-01,5680000,30200000,28,25.4,16,10,GB2,Championship,Second Tier
+2275,Turun Palloseura,Finland,1922-10-24,0,325000,17,21.8,1,0,FI2,Ykkösliiga,Second Tier
+2282,Club Brugge KV,Belgium,1891-11-13,40600000,150000000,26,24.3,16,8,BE1,Jupiler Pro League,First Tier
+2288,Swansea City,Wales,1912-09-07,-5430000,44100000,24,27.1,19,8,GB2,Championship,Second Tier
+2292,Elazigspor,Türkiye,1966-11-30,0,2310000,25,26.6,0,0,TR3B,2.Lig Kirmizi,Third Tier
+2293,Konyaspor,Türkiye,1922-06-22,-2370000,21830000,31,27.2,15,2,TR1,Süper Lig,First Tier
+2294,Landskrona BoIS,Sweden,1915-02-07,1450000,4830000,26,22.8,3,0,SE2,Superettan,Second Tier
+2296,CD Numancia,Spain,1945-04-09,0,3180000,24,26.5,5,0,E4G1,Segunda Federación - Grupo I,Fourth Tier
+2300,Jagiellonia Bialystok,Poland,1920-05-30,3330000,22000000,27,25.2,15,2,PL1,PKO BP Ekstraklasa,First Tier
+2303,Cape Town City FC,South Africa,2016-06-29,1250000,9150000,32,25.8,6,2,SFA1,Betway Premiership,First Tier
+2311,SK Sigma Olomouc,Czech Republic,1919-09-01,-100000,12150000,34,26.0,7,2,TS1,Chance Liga,First Tier
+2319,Inegölspor,Türkiye,1954-05-16,0,1480000,26,24.0,1,0,TR3A,2.Lig Beyaz,Third Tier
+2330,Karsiyaka,Türkiye,1912-11-01,0,75000,23,27.4,2,0,TR4A,3.Lig Grup 1,Fourth Tier
+2331,US Avellino 1912,Italy,1912-12-12,0,7250000,28,27.9,6,0,IT3C,Serie C - Girone C,Third Tier
+2350,Millonarios FC,Colombia,1946-06-18,-240000,18880000,32,28.1,4,4,COLP,Liga Dimayor Apertura,First Tier
+2351,Deportes Quindío,Colombia,1951-01-08,0,2590000,31,26.0,4,0,CO2T,Torneo DIMAYOR I,Second Tier
+2352,CD América de Cali,Colombia,1927-02-13,-1010000,19100000,28,28.1,5,3,COLP,Liga Dimayor Apertura,First Tier
+2364,First Vienna FC,Austria,1894-08-22,0,5000000,27,25.0,5,0,A2,2. Liga,Second Tier
+2374,Shinnik Yaroslavl,Russia,1957-01-15,0,5630000,26,25.6,4,0,RU2,1.Division,Second Tier
+2375,Altay SK,Türkiye,1914-01-16,0,600000,26,24.4,0,0,TR3A,2.Lig Beyaz,Third Tier
+2378,Muglaspor,Türkiye,2016-07-14,0,50000,23,26.3,1,0,TR4B,3.Lig Grup 2,Fourth Tier
+2381,Sivasspor,Türkiye,1967-05-09,-150000,22630000,31,28.1,15,4,TR1,Süper Lig,First Tier
+2394,SV Kapfenberg,Austria,1919-09-14,0,4010000,33,22.7,11,0,A2,2. Liga,Second Tier
+2395,SC YF Juventus Zürich,Switzerland,1903-07-01,0,450000,32,26.9,13,2,CHC3,1. Liga Classic group 3,Fourth Tier
+2402,Defensa y Justicia,Argentina,1935-03-20,4300000,30850000,33,26.0,3,1,ARG1,Torneo Apertura,First Tier
+2403,Montevideo Wanderers,Uruguay,1902-08-15,390000,6200000,28,27.2,1,3,URU1,Liga AUF Apertura,First Tier
+2407,CF Monterrey,Mexico,1945-06-28,5790000,79000000,27,28.3,8,7,MEXA,Liga MX Apertura,First Tier
+2410,CSKA Moscow,Russia,1911-08-27,7250000,79900000,25,25.3,12,9,RU1,Premier Liga,First Tier
+2411,FC Locarno,Switzerland,1906-07-01,0,100000,21,29.5,5,0,CIR3,2. Liga interregional - Gruppe 3,Fifth Tier
+2414,AC Horsens,Denmark,1994-01-01,-3120000,10630000,29,24.3,15,1,DK2,1.Division,Second Tier
+2417,Club Atlético Belgrano,Argentina,1905-03-19,7150000,37680000,29,27.2,3,3,ARG1,Torneo Apertura,First Tier
+2420,Vitória Guimarães SC,Portugal,1922-09-22,34230000,47330000,26,26.1,13,3,PO1,Liga Portugal,First Tier
+2423,CD Santa Clara,Portugal,1921-01-31,1520000,23600000,23,26.1,14,0,PO1,Liga Portugal,First Tier
+2424,Gil Vicente FC,Portugal,1924-05-03,8020000,25750000,27,25.3,20,5,PO1,Liga Portugal,First Tier
+2425,Rio Ave FC,Portugal,1939-05-10,-4440000,35530000,29,23.7,21,2,PO1,Liga Portugal,First Tier
+2431,CF Estrela Amadora,Portugal,1932-01-22,5750000,13950000,29,25.9,14,3,PO1,Liga Portugal,First Tier
+2432,SC União Torreense,Portugal,1917-05-01,1650000,8350000,31,24.2,24,1,PO2,Liga Portugal 2,Second Tier
+2433,CSD Colo-Colo,Chile,1925-04-19,4840000,31500000,30,26.8,6,11,CLPD,Liga de Primera,First Tier
+2440,D.C. United,United States,1994-06-15,-3960000,27600000,27,25.3,15,6,MLS1,Major League Soccer,First Tier
+2441,AEK Athens,Greece,1924-04-13,19300000,63650000,28,29.3,20,11,GR1,Super League 1,First Tier
+2446,WSG Tirol,Austria,1930-01-01,0,8650000,27,24.8,10,0,A1,Bundesliga,First Tier
+2448,Sporting Gijón,Spain,1905-06-01,4530000,28700000,25,26.8,5,1,ES2,LaLiga2,Second Tier
+2451,Inverness Caledonian Thistle FC,Scotland,1994-05-15,0,100000,24,22.2,6,0,SC3,Scottish League One,Third Tier
+2454,Doncaster Rovers,England,1879-09-01,0,4030000,24,26.3,6,1,GB4,League Two,Fourth Tier
+2455,Bristol Rovers,England,1883-09-01,-380000,7930000,29,25.7,9,3,GB3,League One,Third Tier
+2462,Fluminense Football Club,Brazil,1902-07-21,26270000,66750000,36,28.1,9,5,BRA1,Campeonato Brasileiro Série A,First Tier
+2463,Sakaryaspor,Türkiye,1965-06-17,-519000,6000000,31,28.3,10,1,TR2,1.Lig,Second Tier
+2464,FC Barcelona Atlètic,Spain,1969-11-30,750000,10950000,33,19.7,10,1,E3G1,Primera Federación - Grupo I,Third Tier
+2468,Al-Ansar FC,Lebanon,1951-01-01,0,4900000,27,27.2,3,6,LIB1,Lebanese Premier League,First Tier
+2481,FC Sheriff Tiraspol,Moldova,1997-04-04,90000,8600000,28,23.5,23,6,MO1N,Super Liga,First Tier
+2486,FC St. Pauli U19,Germany,1910-05-15,0,100000,23,18.0,2,0,19LB,U19 DFB-Nachwuchsliga - Hauptrunde Liga B,Youth league
+2491,SV Werder Bremen U19,Germany,1899-02-04,0,50000,23,18.3,4,0,19LA,U19 DFB-Nachwuchsliga - Hauptrunde Liga A,Youth league
+2497,Real Oviedo,Spain,1926-03-26,300000,32799999,24,28.7,9,2,ES2,LaLiga2,Second Tier
+2502,CD Castellón,Spain,1922-07-22,-925000,15050000,26,27.6,17,2,ES2,LaLiga2,Second Tier
+2503,Boavista FC,Portugal,1903-08-01,5000000,17250000,34,26.3,19,4,PO1,Liga Portugal,First Tier
+2509,Hamburger SV U19,Germany,1887-09-29,0,600000,27,18.2,5,0,19LA,U19 DFB-Nachwuchsliga - Hauptrunde Liga A,Youth league
+2517,VfB Stuttgart U19,Germany,1893-09-09,800000,750000,27,18.2,12,1,19LA,U19 DFB-Nachwuchsliga - Hauptrunde Liga A,Youth league
+2521,FC Alverca,Portugal,1939-09-01,0,6580000,28,26.3,21,0,PO2,Liga Portugal 2,Second Tier
+2531,Botev Plovdiv,Bulgaria,1912-03-11,3910000,11450000,23,25.2,15,4,BU1,efbet Liga,First Tier
+2553,Kilmarnock FC,Scotland,1869-01-05,0,12280000,24,27.2,9,2,SC1,Scottish Premiership,First Tier
+2557,Orlando Pirates,South Africa,1937-01-01,-561000,21850000,34,27.1,3,11,SFA1,Betway Premiership,First Tier
+2573,FK Zeljeznicar Sarajevo,Bosnia-Herzegovina,1921-09-15,0,6350000,24,25.6,13,1,BOS1,Premijer Liga Bosne i Hercegovine,First Tier
+2575,Clyde FC,Scotland,1877-01-01,0,100000,27,25.2,1,0,SC4,Scottish League Two,Fourth Tier
+2576,Fylkir Reykjavík,Iceland,1967-05-28,0,740000,25,24.0,0,0,IS2,Lengjudeild,Second Tier
+2577,Hartlepool United,England,1908-06-05,0,50000,26,26.9,3,0,CNAT,National League,Fifth Tier
+2578,St. Johnstone FC,Scotland,1884-01-01,0,7730000,28,25.8,21,3,SC1,Scottish Premiership,First Tier
+2580,Istres Football Club,France,1920-01-01,0,500000,23,27.1,6,1,CN2A,Championnat National 2 - Groupe A,Fourth Tier
+2581,Mantova 1911,Italy,1911-03-24,-170000,11900000,28,26.9,1,0,IT2,Serie B,Second Tier
+2582,Busan IPark,"Korea, South",1979-11-22,0,5230000,34,25.5,4,0,RSK2,K League 2,Second Tier
+2598,FK Pribram,Czech Republic,1928-10-01,0,375000,27,23.3,8,0,CZ3C,Ceska fotbalova liga,Third Tier
+2612,SpVgg Greuther Fürth U19,Germany,1903-09-23,0,25000,22,18.0,3,0,19LB,U19 DFB-Nachwuchsliga - Hauptrunde Liga B,Youth league
+2639,União de Leiria,Portugal,1966-06-06,-120000,7330000,26,26.7,18,3,PO2,Liga Portugal 2,Second Tier
+2643,ZFC Meuselwitz,Germany,1948-10-04,0,885000,20,25.9,2,0,RLN4,Regionalliga Northeast,Fourth Tier
+2655,LR Vicenza,Italy,1902-03-09,420000,7030000,24,27.5,2,0,IT3A,Serie C - Girone A,Third Tier
+2660,FC Victoria Rosport,Luxembourg,1928-10-01,25000,1830000,24,26.5,11,1,LUX1,BGL Ligue,First Tier
+2662,SKN St. Pölten,Austria,2000-06-01,50000,5380000,27,25.7,14,2,A2,2. Liga,Second Tier
+2665,Union Sandersdorf,Germany,1911-05-01,0,25000,25,24.1,2,0,OBLG,NOFV-Oberliga Süd,Fifth Tier
+2667,SG Dynamo Schwerin,Germany,2003-11-27,0,50000,22,24.2,10,0,OBLF,NOFV-Oberliga Nord,Fifth Tier
+2671,PAS Giannina,Greece,1966-07-08,300000,3380000,28,23.6,6,1,GRS2,Super League 2,Second Tier
+2672,APO Levadiakos,Greece,1961-07-20,0,10380000,29,26.8,16,2,GR1,Super League 1,First Tier
+2692,Egersunds IK,Norway,1919-09-16,725000,3410000,22,24.7,5,1,NO2,OBOS-ligaen,Second Tier
+2696,Krylya Sovetov Samara,Russia,1942-04-12,1810000,37900000,29,26.8,8,6,RU1,Premier Liga,First Tier
+2697,Sanfrecce Hiroshima,Japan,1937-11-30,-2000000,19130000,30,27.5,4,1,JAP1,J1 League,First Tier
+2698,Rubin Kazan,Russia,1958-04-20,-4250000,33200000,24,26.5,12,5,RU1,Premier Liga,First Tier
+2712,Nyva Ternopil,Ukraine,1977-11-30,0,880000,23,22.5,0,0,UKR2,Persha Liga,Second Tier
+2714,FC Zimbru Chisinau,Moldova,1947-05-16,250000,5480000,30,24.1,13,3,MO1N,Super Liga,First Tier
+2715,RFC Seraing,Belgium,2016-01-30,0,5480000,26,22.2,15,0,BE2,Challenger Pro League,Second Tier
+2719,Mjällby AIF,Sweden,1939-07-01,2210000,11750000,30,24.0,11,2,SE1,Allsvenskan,First Tier
+2722,SPAL,Italy,1906-11-30,290000,4950000,30,27.1,8,0,IT3B,Serie C - Girone B,Third Tier
+2723,Santiago Wanderers,Chile,1892-08-15,0,5030000,28,26.9,6,0,CL2B,Liga de Ascenso,Second Tier
+2727,Oud-Heverlee Leuven,Belgium,1957-12-20,7800000,40700000,27,24.8,15,2,BE1,Jupiler Pro League,First Tier
+2734,FBC Melgar,Peru,1915-03-25,823000,9910000,33,25.8,9,1,TDeA,Liga 1 Apertura,First Tier
+2740,Vorskla Poltava,Ukraine,1954-11-30,2600000,9130000,26,25.4,5,1,UKR1,Premier Liga,First Tier
+2741,Baltika Kaliningrad,Russia,1954-08-23,-991000,12650000,25,26.2,5,3,RU2,1.Division,Second Tier
+2745,Polonia Warsaw,Poland,1911-11-19,0,3780000,28,25.8,7,0,PL2,Betclic 1 Liga,Second Tier
+2759,Ross County FC,Scotland,1929-01-01,0,6080000,24,25.5,19,2,SC1,Scottish Premiership,First Tier
+2760,Partick Thistle FC,Scotland,1876-01-01,0,3780000,22,27.0,3,0,SC2,Scottish Championship,Second Tier
+2761,FK Haugesund,Norway,1993-10-28,1240000,8350000,25,23.1,12,2,NO1,Eliteserien,First Tier
+2773,1.FC Phönix Lübeck,Germany,1903-01-13,0,1710000,27,24.4,11,0,RLN3,Regionalliga Nord,Fourth Tier
+2778,FC Nordsjaelland,Denmark,2003-07-01,57860000,22400000,27,22.9,15,3,DK1,Superliga,First Tier
+2781,FC Petrzalka,Slovakia,1898-06-07,0,1640000,26,23.2,9,0,SK2,MONACObet liga,Second Tier
+2784,APOEL Nicosia,Cyprus,1926-11-08,-500000,17300000,33,27.5,26,7,ZYP1,Cyprus League,First Tier
+2785,Hapoel Ramat Gan,Israel,1927-01-01,68000,3480000,32,24.4,3,0,ISR2,Liga Leumit,Second Tier
+2790,FC Lugano,Switzerland,1908-07-28,-1350000,57930000,31,25.0,19,5,C1,Super League,First Tier
+2793,Southend United,England,1906-01-01,145000,600000,22,26.1,5,1,CNAT,National League,Fifth Tier
+2795,Raith Rovers FC,Scotland,1883-01-01,0,3950000,23,27.9,4,0,SC2,Scottish Championship,Second Tier
+2796,Woking FC,England,1889-05-17,0,350000,24,26.9,8,0,CNAT,National League,Fifth Tier
+2797,Ebbsfleet United,England,1946-04-01,0,475000,35,27.6,7,2,CNAT,National League,Fifth Tier
+2802,Airdrieonians FC,Scotland,2002-06-01,200000,2550000,26,24.1,5,0,SC2,Scottish Championship,Second Tier
+2804,Barnet FC,England,1888-01-01,0,500000,28,26.8,7,2,CNAT,National League,Fifth Tier
+2805,Wycombe Wanderers,England,1887-01-01,-1510000,9480000,32,26.7,16,2,GB3,League One,Third Tier
+2814,Gillingham FC,England,1893-05-18,0,4250000,32,25.3,7,0,GB4,League Two,Fourth Tier
+2817,Strømsgodset IF,Norway,1907-02-10,0,11050000,23,25.7,4,2,NO1,Eliteserien,First Tier
+2824,Ajax Amsterdam U19,Netherlands,1900-03-18,-1200000,750000,24,18.0,7,0,NLAJ,U19 Division 1 Spring,Youth league
+2827,Hertha BSC U19,Germany,1892-07-25,0,450000,28,18.4,9,0,19LA,U19 DFB-Nachwuchsliga - Hauptrunde Liga A,Youth league
+2832,Gaziantep FK,Türkiye,1988-06-30,-3400000,21600000,27,27.1,14,2,TR1,Süper Lig,First Tier
+2843,GIF Sundsvall,Sweden,1903-08-25,0,3030000,20,24.2,5,1,SE2,Superettan,Second Tier
+2844,IFK Norrköping,Sweden,1897-05-29,600000,11350000,24,24.4,11,1,SE1,Allsvenskan,First Tier
+2855,SD Compostela,Spain,1962-06-29,0,2780000,24,27.1,2,0,E4G1,Segunda Federación - Grupo I,Fourth Tier
+2863,América Futebol Clube (MG),Brazil,1912-04-30,1500000,13830000,33,26.1,2,0,BRA2,Campeonato Brasileiro Série B,Second Tier
+2867,Recreativo Huelva,Spain,1889-12-23,300000,3980000,26,26.6,9,0,E3G2,Primera Federación - Grupo II,Third Tier
+2891,SuperSport United,South Africa,1994-07-01,800000,11750000,37,25.8,8,7,SFA1,Betway Premiership,First Tier
+2919,AC Monza,Italy,1912-09-01,34750000,91980000,31,26.4,11,4,IT1,Serie A,First Tier
+2921,Delfino Pescara 1936,Italy,1936-07-04,1430000,5430000,27,24.7,3,0,IT3B,Serie C - Girone B,Third Tier
+2925,FC Lahti,Finland,1996-01-01,0,1000000,19,21.7,4,0,FI2,Ykkösliiga,Second Tier
+2931,Wollongong Wolves FC,Australia,1980-01-01,0,200000,28,24.7,4,1,A2SW,National Premier League - New South Wales,Second Tier
+2943,FC Hertha 03 Zehlendorf,Germany,1903-03-10,0,480000,26,23.5,5,1,RLN4,Regionalliga Northeast,Fourth Tier
+2944,Sincan Belediyesi Ankaraspor,Türkiye,1978-03-21,0,1060000,31,24.9,0,0,TR3A,2.Lig Beyaz,Third Tier
+2958,ACV Assen,Netherlands,1939-04-08,0,75000,31,25.3,3,1,NTD,Tweede Divisie,Third Tier
+2961,Moss FK,Norway,1906-08-28,200000,3730000,25,22.9,7,1,NO2,OBOS-ligaen,Second Tier
+2963,Burton Albion,England,1949-11-30,-590000,5800000,31,24.5,18,3,GB3,League One,Third Tier
+2969,Dijon FCO,France,1998-07-01,3130000,4200000,25,26.0,6,1,FR3,Championnat National,Third Tier
+2972,Football Bourg-en-Bresse Péronnas 01,France,1942-01-01,0,2530000,23,25.0,4,1,FR3,Championnat National,Third Tier
+2974,Francs Borains,Belgium,1922-05-15,0,6750000,30,23.7,16,2,BE2,Challenger Pro League,Second Tier
+2976,Hapoel Beer Sheva,Israel,1949-05-01,-1400000,16430000,23,28.5,7,7,ISR1,Ligat ha'Al,First Tier
+2984,AO Egaleo,Greece,1946-01-01,0,3800000,34,23.9,6,0,GRS2,Super League 2,Second Tier
+2990,Académica Coimbra,Portugal,1887-02-11,90000,300000,25,25.8,7,0,PT3A,Liga 3,Third Tier
+2995,FC Paços de Ferreira,Portugal,1950-04-05,300000,6080000,28,25.4,14,3,PO2,Liga Portugal 2,Second Tier
+2996,Incheon United,"Korea, South",2003-12-30,1150000,8630000,37,25.9,4,1,RSK2,K League 2,Second Tier
+2999,Hamilton Academical FC,Scotland,1874-01-01,-200000,3880000,27,27.2,6,0,SC2,Scottish Championship,Second Tier
+3000,East Stirlingshire FC,Scotland,1880-01-01,0,125000,25,25.2,4,0,SC5L,Scottish Lowland Football League,Fifth Tier
+3001,Queen of the South FC,Scotland,1919-03-22,0,375000,22,23.6,5,0,SC3,Scottish League One,Third Tier
+3008,Hull City,England,1904-06-28,11370000,67900000,30,25.3,17,5,GB2,Championship,Second Tier
+3012,Stenhousemuir FC,Scotland,1884-01-01,0,525000,23,25.7,2,0,SC3,Scottish League One,Third Tier
+3015,Annan Athletic FC,Scotland,1942-01-01,0,150000,22,26.3,3,0,SC3,Scottish League One,Third Tier
+3016,Forfar Athletic FC,Scotland,1885-01-01,0,50000,24,25.5,1,0,SC4,Scottish League Two,Fourth Tier
+3020,Alloa Athletic FC,Scotland,1878-01-01,0,50000,26,27.0,6,0,SC3,Scottish League One,Third Tier
+3021,Arbroath FC,Scotland,1878-07-01,0,775000,24,28.1,0,0,SC3,Scottish League One,Third Tier
+3030,Montrose FC,Scotland,1879-10-13,0,450000,27,26.2,3,0,SC3,Scottish League One,Third Tier
+3031,Queen's Park FC,Scotland,1867-07-09,0,5230000,26,24.0,14,0,SC2,Scottish Championship,Second Tier
+3037,Calcio Padova,Italy,1910-01-29,1500000,6900000,29,26.5,2,0,IT3A,Serie C - Girone A,Third Tier
+3052,Sutton United,England,1898-03-05,0,225000,23,25.1,2,1,CNAT,National League,Fifth Tier
+3054,Shrewsbury Town,England,1886-01-01,0,4230000,22,27.7,6,1,GB3,League One,Third Tier
+3057,Standard Liège,Belgium,1900-04-01,11300000,66300000,28,24.2,16,8,BE1,Jupiler Pro League,First Tier
+3060,Atromitos Athens,Greece,1923-05-31,0,9830000,25,26.8,12,4,GR1,Super League 1,First Tier
+3062,Athens Kallithea,Greece,1966-08-18,150000,7850000,29,28.2,17,2,GR1,Super League 1,First Tier
+3070,FK Sutjeska Niksic,Montenegro,1927-09-05,0,2630000,23,25.1,4,0,MNE1,Meridianbet 1. CFL,First Tier
+3137,FK TSC Backa Topola,Serbia,1913-02-10,2350000,25080000,34,24.6,6,3,SER1,Super liga Srbije,First Tier
+3159,RFC Lüttich,Belgium,1892-07-31,175000,4980000,24,26.9,6,0,BE2,Challenger Pro League,Second Tier
+3173,Van Spor FK,Türkiye,2015-06-01,-196000,3000000,28,26.4,1,0,TR3B,2.Lig Kirmizi,Third Tier
+3176,Beijing Guoan,China,1992-11-30,-1950000,14500000,35,26.7,6,10,CSL,Chinese Super League,First Tier
+3183,Shanghai Shenhua,China,1993-12-10,-195000,11300000,35,25.4,7,9,CSL,Chinese Super League,First Tier
+3187,Tianjin Jinmen Tiger,China,1993-01-31,-1250000,8350000,26,26.8,6,2,CSL,Chinese Super League,First Tier
+3189,Ilves Tampere,Finland,1932-04-10,0,4280000,22,25.2,3,0,FI1,Veikkausliiga,First Tier
+3197,Goiás EC,Brazil,1943-04-06,0,13800000,30,28.0,3,0,BRA2,Campeonato Brasileiro Série B,Second Tier
+3205,Kayserispor,Türkiye,1966-07-01,400000,20780000,28,27.3,13,4,TR1,Süper Lig,First Tier
+3207,Boluspor,Türkiye,1965-12-28,0,7980000,30,26.0,10,2,TR2,1.Lig,Second Tier
+3209,Pendikspor,Türkiye,1950-01-01,-307000,5950000,25,30.0,9,0,TR2,1.Lig,Second Tier
+3211,Batman Petrolspor,Türkiye,1959-11-30,0,2660000,28,27.3,2,0,TR3A,2.Lig Beyaz,Third Tier
+3225,Patro Eisden Maasmechelen,Belgium,2018-05-10,4450000,7300000,25,26.4,8,0,BE2,Challenger Pro League,Second Tier
+3243,KamAZ Naberezhnye Chelny,Russia,1981-11-11,443000,5450000,32,25.6,3,0,RU2,1.Division,Second Tier
+3258,Shamrock Rovers,Ireland,1899-05-17,0,4280000,34,24.9,4,1,IR1,League of Ireland Premier Division,First Tier
+3260,ASK Voitsberg,Austria,1920-11-30,0,3650000,27,25.3,4,0,A2,2. Liga,Second Tier
+3268,Casa Pia AC,Portugal,1920-07-03,10900000,17850000,28,26.2,16,4,PO1,Liga Portugal,First Tier
+3277,CD Universidad Católica,Chile,1937-04-21,2760000,13430000,25,27.7,6,8,CLPD,Liga de Primera,First Tier
+3291,Gornik Leczna,Poland,1979-09-20,0,4130000,28,25.4,10,1,PL2,Betclic 1 Liga,Second Tier
+3301,Suwon Samsung Bluewings,"Korea, South",1995-12-15,-250000,9300000,34,25.9,5,0,RSK2,K League 2,Second Tier
+3302,UD Almería,Spain,1989-07-26,4400000,59400000,24,25.8,13,3,ES2,LaLiga2,Second Tier
+3303,FC Tuggen,Switzerland,1966-07-01,0,50000,24,28.1,7,0,CHC3,1. Liga Classic group 3,Fourth Tier
+3322,VfB Lübeck II,Germany,1919-08-28,0,85000,23,20.8,3,0,OBLL,Oberliga Schleswig-Holstein,Fifth Tier
+3325,GD Chaves,Portugal,1949-09-27,1450000,8000000,27,27.4,13,1,PO2,Liga Portugal 2,Second Tier
+3327,FC Penafiel,Portugal,1951-02-08,0,8400000,27,26.5,7,1,PO2,Liga Portugal 2,Second Tier
+3329,FC Famalicão,Portugal,1931-08-21,23480000,44450000,25,24.0,18,4,PO1,Liga Portugal,First Tier
+3342,Esperance Tunis,Tunisia,1919-01-15,-1110000,20100000,36,25.3,13,10,TUN1,Ligue Professionnelle 1,First Tier
+3345,Leixões SC,Portugal,1907-11-28,350000,6350000,28,29.1,11,1,PO2,Liga Portugal 2,Second Tier
+3349,CD Feirense,Portugal,1918-03-19,300000,5880000,27,25.7,15,2,PO2,Liga Portugal 2,Second Tier
+3362,IK Brage,Sweden,1925-01-01,235000,3330000,21,24.6,4,0,SE2,Superettan,Second Tier
+3368,Levante UD,Spain,1908-11-30,7820000,23600000,22,26.9,1,1,ES2,LaLiga2,Second Tier
+3395,Tatabányai SC,Hungary,1910-02-06,0,1420000,28,26.6,1,0,UN2,Nemzeti Bajnokság II.,Second Tier
+3426,Esbjerg fB,Denmark,1924-07-23,1090000,5780000,23,24.0,4,1,DK2,1.Division,Second Tier
+3451,FK Leotar Trebinje,Bosnia-Herzegovina,1924-11-30,0,1340000,22,23.6,10,0,BH2S,Prva Liga RS,Second Tier
+3455,Forest Green Rovers,England,1889-11-30,-145000,950000,26,26.9,14,0,CNAT,National League,Fifth Tier
+3456,Gateshead FC,England,1977-01-01,145000,250000,28,24.7,3,0,CNAT,National League,Fifth Tier
+3459,Clachnacuddin FC,Scotland,1885-01-01,0,50000,24,25.6,1,0,SC5H,Scottish Highland Football League,Fifth Tier
+3461,Larne FC,Northern Ireland,1889-10-14,250000,2840000,24,25.9,11,1,NIR1,Premiership,First Tier
+3463,Glenavon FC,Northern Ireland,1989-11-01,0,1740000,25,24.5,6,0,NIR1,Premiership,First Tier
+3471,Linfield FC,Northern Ireland,1886-02-28,-1000,3620000,27,25.5,6,0,NIR1,Premiership,First Tier
+3489,Boston United,England,1933-01-01,0,325000,25,25.6,3,0,CNAT,National League,Fifth Tier
+3508,Zulte Waregem,Belgium,2001-07-01,2300000,9750000,26,24.0,13,2,BE2,Challenger Pro League,Second Tier
+3521,FK Zemun,Serbia,1946-10-20,0,2370000,31,24.7,6,0,SER2,Prva liga Srbije,Second Tier
+3522,Spezia Calcio,Italy,1906-10-10,11010000,43700000,29,26.2,10,3,IT2,Serie B,Second Tier
+3523,Barcelona SC Guayaquil,Ecuador,1925-05-01,29000,23680000,34,27.4,8,5,EC1N,LigaPro Serie A,First Tier
+3524,Clermont Foot 63,France,1990-06-20,6400000,14050000,27,25.3,14,2,FR2,Ligue 2,Second Tier
+3527,Motor Lublin,Poland,1950-01-01,-170000,10030000,30,25.5,12,1,PL1,PKO BP Ekstraklasa,First Tier
+3530,Vevey-Sports,Switzerland,1898-03-06,0,900000,26,25.3,14,0,CHPR,Promotion League,Third Tier
+3535,Ulsan HD FC,"Korea, South",1983-12-06,-1380000,15580000,36,26.9,5,5,RSK1,K League 1,First Tier
+3537,Crawley Town,England,1896-01-01,-770000,7430000,28,25.1,11,3,GB3,League One,Third Tier
+3539,Tamworth FC,England,1933-08-01,0,175000,28,26.8,5,0,CNAT,National League,Fifth Tier
+3544,FK Smederevo 1924,Serbia,1924-05-06,0,2590000,26,25.1,6,0,SER2,Prva liga Srbije,Second Tier
+3551,SCR Altach,Austria,1929-12-26,-80000,10780000,31,24.9,9,3,A1,Bundesliga,First Tier
+3610,Seongnam FC,"Korea, South",1989-02-02,0,4800000,33,25.9,3,0,RSK2,K League 2,Second Tier
+3622,IFK Värnamo,Sweden,1912-10-31,925000,9000000,24,24.8,8,2,SE1,Allsvenskan,First Tier
+3631,CF América,Mexico,1916-10-12,-10400000,92150000,26,27.9,11,13,MEXA,Liga MX Apertura,First Tier
+3641,Degerfors IF,Sweden,1907-01-13,572000,6800000,23,24.9,7,2,SE1,Allsvenskan,First Tier
+3650,FF Jaro,Finland,1965-07-18,0,850000,25,25.6,10,0,FI1,Veikkausliiga,First Tier
+3654,Kalmar FF,Sweden,1910-06-15,5000000,5630000,25,24.1,10,0,SE2,Superettan,Second Tier
+3679,Atlético de Madrid B,Spain,1903-04-26,-100000,9800000,26,21.5,4,0,E3G2,Primera Federación - Grupo II,Third Tier
+3688,Accrington Stanley,England,1968-01-01,300000,2980000,31,24.6,9,0,GB4,League Two,Fourth Tier
+3690,SKA Khabarovsk,Russia,1946-01-01,300000,5730000,21,26.1,5,0,RU2,1.Division,Second Tier
+3692,Raufoss IL,Norway,1918-02-10,0,2480000,24,23.9,6,0,NO2,OBOS-ligaen,Second Tier
+3696,Dagenham & Redbridge FC,England,1992-01-01,0,325000,24,24.9,6,3,CNAT,National League,Fifth Tier
+3697,Morecambe FC,England,1920-05-07,0,3730000,27,27.5,9,0,GB4,League Two,Fourth Tier
+3698,Chelmsford City,England,2021-08-12,0,100000,26,24.1,7,2,NLS6,National League South,Sixth Tier
+3705,Algeciras CF,Spain,1912-01-01,0,4080000,24,27.0,3,0,E3G2,Primera Federación - Grupo II,Third Tier
+3708,Barakaldo CF,Spain,1916-11-30,0,3500000,22,26.0,1,0,E3G1,Primera Federación - Grupo I,Third Tier
+3709,Getafe CF,Spain,1983-07-08,21600000,68900000,24,27.1,10,3,ES1,LaLiga,First Tier
+3711,CD Cruz Azul,Mexico,1963-09-10,-31520000,91550000,28,25.6,10,11,MEXA,Liga MX Apertura,First Tier
+3712,Weston-super-Mare AFC,England,2021-08-05,0,225000,26,26.3,6,0,NLS6,National League South,Sixth Tier
+3714,Enisey Krasnoyarsk,Russia,1937-01-01,525000,6430000,23,26.0,2,0,RU2,1.Division,Second Tier
+3716,Newport County,Wales,1911-11-30,230000,3680000,28,24.8,18,2,GB4,League Two,Fourth Tier
+3717,Aldershot Town,England,1992-03-01,0,150000,25,24.8,6,0,CNAT,National League,Fifth Tier
+3718,Pakhtakor Tashkent,Uzbekistan,1956-04-08,-50000,12050000,30,24.8,6,7,UZ1,O'zbekiston Superligasi,First Tier
+3719,FC Khimki,Russia,1996-05-17,-1260000,20150000,24,27.2,11,3,RU1,Premier Liga,First Tier
+3721,Alfreton Town,England,1958-11-30,0,250000,30,26.0,5,0,NLN6,National League North,Sixth Tier
+3723,Metallurg Lipetsk,Russia,1957-05-02,0,1830000,25,22.7,0,0,R3D1,2. Division A (Phase 1),Third Tier
+3725,Akhmat Grozny,Russia,1957-11-30,-2330000,26000000,28,27.6,11,6,RU1,Premier Liga,First Tier
+3729,Arsenal Tula,Russia,1946-01-01,-320000,8950000,28,26.4,8,6,RU2,1.Division,Second Tier
+3733,Neftekhimik Nizhnekamsk,Russia,1991-01-01,170000,6680000,23,26.4,0,0,RU2,1.Division,Second Tier
+3734,Tokyo Verdy,Japan,1968-11-30,0,11180000,30,24.9,1,0,JAP1,J1 League,First Tier
+3737,Breidablik Kópavogur,Iceland,1950-04-12,-100000,3650000,24,25.5,2,0,IS1,Besta deild,First Tier
+3739,KF Teuta,Albania,1925-01-01,266000,3180000,27,24.9,4,0,ALB1,Kategoria Superiore,First Tier
+3772,Royal Union Tubize-Braine,Belgium,1990-07-01,0,50000,28,26.2,6,1,BE3A,1ste Nationale ACFF,Third Tier
+3785,Maccabi Petah Tikva,Israel,1912-01-01,3000000,8680000,26,25.7,7,3,ISR1,Ligat ha'Al,First Tier
+3793,Beitar Jerusalem,Israel,1936-04-01,-460000,13700000,26,24.8,8,3,ISR1,Ligat ha'Al,First Tier
+3804,Kelty Hearts FC,Scotland,1975-01-01,0,100000,21,24.7,2,0,SC3,Scottish League One,Third Tier
+3820,Mansfield Town,England,1897-01-01,-230000,5900000,28,29.7,14,4,GB3,League One,Third Tier
+3826,St Albans City,England,2021-08-05,0,50000,34,24.9,6,0,NLS6,National League South,Sixth Tier
+3828,Yokohama F. Marinos,Japan,1971-11-30,-1750000,17630000,34,26.5,7,3,JAP1,J1 League,First Tier
+3829,CA Fénix,Uruguay,1916-07-07,0,3770000,28,26.9,2,2,URU2,Liga de Ascenso - Fase Regular,Second Tier
+3832,Fram Reykjavík,Iceland,1908-05-01,0,1820000,29,25.8,5,0,IS1,Besta deild,First Tier
+3834,Sokol Saratov,Russia,1937-05-24,50000,6900000,24,25.7,7,3,RU2,1.Division,Second Tier
+3837,Fredrikstad FK,Norway,1903-04-07,-1100000,14730000,27,23.9,10,2,NO1,Eliteserien,First Tier
+3840,Adana Demirspor,Türkiye,1940-12-28,2100000,11000000,24,23.0,6,3,TR1,Süper Lig,First Tier
+3868,Hornchurch FC,England,2022-01-15,0,275000,24,27.5,6,0,NLS6,National League South,Sixth Tier
+3876,Mirassol Futebol Clube (SP),Brazil,1925-11-09,-318000,13430000,27,30.3,1,0,BRA1,Campeonato Brasileiro Série A,First Tier
+3884,AFC Wimbledon,England,1889-01-01,530000,4380000,28,26.1,8,2,GB4,League Two,Fourth Tier
+3886,Belshina Bobruisk,Belarus,1976-11-30,0,1530000,23,23.6,3,0,WER2,Pershaya Liga,Second Tier
+3892,FC Eindhoven,Netherlands,1909-11-16,0,5900000,26,23.8,6,3,NL2,Keuken Kampioen Divisie,Second Tier
+3899,Anorthosis Famagusta,Cyprus,1911-01-30,240000,8930000,30,26.7,15,3,ZYP1,Cyprus League,First Tier
+3900,FK Borac Banja Luka,Bosnia-Herzegovina,1926-07-04,625000,9250000,35,25.9,16,3,BOS1,Premijer Liga Bosne i Hercegovine,First Tier
+3901,RAAL La Louvière,Belgium,2017-05-09,100000,7180000,27,24.5,19,2,BE2,Challenger Pro League,Second Tier
+3935,Oita Trinita,Japan,1993-11-30,0,5580000,32,26.2,4,0,JAP2,J2 League,Second Tier
+3948,Union Saint-Gilloise,Belgium,1897-11-01,5600000,72250000,25,25.3,18,7,BE1,Jupiler Pro League,First Tier
+3958,Vissel Kobe,Japan,1965-11-30,0,18980000,39,26.6,6,1,JAP1,J1 League,First Tier
+3984,GS Ilioupolis,Greece,1953-01-01,0,4030000,29,26.8,4,1,GRS2,Super League 2,Second Tier
+3999,PAS Lamia 1964,Greece,1964-06-01,50000,7480000,30,26.5,15,1,GR1,Super League 1,First Tier
+4000,Lechia Gdansk,Poland,1945-08-07,-975000,10330000,27,22.5,15,0,PL1,PKO BP Ekstraklasa,First Tier
+46,Inter Milan,Italy,1908-03-09,-75910000,681800000,25,29.3,18,17,IT1,Serie A,First Tier
+22,Derby County,England,1884-02-05,1310000,26250000,30,27.3,14,4,GB2,Championship,Second Tier
+998,Abahani Limited Dhaka,Bangladesh,1972-01-01,0,2520000,35,26.0,2,11,BGD1,Bangladesh Premier League,First Tier
+511,Dundee FC,Scotland,1893-05-20,1200000,8930000,26,25.9,15,2,SC1,Scottish Premiership,First Tier
+2729,Club Cienciano,Peru,1901-07-08,0,7630000,29,28.5,13,1,TDeA,Liga 1 Apertura,First Tier
+3393,Doxa Katokopias,Cyprus,1954-01-01,0,175000,21,24.0,5,1,CYP2,2. Division,Second Tier
+3592,Kryvbas Kryvyi Rig,Ukraine,1959-04-18,2340000,14600000,27,24.8,9,3,UKR1,Premier Liga,First Tier
+45,Hertha BSC II,Germany,1892-07-25,0,3630000,29,21.2,8,0,RLN4,Regionalliga Northeast,Fourth Tier
+12,AS Roma,Italy,1927-06-07,-76900000,284500000,26,26.2,18,17,IT1,Serie A,First Tier
+1897,FC Hradec Kralove,Czech Republic,1904-11-30,1840000,10830000,25,26.0,3,1,TS1,Chance Liga,First Tier
+18,Borussia Mönchengladbach,Germany,1900-08-01,-7700000,139700000,26,26.3,14,11,L1,Bundesliga,First Tier
+265,Panathinaikos FC,Greece,1908-02-03,-21780000,101980000,33,28.3,22,15,GR1,Super League 1,First Tier
+931,Fulham FC,England,1879-12-21,-22750000,348200000,25,28.2,20,11,GB1,Premier League,First Tier
+1162,SM Caen,France,1913-11-17,9300000,22700000,30,27.0,12,3,FR2,Ligue 2,Second Tier
+533,TSG 1899 Hoffenheim,Germany,1899-07-01,-44400000,158050000,33,25.9,22,12,L1,Bundesliga,First Tier
+1159,AS Nancy-Lorraine,France,1967-06-16,0,5400000,24,26.5,8,2,FR3,Championnat National,Third Tier
+531,Caracas FC,Venezuela,1984-01-01,2300000,5180000,24,24.7,4,2,VZ1A,Liga FUTVE Apertura,First Tier
+35,FC St. Pauli,Germany,1910-05-15,-750000,54180000,34,26.5,19,9,L1,Bundesliga,First Tier
+3385,Panserraikos,Greece,1964-05-31,620000,12680000,38,25.4,18,1,GR1,Super League 1,First Tier
+2687,Cádiz CF,Spain,1973-06-01,3800000,25150000,24,28.9,4,2,ES2,LaLiga2,Second Tier
+3938,CA Talleres,Argentina,1913-10-12,-995000,50530000,25,27.7,9,7,ARG1,Torneo Apertura,First Tier
+33,FC Schalke 04,Germany,1904-05-04,8720000,25950000,35,25.8,18,2,L2,2. Bundesliga,Second Tier
+19,Brescia Calcio,Italy,1911-07-17,-4340000,20550000,25,25.7,5,0,IT2,Serie B,Second Tier
+892,FK Viktoria Zizkov,Czech Republic,1902-11-30,0,2910000,20,29.5,2,1,TS2,Chance Narodni Liga,Second Tier
+535,Sileks Kratovo,North Macedonia,1965-01-01,0,3940000,24,26.3,6,0,MAZ1,Prva Makedonska Fudbalska Liga,First Tier
+3751,RFC Tournai,Belgium,1907-11-30,0,150000,27,25.0,13,0,BE3A,1ste Nationale ACFF,Third Tier
+38,Fortuna Düsseldorf,Germany,1895-05-05,11050000,32630000,27,25.2,7,2,L2,2. Bundesliga,Second Tier
+17,Borussia Dortmund II,Germany,1909-12-19,1200000,13950000,27,22.1,8,0,L3,3. Liga,Third Tier
+965,Qatar SC,Qatar,1958-11-30,-606000,9700000,32,28.6,13,2,QSL,Qatar Stars League,First Tier
+24,Eintracht Frankfurt,Germany,1899-03-08,48190000,288050000,27,25.3,20,10,L1,Bundesliga,First Tier
+308,AA Internacional de Limeira,Brazil,2019-02-20,0,3950000,31,26.3,1,0,BCP1,Campeonato Paulista,Regional Championship
+276,Hellas Verona,Italy,1903-09-30,25120000,84400000,32,25.2,24,8,IT1,Serie A,First Tier
+1178,Harbour View FC,Jamaica,1974-01-01,0,275000,48,23.9,4,2,JPL1,Jamaica Premier League,First Tier
+23,Eintracht Braunschweig,Germany,1895-12-15,-370000,18800000,30,26.3,11,3,L2,2. Bundesliga,Second Tier
+266,SV Ried,Austria,1912-05-05,1130000,5290000,23,26.1,7,0,A2,2. Liga,Second Tier
+3280,AD Confiança,Brazil,1936-05-01,0,225000,27,27.0,1,0,BRNE,Copa do Nordeste,Further Cup
+41,Hamburger SV,Germany,1887-09-29,-6050000,43850000,32,25.2,18,5,L2,2. Bundesliga,Second Tier
+269,Holstein Kiel,Germany,1900-10-07,-6200000,40050000,30,26.0,12,2,L1,Bundesliga,First Tier
+1842,FC Roskilde,Denmark,2004-01-19,0,3730000,29,23.4,3,1,DK2,1.Division,Second Tier
+3601,Hearts of Oak,Ghana,1911-11-11,0,2029999,31,24.2,0,0,GHPL,Ghana Premier League,First Tier
+48,Karlsruher SC,Germany,1952-10-16,-1100000,21880000,31,24.6,9,2,L2,2. Bundesliga,Second Tier
+712,Etar Veliko Tarnovo,Bulgaria,1924-04-24,20000,2029999,23,22.8,2,0,BU2,Vtora Liga,Second Tier
+1978,FC Wohlen,Switzerland,1904-05-21,0,150000,26,23.3,10,0,CHC2,1. Liga Classic group 2,Fourth Tier
+30,FC Hansa Rostock,Germany,1965-12-28,-470000,8530000,29,25.4,5,0,L3,3. Liga,Third Tier
+3595,Ismaily SC,Egypt,1924-04-13,1680000,3200000,31,25.0,2,0,EGY1,Egyptian Premier League,First Tier
+3795,SK Hanacka Slavia Kromeriz,Czech Republic,1919-01-01,0,425000,24,26.4,2,0,CZ3M,Moravskoslezska fotbalova liga,Third Tier
+1014,HSK Posusje,Bosnia-Herzegovina,1945-11-09,0,3500000,27,27.5,16,0,BOS1,Premijer Liga Bosne i Hercegovine,First Tier
+260,FC Zürich,Switzerland,1896-08-01,700000,23400000,28,24.5,16,4,C1,Super League,First Tier
+1894,Hvidovre IF,Denmark,1925-10-15,359000,5580000,27,26.4,3,1,DK2,1.Division,Second Tier
+39,1.FSV Mainz 05,Germany,1905-03-16,26250000,112400000,24,27.1,10,6,L1,Bundesliga,First Tier
+3371,Cheltenham Town,England,1870-01-01,248000,2180000,25,26.5,5,1,GB4,League Two,Fourth Tier
+271,Lovech,Bulgaria,1921-01-01,0,620000,24,22.4,4,0,BU2,Vtora Liga,Second Tier
+2524,Al-Jazira Club,United Arab Emirates,1974-03-19,-8690000,38310000,33,25.3,16,7,UAE1,UAE Pro League,First Tier
+530,Hutnik Krakow,Poland,1950-03-21,0,50000,29,22.7,4,0,PL2L,Betclic 2 Liga,Third Tier
+1839,KA Akureyri,Iceland,1928-01-08,0,1700000,26,26.4,3,1,IS1,Besta deild,First Tier
+47,POT Iraklis Thessaloniki,Greece,1908-11-29,0,6030000,28,26.7,10,1,GRS2,Super League 2,Second Tier
+2865,Betis Deportivo Balompié,Spain,1962-01-01,-1010000,7550000,29,20.7,9,1,E3G2,Primera Federación - Grupo II,Third Tier
+656,Al-Sadd SC,Qatar,1969-10-21,-49200000,82550000,31,27.9,13,13,QSL,Qatar Stars League,First Tier
+3492,NK Bratstvo Gracanica,Bosnia-Herzegovina,1944-11-30,0,995000,15,24.5,1,0,BOS2,Prva liga FBiH,Second Tier
+3007,Montego Bay United FC,Jamaica,1972-08-21,0,100000,32,26.2,8,5,JPL1,Jamaica Premier League,First Tier
+279,Ferencvárosi TC,Hungary,1899-05-03,2150000,53550000,30,27.8,22,10,UNG1,Nemzeti Bajnokság,First Tier
+31,Liverpool FC,England,1892-03-15,5000000,967500000,25,26.5,18,22,GB1,Premier League,First Tier
+3867,Boreham Wood FC,England,1948-07-13,0,125000,23,28.0,4,0,NLS6,National League South,Sixth Tier
+36,Fenerbahce,Türkiye,1907-05-03,-36160000,242000000,29,28.8,16,15,TR1,Süper Lig,First Tier
+44,Hertha BSC,Germany,1892-07-25,12350000,53230000,31,25.1,14,6,L2,2. Bundesliga,Second Tier
+40,FC Girondins Bordeaux,France,1881-10-01,6000000,250000,25,26.5,11,4,CN2B,Championnat National 2 - Groupe B,Fourth Tier
+518,Sariyer,Türkiye,1940-01-01,-154000,3140000,25,26.6,0,0,TR3A,2.Lig Beyaz,Third Tier
+1450,Club Sporting Cristal,Peru,1955-12-13,2470000,14900000,31,25.5,7,3,TDeA,Liga 1 Apertura,First Tier
+43,Heart of Midlothian FC,Scotland,1874-01-01,1830000,20180000,30,26.8,13,6,SC1,Scottish Premiership,First Tier
+267,IK Start,Norway,1905-07-19,-10000,4000000,23,24.1,8,0,NO2,OBOS-ligaen,Second Tier
+11,Arsenal FC,England,1886-10-01,-25110000,1150000000,24,26.7,18,18,GB1,Premier League,First Tier
+3747,Sydney Olympic FC,Australia,1957-01-01,0,100000,31,25.4,5,0,A2SW,National Premier League - New South Wales,Second Tier
+512,Stoke City,England,1863-01-01,-2160000,53050000,30,25.4,18,8,GB2,Championship,Second Tier
+991,Milton Keynes Dons,England,2004-06-21,1750000,5230000,32,25.5,8,1,GB4,League Two,Fourth Tier
+3963,Ittihad Alexandria SC,Egypt,1914-08-04,1340000,5330000,38,26.9,8,1,EGY1,Egyptian Premier League,First Tier
+1218,Torquay United,England,1890-11-03,0,100000,20,26.2,7,0,NLS6,National League South,Sixth Tier
+2619,Defensor Sporting Club,Uruguay,1913-03-15,8400000,12850000,30,24.1,7,3,URU1,Liga AUF Apertura,First Tier
+2730,Sport Boys Association,Peru,1927-07-28,0,5900000,31,25.4,8,0,TDeA,Liga 1 Apertura,First Tier
+2318,Kusadasispor,Türkiye,1934-06-21,0,240000,39,24.7,0,0,TR4A,3.Lig Grup 1,Fourth Tier
+1881,Terrassa FC,Spain,1906-01-01,0,3100000,22,27.1,6,0,E4G3,Segunda Federación - Grupo III,Fourth Tier
+3541,La Roche Vendée Football,France,1947-01-08,0,150000,22,27.0,4,1,CN2B,Championnat National 2 - Groupe B,Fourth Tier
+275,FSV Zwickau,Germany,1990-01-01,0,1690000,24,24.6,2,0,RLN4,Regionalliga Northeast,Fourth Tier
+34,FC Schalke 04 II,Germany,1904-05-04,0,2100000,31,22.4,9,1,RLW3,Regionalliga West,Fourth Tier
+1115,Barry Town United,Wales,1912-11-30,0,875000,20,26.0,3,0,WAL1,Cymru Premier,First Tier
+21,Chemnitzer FC,Germany,1966-01-15,0,1850000,24,24.8,1,0,RLN4,Regionalliga Northeast,Fourth Tier
+1708,Sporting San Miguelito,Panama,1989-01-01,0,2040000,25,23.8,1,1,PN1A,Liga Panameña de Fútbol Apertura,First Tier
+25,FC Energie Cottbus,Germany,1966-01-31,-150000,5950000,28,27.0,3,0,L3,3. Liga,Third Tier
+281,Manchester City,England,1880-11-23,-102000000,1300000000,27,26.9,21,21,GB1,Premier League,First Tier
+42,Hannover 96,Germany,1896-04-12,5000000,35650000,29,25.7,8,3,L2,2. Bundesliga,Second Tier
+3182,Shandong Taishan,China,1998-01-05,2110000,13490000,35,27.1,6,7,CSL,Chinese Super League,First Tier
+527,FC Lausanne-Sport,Switzerland,1896-09-01,-1040000,33400000,26,24.6,18,4,C1,Super League,First Tier
+272,AIK,Sweden,1891-02-15,7090000,20650000,28,25.6,13,6,SE1,Allsvenskan,First Tier
+14,Austria Vienna,Austria,1911-03-15,4000000,19230000,28,25.5,8,2,A1,Bundesliga,First Tier
+278,SV Fellbach,Germany,1890-01-01,0,10000,31,22.8,5,0,OBLB,Oberliga Baden-Württemberg,Fifth Tier
+2445,CD Victoria La Ceiba,Honduras,1935-11-15,0,2600000,31,27.8,9,1,HOC1,Liga Nacional Clausura,First Tier
+27,Bayern Munich,Germany,1900-02-27,-64650000,856000000,26,27.6,15,16,L1,Bundesliga,First Tier
+257,FC St. Gallen 1879,Switzerland,1879-04-19,3020000,32400000,27,26.2,22,5,C1,Super League,First Tier
+1160,Nîmes Olympique,France,1937-04-10,300000,4179999,25,25.6,10,1,FR3,Championnat National,Third Tier
+1918,FC Prishtina,Kosovo,1922-11-30,-100000,4780000,26,23.8,6,2,KO1,Superliga e Kosovës,First Tier
+1114,Al-Hilal SFC,Saudi Arabia,1957-10-16,-88100000,178500000,25,28.1,10,17,SA1,Saudi Pro League,First Tier
+3229,Al-Rayyan SC,Qatar,1966-11-30,-15210000,62200000,37,28.4,14,11,QSL,Qatar Stars League,First Tier
+2419,CA River Plate Montevideo,Uruguay,1932-05-11,0,6590000,28,23.9,4,0,URU1,Liga AUF Apertura,First Tier
+2720,CD Olimpia,Honduras,1912-06-12,0,6310000,33,27.7,4,11,HOC1,Liga Nacional Clausura,First Tier
+29,Everton FC,England,1878-06-01,33450000,357100000,25,27.9,15,12,GB1,Premier League,First Tier
+13,Atlético de Madrid,Spain,1903-04-26,-91100000,496800000,23,29.2,16,16,ES1,LaLiga,First Tier
+3612,Al-Ahli SC,Qatar,1950-03-06,896000,13350000,27,25.6,12,5,QSL,Qatar Stars League,First Tier
+554,Hapoel Rishon leZion,Israel,1940-01-01,0,2650000,26,24.3,4,1,ISR2,Liga Leumit,Second Tier
+829,Omonia Nicosia,Cyprus,1948-06-04,150000,15930000,30,26.1,19,9,ZYP1,Cyprus League,First Tier
+534,Pelister Bitola,North Macedonia,1945-01-01,0,2550000,24,28.4,4,0,MAZ1,Prva Makedonska Fudbalska Liga,First Tier
+16,Borussia Dortmund,Germany,1909-12-19,-30600000,473200000,28,25.1,14,17,L1,Bundesliga,First Tier
+9,PS Kalamata,Greece,1967-01-01,0,5530000,33,28.0,17,4,GRS2,Super League 2,Second Tier
+521,Pirin Blagoevgrad,Bulgaria,1921-11-30,0,2720000,26,25.2,5,0,BU2,Vtora Liga,Second Tier
+2029,Ceará Sporting Club,Brazil,1914-06-02,8220000,25600000,34,28.6,5,0,BRA1,Campeonato Brasileiro Série A,First Tier
+28,FC Bayern Munich II,Germany,1900-02-27,-1490000,13030000,30,20.1,10,0,RLB3,Regionalliga Bayern,Fourth Tier
+2962,Altrincham FC,England,1891-02-21,415000,125000,29,25.6,3,0,CNAT,National League,Fifth Tier
+20,Bursaspor,Türkiye,1963-06-01,185000,725000,27,27.1,0,0,TR4A,3.Lig Grup 1,Fourth Tier
+629,Olimpia Asunción,Paraguay,1902-07-25,435000,24000000,27,27.6,6,2,PR1A,Primera División Apertura,First Tier
+262,Hapoel Petah Tikva,Israel,1934-01-01,0,3400000,29,24.1,4,1,ISR2,Liga Leumit,Second Tier
+520,Cercle Brugge,Belgium,1899-04-09,18650000,48400000,30,23.1,19,6,BE1,Jupiler Pro League,First Tier
+2677,CS Herediano,Costa Rica,1921-06-12,300000,5860000,31,28.8,8,8,PDV1,Primera División Clausura,First Tier
