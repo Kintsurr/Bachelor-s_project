@@ -571,16 +571,11 @@ club_id,player_id,player_name,position,date_of_birth,age,nationality,height,foot
 66,380282,Thomas Winklbauer,Centre-Forward,1999-01-09,26.0,Germany,180.0,right,7/1/2024,SV Wacker Burghausen,2026-06-30,100000.0
 66,686329,Florian Schmid,Centre-Forward,2000-06-20,24.0,Germany,186.0,right,1/30/2022,FC Deisenhofen,2025-06-30,75000.0
 66,1051162,Tim Hannemann,Centre-Forward,2006-05-29,18.0,Germany,185.0,right,7/1/2024,SpVgg Unterhaching U19,2026-06-30,279925.0
-67,526152,Fabian Scherger,Goalkeeper,2002-01-20,23.0,Germany,188.0,both,7/1/2024,Without Club,2025-06-30,25000.0
 67,939571,Lars Martini,Goalkeeper,2006-06-27,18.0,Germany,189.7,right,7/1/2024,SpVgg Unterhaching U19,2025-06-30,215101.0
 67,1147226,Luis Stanzel,Goalkeeper,2007-10-18,17.0,Germany,189.7,right,7/1/2024,TSV 1860 München U17,2025-06-30,154871.0
 67,924093,Ben Erlmann,Defender,2006-09-20,18.0,Germany,182.9,right,7/1/2024,SpVgg Unterhaching U19,2025-06-30,196802.0
-67,829771,Tim Hoops,Centre-Back,2005-07-14,19.0,Germany,187.0,right,7/1/2024,Without Club,2025-06-30,200000.0
-67,908370,Ben Schlicke,Centre-Back,2005-10-31,19.0,Germany,195.0,left,7/1/2024,Without Club,2026-06-30,175000.0
 67,604546,Tizian Zimmermann,Centre-Back,2002-01-02,23.0,Germany,186.0,right,7/1/2024,SpVgg Unterhaching,2025-06-30,25000.0
 67,1046236,Leo Kainz,Centre-Back,2006-06-08,18.0,Germany,188.0,right,7/1/2024,SpVgg Unterhaching U19,2026-06-30,223604.0
-67,1157179,Marcel Martens,Centre-Back,2005-11-10,19.0,Germany,189.0,right,7/1/2024,Without Club,2026-06-30,194663.0
-67,897409,Maximilian Hennig,Left-Back,2006-10-12,18.0,Germany,178.0,left,7/1/2024,Without Club,2025-06-30,200000.0
 67,924094,Elion Haxhosaj,Left-Back,2005-05-09,19.0,"Kosovo, Germany",178.0,right,7/1/2024,SpVgg Unterhaching,2025-06-30,50000.0
 67,960942,Jannik Joas,Left-Back,2006-03-13,18.0,Germany,178.8,left,7/1/2024,SpVgg Unterhaching U19,2026-06-30,25000.0
 67,924095,Marinus Erber,Right-Back,2005-09-05,19.0,Germany,178.7,right,7/1/2024,SpVgg Unterhaching U19,2025-06-30,224763.0
@@ -588,10 +583,8 @@ club_id,player_id,player_name,position,date_of_birth,age,nationality,height,foot
 67,924050,Philipp Zimmerer,Central Midfield,2006-08-16,18.0,Germany,172.0,right,7/1/2024,Without Club,2026-06-30,224228.0
 67,890733,Oliver Koster,Attacking Midfield,2006-05-24,18.0,Netherlands,177.8,right,7/1/2024,SpVgg Unterhaching U19,2025-06-30,460583.0
 67,924121,David Leitl,Attacking Midfield,2005-12-14,19.0,Germany,177.8,right,7/1/2024,SpVgg Unterhaching U19,2026-06-30,223960.0
-67,829738,Felix Lautenbacher,Right Winger,2005-04-23,19.0,Germany,178.0,right,7/1/2024,Without Club,2027-06-30,226823.0
 67,1091392,Simon Dorfner,Centre-Forward,2004-09-22,20.0,Germany,184.2,right,7/1/2024,SpVgg Unterhaching,2027-06-30,25000.0
 67,829311,Dominique Girtler,Centre-Forward,2004-07-21,20.0,"Italy, Germany",188.0,both,7/1/2022,SpVgg Unterhaching U19,2025-06-30,196802.0
-67,1051162,Tim Hannemann,Centre-Forward,2006-05-29,18.0,Germany,185.0,right,7/1/2024,Without Club,2026-06-30,279925.0
 69,348778,Niclas Thiede,Goalkeeper,1999-04-14,25.0,Germany,186.0,both,7/31/2024,VfL Bochum,2026-06-30,350000.0
 69,196826,Christian Ortag,Goalkeeper,1995-01-14,30.0,Germany,197.0,right,7/1/2018,Stuttgarter Kickers,2028-06-30,300000.0
 69,422251,Marvin Seybold,Goalkeeper,2001-11-26,23.0,Germany,190.0,right,7/1/2020,SSV Ulm 1846 U19,2025-06-30,25000.0
@@ -672,10 +665,8 @@ club_id,player_id,player_name,position,date_of_birth,age,nationality,height,foot
 72,596813,Dickson Abiama,Centre-Forward,1998-11-03,26.0,"Nigeria, Germany",184.0,right,2/3/2025,1.FC Kaiserslautern,2025-06-30,500000.0
 72,276998,Fabian Schubert,Centre-Forward,1994-08-29,30.0,Austria,194.0,right,7/1/2024,FC St. Gallen 1879,2026-06-30,400000.0
 72,236543,Patrick Hobsch,Centre-Forward,1994-10-10,30.0,Germany,183.0,right,7/1/2024,SpVgg Unterhaching,2026-06-30,300000.0
-73,815637,Erion Avdija,Goalkeeper,2005-03-13,19.0,"Kosovo, Germany",180.0,left,7/1/2024,Without Club,2025-06-30,237106.0
 73,1009346,Miran Qela,Goalkeeper,2006-12-13,18.0,"Kosovo, Germany",189.0,left,7/1/2024,Without Club,2025-06-30,140135.0
 73,1268669,Paul Bachmann,Goalkeeper,2005-07-19,19.0,Germany,192.0,both,7/1/2024,FC Ismaning U19,2025-06-30,104195.0
-73,907277,Sean Dulic,Centre-Back,2005-06-05,19.0,"Germany, Bosnia-Herzegovina",187.0,both,7/1/2024,Without Club,2025-06-30,125000.0
 73,679679,Daniel Winkler,Centre-Back,2003-01-09,22.0,Germany,188.0,left,7/1/2024,TSV 1860 Munich,2025-06-30,25000.0
 73,39084,Alexander Benede,Centre-Back,1988-09-20,36.0,Germany,183.0,left,7/1/2024,TSV Landsberg,2025-06-30,380110.0
 73,884068,Evarist Samey,Left-Back,2005-02-01,20.0,"Germany, Togo",180.0,right,7/1/2024,TSV 1860 München U19,2025-06-30,147259.0
@@ -691,7 +682,6 @@ club_id,player_id,player_name,position,date_of_birth,age,nationality,height,foot
 73,897059,Xaver Kiefersauer,Defensive Midfield,2005-10-01,19.0,Germany,183.0,right,7/1/2024,TSV 1860 München U19,2025-06-30,147259.0
 73,1014942,Samuel Moïse Althaus,Defensive Midfield,2006-01-10,19.0,"Germany, Switzerland",196.0,right,7/1/2024,Without Club,2026-06-30,153860.0
 73,679688,Raphael Wach,Central Midfield,2003-08-14,21.0,Germany,186.0,right,7/18/2024,Tennis Borussia Berlin,2027-06-30,129447.0
-73,692473,Mike Gevorgyan,Central Midfield,2005-06-01,19.0,"Germany, Armenia",172.0,right,7/1/2024,TSV 1860 München U19,2025-06-30,218490.0
 73,1034126,Maximilian Karl,Central Midfield,2003-11-11,21.0,Germany,180.0,right,7/1/2023,TSV Gilching-Argelsried,2027-06-30,88635.0
 73,786828,Ivan Martinovic,Attacking Midfield,2004-01-26,21.0,Croatia,175.0,right,7/1/2024,1.FSV Mainz 05 II,2025-06-30,50000.0
 73,1016675,Max Jägerbauer,Attacking Midfield,2005-05-06,19.0,Germany,179.0,right,7/1/2024,TSV 1860 München U19,2025-06-30,136016.0
@@ -2718,7 +2708,6 @@ club_id,player_id,player_name,position,date_of_birth,age,nationality,height,foot
 244,599663,Faris Moumbagna,Centre-Forward,2000-07-01,24.0,Cameroon,185.0,left,1/20/2024,FK Bodø/Glimt,2028-06-30,8000000.0
 245,741578,Jaaso Jantunen,Goalkeeper,2005-01-31,20.0,Finland,196.0,both,7/1/2023,SC Freiburg U19,2027-06-30,300000.0
 245,528208,Luka Nujic,Goalkeeper,2001-10-11,23.0,"Germany, Croatia",190.0,right,7/1/2024,SGV Freiberg,2027-06-30,10000.0
-245,863759,Bruno Ogbus,Centre-Back,2005-12-17,19.0,"Switzerland, Nigeria",185.0,right,1/1/2024,SC Freiburg U19,2027-06-30,1000000.0
 245,1029294,Franci Bouebari,Centre-Back,2003-09-12,21.0,"France, DR Congo",184.0,both,7/1/2023,Racing Strasbourg B,2027-06-30,225000.0
 245,1010903,Drew Murray,Centre-Back,2005-10-27,19.0,United States,187.0,right,7/3/2023,Oakland Roots SC,2025-06-30,125000.0
 245,45685,Marc Hornschuh,Centre-Back,1991-03-02,34.0,Germany,188.0,right,7/1/2024,FC Zürich,2027-06-30,75000.0
@@ -2730,7 +2719,6 @@ club_id,player_id,player_name,position,date_of_birth,age,nationality,height,foot
 245,230818,Fabian Rüdlin,Defensive Midfield,1997-01-13,28.0,Germany,171.0,right,7/1/2023,FC Thun,2027-06-30,350000.0
 245,907086,Noah Wagner,Defensive Midfield,2005-05-05,19.0,Germany,182.0,right,7/1/2023,SC Freiburg U19,2025-06-30,100000.0
 245,795120,Kevin Founes,Defensive Midfield,2003-10-03,21.0,"Germany, France",188.0,left,7/23/2024,SSV Reutlingen 05,2027-06-30,50000.0
-245,927353,Johan Manzambi,Central Midfield,2005-10-14,19.0,Switzerland,182.0,right,7/1/2023,SC Freiburg U19,2028-06-30,750000.0
 245,709723,Oscar Wiklöf,Central Midfield,2003-01-29,22.0,Finland,187.0,right,7/17/2022,IFK Mariehamn,2027-06-30,350000.0
 245,801357,Gabriel Pellegrino,Central Midfield,2004-03-25,20.0,"Canada, Italy",176.0,right,7/1/2023,SC Freiburg U19,2025-06-30,100000.0
 245,907085,Ruben Müller,Right Midfield,2005-08-24,19.0,"Germany, Spain",179.0,right,7/1/2024,SC Freiburg U19,2027-06-30,125000.0
@@ -4839,12 +4827,10 @@ club_id,player_id,player_name,position,date_of_birth,age,nationality,height,foot
 435,273551,Hilal El-Helwe,Centre-Forward,1994-11-24,30.0,"Lebanon, Germany",187.0,both,7/24/2024,Bourj FC,2025-06-30,225000.0
 435,912873,Gal Grobelnik,Centre-Forward,2001-07-21,23.0,Slovenia,185.0,right,7/25/2024,SG Barockstadt Fulda-Lehnerz,2026-06-30,150000.0
 435,1028683,Patrick Vuc,Centre-Forward,2004-03-11,20.0,"Germany, Romania",188.0,right,1/29/2025,SpVgg Greuther Fürth II,2025-06-30,25000.0
-438,665971,Jonas Nickisch,Goalkeeper,2004-05-21,20.0,Germany,193.0,both,7/1/2024,Without Club,2025-06-30,200000.0
 438,944330,Alessandro Blazic,Goalkeeper,2006-01-09,19.0,"Slovenia, Germany",189.7,right,7/1/2024,1.FC Köln U19,2025-06-30,75000.0
 438,234033,Tobias Trautner,Goalkeeper,1995-03-05,30.0,Germany,188.0,right,3/1/2022,Without Club,2025-06-30,25000.0
 438,815822,Rijad Smajic,Centre-Back,2004-05-02,20.0,"Bosnia-Herzegovina, Germany",190.0,right,1/1/2022,1.FC Köln U19,2025-06-30,100000.0
 438,45707,Stephan Salger,Centre-Back,1990-01-30,35.0,Germany,184.0,left,7/1/2022,TSV 1860 Munich,2025-06-30,100000.0
-438,917792,Neo Telle,Centre-Back,2005-04-24,19.0,"Germany, Cameroon",187.3,right,7/1/2024,1.FC Köln U19,2026-06-30,75000.0
 438,696012,Mikail Özkan,Centre-Back,2003-03-29,21.0,"Germany, Türkiye",184.0,left,7/1/2022,1.FC Köln U19,2025-06-30,25000.0
 438,921065,Yannick Mausehund,Centre-Back,2006-03-02,19.0,"Germany, Cameroon",187.3,right,2/1/2025,Hertha BSC U19,2027-06-30,288510.0
 438,596902,Teoman Akmestanli,Left-Back,2002-01-30,23.0,"Germany, Türkiye",188.0,left,7/1/2022,VfB Eichstätt,2025-06-30,75000.0
@@ -4859,7 +4845,6 @@ club_id,player_id,player_name,position,date_of_birth,age,nationality,height,foot
 438,810833,Arda Süne,Attacking Midfield,2005-06-14,19.0,"Türkiye, Germany",177.8,both,7/1/2024,1.FC Köln U19,2025-06-30,75000.0
 438,897478,Etienne Borie,Attacking Midfield,2006-04-20,18.0,Germany,177.8,both,7/1/2024,1.FC Köln U19,2028-06-30,50000.0
 438,343336,Oliver Schmitt,Right Winger,2000-06-04,24.0,"Germany, Cote d'Ivoire",180.0,right,7/1/2019,1.FC Köln U19,2025-06-30,100000.0
-438,940198,Jaka Cuber Potocnik,Centre-Forward,2005-06-17,19.0,Slovenia,189.0,right,7/1/2024,Without Club,2027-06-30,350000.0
 438,705020,Mansour Ouro-Tagba,Centre-Forward,2004-12-17,20.0,"Togo, United States",190.0,right,1/10/2025,1.FC Köln,2028-06-30,350000.0
 438,824949,João Pinto,Centre-Forward,2004-05-31,20.0,"Portugal, Guinea-Bissau",180.0,both,7/4/2023,VfL Wolfsburg U19,2026-06-30,75000.0
 438,624064,Yannick Freischlad,Centre-Forward,2004-03-19,20.0,Germany,181.0,right,7/1/2023,1.FC Köln U19,2025-06-30,228802.0
@@ -4930,7 +4915,6 @@ club_id,player_id,player_name,position,date_of_birth,age,nationality,height,foot
 446,272803,Nicolas Abdat,Left-Back,1996-11-29,28.0,"Germany, Algeria",172.0,left,10/30/2024,Without Club,2025-06-30,75000.0
 446,444475,Nico Pulver,Left-Back,1999-04-08,25.0,Germany,178.0,left,7/1/2024,SpVgg Erkenschwick,2027-06-30,398048.0
 446,930006,Luca Bernsdorf,Right-Back,2005-06-03,19.0,Germany,178.7,right,7/1/2024,VfL Bochum U19,2026-06-30,196141.0
-446,744600,Niklas Jahn,Defensive Midfield,2004-07-26,20.0,Germany,172.0,right,7/1/2024,Without Club,2027-06-30,200000.0
 446,452224,Lars Holtkamp,Defensive Midfield,2001-11-21,23.0,Germany,187.0,right,7/1/2024,SV Lippstadt 08,2025-06-30,50000.0
 446,26061,Dennis Grote,Defensive Midfield,1986-08-09,38.0,Germany,183.0,left,7/1/2024,Preußen Münster,2025-06-30,100000.0
 446,745598,Luca Erdelkamp,Defensive Midfield,2005-03-24,19.0,Germany,181.4,right,7/1/2024,VfL Bochum U19,2026-06-30,530347.0
@@ -4938,7 +4922,6 @@ club_id,player_id,player_name,position,date_of_birth,age,nationality,height,foot
 446,930010,Jean-Philippe Njike-Nana,Defensive Midfield,2005-08-15,19.0,"Germany, Cameroon",185.0,right,7/1/2024,VfL Bochum U19,2026-06-30,224139.0
 446,874412,Benjamin Dreca,Attacking Midfield,2003-06-16,21.0,"Germany, Bosnia-Herzegovina",177.8,right,7/1/2024,TSV Sasel,2025-06-30,90223.0
 446,806017,Cedric Zajkowski,Attacking Midfield,2005-06-30,19.0,"Germany, Poland",177.8,right,7/1/2024,VfL Bochum U19,2025-06-30,561212.0
-446,930008,Lennart Koerdt,Attacking Midfield,2005-01-07,20.0,Germany,187.0,right,7/1/2024,Without Club,2027-06-30,661192.0
 446,698672,Ben Heuser,Left Winger,2004-01-25,21.0,"Switzerland, Germany",180.0,right,7/1/2024,Rot-Weiss Essen,2026-06-30,50000.0
 446,930012,Divine Boafo,Left Winger,2005-12-07,19.0,"Germany, Ghana",180.0,right,7/1/2024,VfL Bochum U19,2026-06-30,201060.0
 446,696117,Semin Kojic,Centre-Forward,2004-10-28,20.0,"Germany, Montenegro",185.0,right,7/1/2024,ASC 09 Dortmund,2025-06-30,50000.0
@@ -5127,7 +5110,6 @@ club_id,player_id,player_name,position,date_of_birth,age,nationality,height,foot
 456,945348,Kristijan Cabrajic,Left-Back,2004-06-12,20.0,Croatia,178.8,left,2/12/2024,NK Lokomotiva Zagreb,2025-06-30,75000.0
 456,828467,Paul Tabinas,Right-Back,2002-07-05,22.0,Philippines,185.0,right,2/22/2023,Iwate Grulla Morioka,2026-06-30,200000.0
 456,635146,Kristijan Pavicic,Right-Back,1999-03-06,26.0,Croatia,178.7,right,7/4/2024,HNK Sibenik,2026-06-30,100000.0
-456,946962,Roko Perkovic,Right-Back,2005-05-08,19.0,Croatia,178.7,right,7/1/2024,Without Club,2025-06-30,554473.0
 456,810886,Niko Garic,Defensive Midfield,2004-01-29,21.0,"Croatia, Germany",181.4,right,7/28/2023,Fortuna Düsseldorf U19,2026-06-15,125000.0
 456,205901,Jakov Biljan,Defensive Midfield,1995-08-02,29.0,Croatia,178.0,right,2/27/2020,: Ablöse free transfer,2025-06-18,100000.0
 456,1309400,Hussain Yousef H. Al-Taha,Defensive Midfield,2006-03-26,18.0,Saudi Arabia,181.4,right,1/15/2025,GNK Dinamo Zagreb U19,2026-06-30,386007.0
@@ -5274,7 +5256,6 @@ club_id,player_id,player_name,position,date_of_birth,age,nationality,height,foot
 472,199369,Sandro Ramírez,Centre-Forward,1995-07-09,29.0,Spain,174.0,right,7/1/2023,SD Huesca,2026-06-30,2500000.0
 472,443222,Marc Cardona,Centre-Forward,1995-07-08,29.0,Spain,182.0,right,7/7/2022,CA Osasuna,2026-06-30,1200000.0
 472,227961,Jaime Mata,Centre-Forward,1988-10-24,36.0,Spain,186.0,right,7/1/2024,Getafe CF,2025-06-30,800000.0
-473,666167,Nicolas Ortegel,Goalkeeper,2004-01-07,21.0,Germany,193.0,right,7/1/2024,Without Club,2025-06-30,125000.0
 473,891745,Armin Olayo,Goalkeeper,2003-03-05,22.0,Germany,195.0,right,7/1/2023,SV Eintracht Trier 05,2025-06-30,50000.0
 473,924027,Baha Karakaya,Goalkeeper,2005-02-09,20.0,"Germany, Türkiye",187.0,both,7/1/2024,1.FC Nürnberg U19,2025-06-30,25000.0
 473,286597,Felix Kielkopf,Goalkeeper,1996-12-22,28.0,Germany,184.0,right,7/1/2019,: Ablöse free transfer,2026-06-30,25000.0
@@ -5286,12 +5267,9 @@ club_id,player_id,player_name,position,date_of_birth,age,nationality,height,foot
 473,914855,Charalampos Georgiadis,Right-Back,2005-03-26,19.0,Greece,183.0,right,8/30/2024,PAOK Thessaloniki U19,2027-06-30,75000.0
 473,885835,Clayton Irigoyen,Right-Back,2005-02-18,20.0,Luxembourg,181.0,right,7/1/2024,1.FC Nürnberg U19,2026-06-30,75000.0
 473,816569,Ben Fischer,Right-Back,2004-01-10,21.0,Germany,180.0,right,7/1/2023,1.FC Nürnberg U19,2025-06-30,50000.0
-473,974564,Winners Osawe,Defensive Midfield,2006-11-29,18.0,"Germany, Nigeria",189.0,right,7/1/2024,Without Club,2025-06-30,300000.0
 473,916196,Sofiane Ikene,Defensive Midfield,2005-02-27,20.0,"Luxembourg, Algeria",181.0,right,7/1/2023,1.FC Nürnberg U19,2026-06-30,75000.0
 473,237141,Benedikt Kirsch,Central Midfield,1996-04-15,28.0,Germany,178.0,right,8/23/2023,SpVgg Bayreuth,2025-06-30,175000.0
 473,816578,Pascal Fuchs,Central Midfield,2005-01-03,20.0,Germany,177.0,right,7/1/2023,1.FC Nürnberg U19,2027-06-30,100000.0
-473,924115,Tim Janisch,Right Midfield,2005-08-12,19.0,Germany,177.0,right,7/1/2023,1.FC Nürnberg U19,2026-06-30,200000.0
-473,585049,Simon Joachims,Attacking Midfield,2001-12-06,23.0,Germany,177.0,right,7/1/2022,VfR Wormatia Worms,2025-06-30,150000.0
 473,680134,Jean-René Aghajanyan,Attacking Midfield,2003-06-06,21.0,"Armenia, Germany",177.0,both,7/20/2023,1.FC Kaiserslautern II,2025-06-30,100000.0
 473,816583,Nico Zietsch,Attacking Midfield,2004-11-03,20.0,Germany,179.0,right,7/1/2023,1.FC Nürnberg U19,2025-06-30,75000.0
 473,814981,Batuhan Gögce,Attacking Midfield,2004-12-15,20.0,Germany,183.0,right,7/1/2023,1.FC Union Berlin U19,2025-06-30,50000.0
@@ -8385,7 +8363,6 @@ club_id,player_id,player_name,position,date_of_birth,age,nationality,height,foot
 932,370287,Dmitriy Vorobyov,Centre-Forward,1997-11-28,27.0,Russia,185.0,right,7/1/2024,FC Orenburg,2027-06-30,3000000.0
 932,582074,Timur Suleymanov,Centre-Forward,2000-03-17,24.0,Russia,183.0,both,7/1/2024,FC Pari Nizhniy Novgorod,2027-06-30,1500000.0
 932,393864,Vladislav Sarveli,Centre-Forward,1997-10-01,27.0,Russia,176.0,right,7/1/2023,FC Sochi,2026-06-30,900000.0
-935,621933,Clemens Steinbauer,Goalkeeper,2002-07-29,22.0,Austria,190.0,left,7/1/2023,Deutschlandsberger SC,2027-06-30,50000.0
 935,1007215,Fabian Schillinger,Goalkeeper,2007-05-24,17.0,Austria,189.7,right,7/1/2024,AKA LASK OÖ U18,2027-06-30,335384.0
 935,917894,Moritz Schrenk,Goalkeeper,2006-06-19,18.0,Austria,189.7,right,7/1/2023,AKA LASK OÖ U18,2027-06-30,345522.0
 935,1040505,Sanih Mujanovic,Goalkeeper,2007-10-17,17.0,Austria,189.7,right,7/1/2024,AKA LASK OÖ U18,2027-06-30,303655.0
@@ -8393,22 +8370,16 @@ club_id,player_id,player_name,position,date_of_birth,age,nationality,height,foot
 935,804030,Sebastian Leitner,Centre-Back,2005-04-15,19.0,Austria,183.0,right,2/6/2024,FC Liefering,2027-06-30,391250.0
 935,1364188,Cheikne Kébé,Centre-Back,2005-11-26,19.0,Mali,187.3,right,1/10/2025,Academie Africa Foot,2025-06-30,345356.0
 935,1372881,Alpha Baldé,Centre-Back,2005-07-15,19.0,Senegal,185.0,left,2/6/2025,Guédiawaye FC,2025-06-30,348663.0
-935,1282860,Modou Kéba Cissé,Centre-Back,2005-08-04,19.0,Senegal,187.3,right,7/1/2024,Real Ávila CF Youth,2027-06-30,558809.0
-935,917917,Armin Midzic,Centre-Back,2006-03-06,19.0,Austria,186.0,both,7/1/2024,AKA LASK OÖ U18,2027-06-30,522691.0
 935,724276,Elias Prosic,Centre-Back,2004-08-18,20.0,Austria,187.0,right,7/1/2022,AKA Tirol U18,2027-06-30,535194.0
 935,805502,Patrik Peric,Centre-Back,2005-02-01,20.0,Croatia,187.3,left,7/1/2023,SV Ried II,2026-06-30,282491.0
 935,913419,Sammy Mohammad,Left-Back,2005-02-12,20.0,"Germany, Libya",178.8,left,7/1/2024,RB Leipzig U19,2027-06-30,270627.0
 935,1007221,Jonas Ilk,Left-Back,2007-04-06,17.0,Austria,178.8,left,7/1/2023,AKA LASK OÖ U16,2027-06-30,346850.0
-935,1133950,Emmanuel Michael,Left-Back,2006-06-16,18.0,Nigeria,178.8,left,8/8/2024,Simoiben FC,2027-06-30,550950.0
 935,849093,Godjes Yeboah,Right-Back,2004-12-17,20.0,Ghana,173.0,right,7/1/2024,FC Teutonia 05 Ottensen II,2027-06-30,25000.0
-935,905104,Tarik Brkic,Right-Back,2006-01-10,19.0,"Austria, Bosnia-Herzegovina",178.7,right,7/5/2024,SK Sturm Graz II,2027-06-30,75000.0
 935,804028,Kevin Lebersorger,Right-Back,2005-06-09,19.0,Austria,178.7,right,7/1/2024,VfL Wolfsburg U19,2027-06-30,506229.0
 935,1289193,Wesley Frimpong,Right-Back,2004-12-14,20.0,Netherlands,178.7,right,7/30/2024,Bolton Wanderers B,2027-06-30,284338.0
-935,604504,Marco Sulzner,Defensive Midfield,2003-07-02,21.0,Austria,189.0,right,7/1/2024,LASK,2027-06-30,467674.0
 935,875660,Baran Yildiz,Midfielder,2006-06-27,18.0,Austria,176.1,right,2/5/2025,LASK,2026-06-30,386860.0
 935,1283494,Mamadou Dianko,Defensive Midfield,2005-06-10,19.0,Senegal,172.0,right,7/1/2024,Real Ávila CF,2027-06-30,333393.0
 935,1281380,Serigne Fall,Midfielder,2005-04-06,19.0,Senegal,176.1,right,7/1/2024,Real Ávila CF,2026-06-30,335703.0
-935,689254,Enis Safin,Central Midfield,2004-06-02,20.0,"Türkiye, Austria",179.2,right,7/1/2024,Austria Vienna,2027-06-30,505669.0
 935,993652,Yanis Eisschill,Central Midfield,2005-10-13,19.0,Austria,179.2,right,7/1/2022,AKA LASK OÖ U18,2027-06-30,337522.0
 935,724057,Armin Haider,Left Midfield,2005-09-05,19.0,Austria,178.0,left,7/1/2022,AKA LASK OÖ U18,2027-06-30,338346.0
 935,629004,Rocco Vicol,Attacking Midfield,2004-01-02,21.0,"Austria, Romania",173.0,both,1/1/2023,AKA LASK OÖ U18,2027-06-30,340630.0
@@ -14574,7 +14545,6 @@ club_id,player_id,player_name,position,date_of_birth,age,nationality,height,foot
 2209,192739,Uros Nenadovic,Centre-Forward,1994-01-28,31.0,Serbia,185.0,right,9/13/2024,FK Napredak Krusevac,2025-06-30,100000.0
 2209,451574,Veljko Bogicevic,Centre-Forward,1999-04-27,25.0,Serbia,182.0,right,7/15/2023,FK FAP Priboj,2025-06-30,25000.0
 2209,1295930,Hameed Aderoju,Striker,2005-06-25,19.0,Nigeria,179.6,right,8/3/2024,FK Radnicki Belgrad U19,2026-06-30,156925.0
-2232,808690,Bernd Aineter,Goalkeeper,2005-07-02,19.0,Austria,204.0,right,7/1/2024,Without Club,2025-06-30,25000.0
 2232,602625,Patrick Moser,Goalkeeper,2003-01-20,22.0,Austria,191.0,right,7/15/2024,FC Blau-Weiss Linz,2025-06-30,75000.0
 2232,722928,Lorenz Stadler,Goalkeeper,2005-03-21,19.0,Austria,189.7,right,7/1/2023,SPV Kematen-Piberbach/Rohr,2027-06-30,327180.0
 2232,374670,Andreas Horwath,Goalkeeper,1999-07-02,25.0,Austria,189.7,right,7/1/2020,UFC Eferding,2027-06-30,226754.0
@@ -16056,7 +16026,6 @@ club_id,player_id,player_name,position,date_of_birth,age,nationality,height,foot
 2486,1152232,Nick Schmidt,Central Midfield,2007-09-12,17.0,"Japan, Germany",180.0,right,7/1/2024,FC St. Pauli U17,2026-06-30,417611.0
 2486,1030581,Tom Politz,Central Midfield,2006-04-02,18.0,Germany,183.0,left,7/1/2023,FC St. Pauli U17,2025-06-30,326443.0
 2486,1283399,Aron Amaglo,Central Midfield,2009-04-27,15.0,Germany,179.2,right,1/1/2025,FC St. Pauli U17,2027-06-30,420926.0
-2486,827221,Tim Hoffmann,Attacking Midfield,2006-05-28,18.0,Germany,184.0,both,7/1/2023,FC St. Pauli U17,2025-06-30,100000.0
 2486,1152231,Mats Herrmann,Attacking Midfield,2007-12-28,17.0,Germany,177.8,right,7/1/2024,FC St. Pauli U17,2025-06-30,424881.0
 2486,1310860,Aduramane Mané,Left Winger,2006-11-26,18.0,Guinea-Bissau,177.2,right,8/28/2024,Walddörfer SV U19,2025-06-30,239266.0
 2486,1003536,Max Stüven,Right Winger,2007-05-11,17.0,Germany,177.1,right,1/1/2024,FC St. Pauli U17,2025-06-30,410348.0
@@ -16476,7 +16445,6 @@ club_id,player_id,player_name,position,date_of_birth,age,nationality,height,foot
 2598,1116479,Vinny Loic Nkwinga,Centre-Forward,2004-11-14,20.0,Cameroon,183.0,right,7/29/2023,Nkufo Academy Sports,2027-06-30,229718.0
 2598,1300018,Jan Kares,Striker,2007-01-10,18.0,Czech Republic,179.6,right,7/1/2024,FK Pribram U17,2027-06-30,211168.0
 2598,1260357,Filip Ret,Centre-Forward,2005-06-23,19.0,Czech Republic,184.2,right,8/1/2024,FK Viktoria Zizkov,2027-06-30,218780.0
-2612,958014,Simon Hoffmann,Goalkeeper,2006-05-05,18.0,Germany,183.0,right,7/1/2023,SpVgg Greuther Fürth U17,2027-06-30,25000.0
 2612,958052,Leonard Hüttl,Goalkeeper,2006-09-20,18.0,Germany,194.0,right,7/1/2023,SpVgg Greuther Fürth U17,2025-06-30,140256.0
 2612,1230130,Dominik Huljak,Goalkeeper,2007-12-17,17.0,"Switzerland, Croatia",186.0,both,7/1/2024,SpVgg Greuther Fürth U17,2026-06-30,137654.0
 2612,1288682,Niklas Friedrich,Defender,2008-07-23,16.0,Germany,182.9,right,1/1/2025,SpVgg Greuther Fürth U17,2028-06-30,108425.0
@@ -19198,7 +19166,6 @@ club_id,player_id,player_name,position,date_of_birth,age,nationality,height,foot
 3322,897859,Karim Kalota,Centre-Back,2003-10-07,21.0,Germany,187.0,right,7/1/2024,VfR Neumünster,2025-06-30,84810.0
 3322,951290,Julian Seitz,Centre-Back,2003-08-15,21.0,Germany,187.3,right,7/1/2022,VfB Lübeck U19,2025-06-30,75766.0
 3322,1178955,Samuel Schwoon,Centre-Back,2006-03-12,18.0,Germany,195.0,left,7/1/2024,VfB Lübeck U19,2025-06-30,87977.0
-3322,913504,Lukas Schmitt,Left-Back,2005-10-08,19.0,Germany,183.0,left,7/1/2024,FC Hansa Rostock U19,2025-06-30,10000.0
 3322,1111342,Jamel Askar,Left-Back,2005-08-17,19.0,Germany,178.8,left,7/1/2024,VfB Lübeck U19,2025-06-30,79759.0
 3322,487452,Gustavo Melo,Right-Back,2001-04-23,23.0,"Brazil, Germany",178.0,right,7/1/2020,VfB Lübeck U19,2025-06-30,304942.0
 3322,1144154,Jaro Schmelting,Right-Back,2004-04-06,20.0,Germany,178.7,right,7/1/2023,JFV Lübeck U19,2025-06-30,71337.0
@@ -19208,9 +19175,6 @@ club_id,player_id,player_name,position,date_of_birth,age,nationality,height,foot
 3322,1111343,Ali Ahmad,Attacking Midfield,2005-06-09,19.0,Canada,180.0,both,7/1/2024,VfB Lübeck U19,2025-06-30,79125.0
 3322,972362,Sean Hopp,Attacking Midfield,2006-07-24,18.0,Germany,177.8,right,7/1/2024,VfB Lübeck U19,2025-06-30,75448.0
 3322,897858,Mika Urbanski,Left Winger,2003-05-14,21.0,Germany,177.2,right,7/1/2021,VfB Lübeck U19,2025-06-30,75139.0
-3322,1112283,Mika Lehnfeld,Right Winger,2005-12-06,19.0,Germany,187.0,right,7/1/2024,VfB Lübeck U19,2025-06-30,50000.0
-3322,1144028,Perry Dodoo,Right Winger,2002-04-26,22.0,Germany,182.0,right,7/1/2023,1.FC Phönix Lübeck II,2025-06-30,76229.0
-3322,1023822,Ramiz Demir,Centre-Forward,2005-04-14,19.0,Germany,180.0,both,7/1/2023,JFV Lübeck U19,2025-06-30,25000.0
 3322,273377,Alper Gürsoy,Centre-Forward,1996-05-09,28.0,"Germany, Türkiye",181.0,right,7/1/2024,FC Dornbreite Lübeck,2025-06-30,102631.0
 3322,753743,Emeraude Betani-Baku,Centre-Forward,2003-06-01,21.0,"DR Congo, Germany",184.2,right,7/1/2024,SV Eichede,2025-06-30,85914.0
 3322,541406,Velson Fazlija,Centre-Forward,2003-02-03,22.0,"Germany, Kosovo",180.0,right,7/1/2023,SV Todesfelde,2025-06-30,330433.0
@@ -21553,7 +21517,6 @@ club_id,player_id,player_name,position,date_of_birth,age,nationality,height,foot
 18,504153,Joe Scally,Right-Back,2002-12-31,22.0,United States,184.0,right,1/1/2021,: Ablöse €1.80m,2027-06-30,10000000.0
 18,85791,Stefan Lainer,Right-Back,1992-08-27,32.0,Austria,175.0,right,7/1/2019,Red Bull Salzburg,2026-06-30,1800000.0
 18,196792,Julian Weigl,Defensive Midfield,1995-09-08,29.0,Germany,186.0,right,7/1/2023,SL Benfica,2028-06-30,6000000.0
-18,1009463,Niklas Swider,Defensive Midfield,2007-01-05,18.0,Germany,188.0,right,12/17/2024,Borussia Mönchengladbach U19,2027-06-30,2273204.0
 18,467434,Rocco Reitz,Central Midfield,2002-05-29,22.0,Germany,176.0,right,7/1/2020,Borussia Mönchengladbach U19,2028-06-30,15000000.0
 18,388409,Philipp Sander,Central Midfield,1998-02-21,27.0,Germany,186.0,both,7/1/2024,Holstein Kiel,2028-06-30,4000000.0
 18,278332,Florian Neuhaus,Central Midfield,1997-03-16,27.0,Germany,185.0,right,7/1/2017,TSV 1860 Munich,2027-06-30,3500000.0
@@ -21565,7 +21528,6 @@ club_id,player_id,player_name,position,date_of_birth,age,nationality,height,foot
 18,193033,Tim Kleindienst,Centre-Forward,1995-08-31,29.0,Germany,194.0,both,7/1/2024,1.FC Heidenheim 1846,2028-06-30,12000000.0
 18,167329,Alassane Pléa,Centre-Forward,1993-03-10,31.0,"France, Mali",181.0,right,7/13/2018,OGC Nice,2026-06-30,6000000.0
 18,544148,Tomas Cvancara,Centre-Forward,2000-08-13,24.0,Czech Republic,190.0,right,7/14/2023,AC Sparta Prague,2028-06-30,5000000.0
-18,1073997,Shio Fukuda,Centre-Forward,2004-04-08,20.0,Japan,178.0,right,1/15/2024,Borussia Mönchengladbach II,2027-06-30,300000.0
 265,208166,Bartlomiej Dragowski,Goalkeeper,1997-08-19,27.0,Poland,191.0,right,7/1/2024,Spezia Calcio,2028-06-30,3000000.0
 265,126360,Yuriy Lodygin,Goalkeeper,1990-05-26,34.0,"Russia, Greece",187.0,right,7/1/2022,PAS Giannina,2026-06-30,350000.0
 265,808866,Klidman Lilo,Goalkeeper,2003-01-31,22.0,Albania,190.0,right,7/1/2024,Panathinaikos B,2025-06-30,200000.0
@@ -21657,7 +21619,6 @@ club_id,player_id,player_name,position,date_of_birth,age,nationality,height,foot
 533,55089,Oliver Baumann,Goalkeeper,1990-06-02,34.0,Germany,187.0,right,7/1/2014,SC Freiburg,2026-06-30,3000000.0
 533,432671,Luca Philipp,Goalkeeper,2000-11-28,24.0,Germany,192.0,right,7/31/2020,TSG 1899 Hoffenheim II,2025-06-30,300000.0
 533,203411,Jakob Busk,Goalkeeper,1993-09-12,31.0,Denmark,189.0,right,2/1/2025,Sönderjyske,2025-06-30,250000.0
-533,718460,Lúkas Petersson,Goalkeeper,2004-02-09,21.0,"Iceland, Germany",195.0,right,7/1/2024,TSG 1899 Hoffenheim II,2027-06-30,150000.0
 533,361260,Ozan Kabak,Centre-Back,2000-03-25,24.0,Türkiye,187.0,right,7/23/2022,FC Schalke 04,2026-06-30,7500000.0
 533,367284,Leo Østigård,Centre-Back,1999-11-28,25.0,Norway,183.0,right,2/3/2025,Stade Rennais FC,2025-06-30,7000000.0
 533,620217,Robin Hranac,Centre-Back,2000-01-29,25.0,Czech Republic,190.0,right,8/25/2024,FC Viktoria Plzen,2027-06-30,5500000.0
@@ -21676,7 +21637,6 @@ club_id,player_id,player_name,position,date_of_birth,age,nationality,height,foot
 533,234029,Grischa Prömel,Central Midfield,1995-01-09,30.0,Germany,184.0,right,7/1/2022,1.FC Union Berlin,2026-06-30,4500000.0
 533,251309,Dennis Geiger,Central Midfield,1998-06-10,26.0,Germany,173.0,right,7/1/2016,TSG 1899 Hoffenheim U19,2027-06-30,3000000.0
 533,334999,Finn Becker,Central Midfield,2000-06-08,24.0,Germany,177.0,left,7/1/2022,FC St. Pauli,2026-06-30,2000000.0
-533,808664,Florian Micheler,Central Midfield,2005-05-17,19.0,Austria,185.0,right,7/1/2024,TSG 1899 Hoffenheim U19,2026-06-30,500000.0
 533,46580,Andrej Kramaric,Attacking Midfield,1991-06-19,33.0,Croatia,177.0,right,7/1/2016,Leicester City,2025-06-30,4000000.0
 533,1067904,Bazoumana Touré,Left Winger,2006-03-02,19.0,Cote d'Ivoire,177.2,left,2/1/2025,Hammarby IF,2029-06-30,9000000.0
 533,116088,Marius Bülter,Left Winger,1993-03-29,31.0,Germany,188.0,right,7/6/2023,FC Schalke 04,2026-06-30,2500000.0
@@ -21686,7 +21646,6 @@ club_id,player_id,player_name,position,date_of_birth,age,nationality,height,foot
 533,203123,Haris Tabakovic,Centre-Forward,1994-06-20,30.0,"Bosnia-Herzegovina, Switzerland",194.0,right,8/23/2024,Hertha BSC,2027-06-30,3000000.0
 533,618898,Erencan Yardımcı,Centre-Forward,2002-02-04,23.0,Türkiye,188.0,right,8/30/2024,Eyüpspor,2027-06-30,3000000.0
 533,237164,Ihlas Bebou,Centre-Forward,1994-04-23,30.0,"Togo, Germany",185.0,right,7/1/2019,: Ablöse €9.00m,2026-06-30,2800000.0
-533,974894,David Mokwa,Centre-Forward,2004-05-03,20.0,"France, Cameroon",180.0,right,1/28/2025,TSG 1899 Hoffenheim II,2027-06-30,250000.0
 1159,126705,Martin Sourzac,Goalkeeper,1992-03-25,32.0,France,186.0,right,7/12/2022,FC Chambly Oise,2026-06-30,200000.0
 1159,818109,Marco Giagnorio,Goalkeeper,2001-05-02,23.0,"France, Italy",182.0,right,7/1/2022,AS Nancy-Lorraine B,2025-06-30,50000.0
 1159,860047,Yanis Kouini,Goalkeeper,2004-01-22,21.0,"Morocco, France",180.0,right,7/1/2024,Without Club,2025-06-30,546294.0
@@ -21746,13 +21705,11 @@ club_id,player_id,player_name,position,date_of_birth,age,nationality,height,foot
 35,139304,Karol Mets,Centre-Back,1993-05-16,31.0,Estonia,191.0,left,7/1/2023,FC Zürich,2026-06-30,1300000.0
 35,451906,David Nemeth,Centre-Back,2001-03-18,23.0,Austria,191.0,both,7/1/2022,1.FSV Mainz 05,2026-06-30,1000000.0
 35,236966,Adam Dzwigala,Centre-Back,1995-09-25,29.0,Poland,185.0,right,12/17/2020,Without Club,2027-06-30,600000.0
-35,914890,Muhammad Dahaba,Centre-Back,2005-03-07,20.0,Germany,194.0,right,7/1/2024,FC St. Pauli II,2027-06-30,125000.0
 35,335993,Philipp Treu,Left-Back,2000-12-03,24.0,Germany,173.0,right,7/1/2023,SC Freiburg II,2027-06-30,3500000.0
 35,333903,Lars Ritzka,Left-Back,1998-05-07,26.0,Germany,185.0,left,7/1/2021,SC Verl,2027-06-30,900000.0
 35,242661,Manolis Saliakas,Right-Back,1996-09-12,28.0,Greece,177.0,right,7/1/2022,PAS Giannina,2027-06-30,2800000.0
 35,587019,Fin Stevens,Right-Back,2003-04-10,21.0,"Wales, England",179.0,right,7/26/2024,Brentford FC,2027-06-30,600000.0
 35,393321,James Sands,Defensive Midfield,2000-07-06,24.0,United States,186.0,right,1/1/2025,New York City FC,2025-06-30,3000000.0
-35,1003534,Marwin Schmitz,Defensive Midfield,2007-01-07,18.0,Germany,180.0,right,1/16/2025,FC St. Pauli II,2027-06-30,200000.0
 35,690429,Robert Wagner,Central Midfield,2003-07-14,21.0,Germany,181.0,right,7/1/2024,SC Freiburg,2025-06-30,3000000.0
 35,522223,Connor Metcalfe,Central Midfield,1999-11-05,25.0,Australia,183.0,left,7/1/2022,Melbourne City FC,2027-06-30,2500000.0
 35,192557,Jackson Irvine,Central Midfield,1993-03-07,32.0,"Australia, Scotland",189.0,right,7/5/2021,Hibernian FC,2027-06-30,2000000.0
@@ -21760,7 +21717,6 @@ club_id,player_id,player_name,position,date_of_birth,age,nationality,height,foot
 35,501049,Erik Ahlstrand,Central Midfield,2001-10-14,23.0,Sweden,184.0,right,1/27/2024,Halmstads BK,2027-06-30,700000.0
 35,526466,Elias Saad,Left Winger,1999-12-27,25.0,"Tunisia, Germany",185.0,right,1/1/2023,Eintracht Norderstedt,2027-06-30,4000000.0
 35,392163,Noah Weißhaupt,Left Winger,2001-09-20,23.0,Germany,181.0,right,1/2/2025,SC Freiburg,2025-06-30,3500000.0
-35,795387,Romeo Aigbekaen,Left Winger,2004-06-22,20.0,"Germany, Nigeria",189.0,both,1/29/2025,FC St. Pauli II,2028-06-30,100000.0
 35,487850,Oladapo Afolayan,Right Winger,1997-09-11,27.0,"England, Nigeria",180.0,right,1/19/2023,Bolton Wanderers,2027-06-30,4000000.0
 35,691786,Morgan Guilavogui,Right Winger,1998-03-10,26.0,"Guinea, France",189.0,right,7/26/2024,RC Lens,2025-06-30,3000000.0
 35,346499,Danel Sinani,Right Winger,1997-04-05,27.0,"Luxembourg, Serbia",185.0,left,7/4/2023,Norwich City,2027-06-30,500000.0
@@ -21885,7 +21841,6 @@ club_id,player_id,player_name,position,date_of_birth,age,nationality,height,foot
 33,96167,Amin Younes,Left Winger,1993-08-06,31.0,"Germany, Lebanon",168.0,right,7/1/2024,Without Club,2026-06-30,600000.0
 33,289182,Christopher Antwi-Adjei,Left Winger,1994-02-07,31.0,"Ghana, Germany",174.0,right,8/23/2024,VfL Bochum,2026-06-30,600000.0
 33,911990,Ilyes Hamache,Left Winger,2003-02-11,22.0,"France, Algeria",178.0,right,8/20/2024,Valenciennes FC,2028-06-30,550000.0
-33,929992,Zaid Amoussou-Tchibara,Right Winger,2006-02-21,19.0,"Togo, Germany",177.0,left,7/1/2024,Without Club,2028-06-30,300000.0
 33,460655,Moussa Sylla,Centre-Forward,1999-11-25,25.0,"Mali, France",180.0,right,7/2/2024,Pau FC,2028-06-30,3000000.0
 33,119557,Kenan Karaman,Centre-Forward,1994-03-05,31.0,"Türkiye, Germany",189.0,right,9/1/2022,: Ablöse free transfer,2028-06-30,2500000.0
 33,693637,Pape Meïssa Ba,Centre-Forward,1997-07-04,27.0,Senegal,186.0,right,1/29/2025,Grenoble Foot 38,2028-06-30,1000000.0
@@ -22016,7 +21971,6 @@ club_id,player_id,player_name,position,date_of_birth,age,nationality,height,foot
 17,195049,Michael Eberwein,Attacking Midfield,1996-03-11,28.0,Germany,193.0,both,7/1/2022,Hallescher FC,2026-06-30,325000.0
 17,935019,Danylo Krevsun,Attacking Midfield,2005-04-21,19.0,Ukraine,173.0,right,7/1/2024,Borussia Dortmund U19,2026-06-30,200000.0
 17,675509,Julian Hettwer,Left Winger,2003-06-15,21.0,Germany,184.0,right,7/14/2023,MSV Duisburg,2025-06-30,1300000.0
-17,866579,Cole Campbell,Right Winger,2006-02-20,19.0,"United States, Iceland",170.0,left,7/1/2024,Without Club,2028-06-30,1500000.0
 17,675612,Babis Drakas,Right Winger,2003-02-04,22.0,"Germany, Greece",173.0,right,7/1/2024,VfB Stuttgart II,2026-06-30,250000.0
 17,662808,Rodney Elongo-Yombo,Centre-Forward,2001-07-27,23.0,"Germany, DR Congo",184.0,both,7/25/2022,SpVgg Greuther Fürth II,2025-06-30,450000.0
 17,1045762,Jordi Paulina,Centre-Forward,2004-09-23,20.0,"Netherlands, Curacao",191.0,right,7/1/2024,USV Hercules,2027-06-30,300000.0
@@ -22073,7 +22027,6 @@ club_id,player_id,player_name,position,date_of_birth,age,nationality,height,foot
 24,855015,Farès Chaïbi,Attacking Midfield,2002-11-28,22.0,"Algeria, France",183.0,right,8/30/2023,FC Toulouse,2028-06-30,14000000.0
 24,816585,Can Uzun,Attacking Midfield,2005-11-11,19.0,"Türkiye, Germany",186.0,right,7/2/2024,1.FC Nuremberg,2029-06-30,12000000.0
 24,74842,Mario Götze,Attacking Midfield,1992-06-03,32.0,Germany,176.0,right,7/1/2022,PSV Eindhoven,2026-06-30,5000000.0
-24,933217,Krisztián Lisztes,Attacking Midfield,2005-05-06,19.0,Hungary,183.0,right,7/1/2024,Ferencvárosi TC,2029-06-30,3000000.0
 24,939964,Jean-Mattéo Bahoya,Left Winger,2005-05-07,19.0,"France, Cameroon",180.0,right,1/25/2024,Angers SCO,2029-06-30,7500000.0
 24,429874,Ansgar Knauff,Right Winger,2002-01-10,23.0,"Germany, Ghana",180.0,right,7/1/2023,Borussia Dortmund,2028-06-30,10000000.0
 24,709726,Hugo Ekitiké,Centre-Forward,2002-06-20,22.0,"France, Cameroon",190.0,right,7/1/2024,Paris Saint-Germain,2029-06-30,40000000.0
@@ -22194,7 +22147,6 @@ club_id,player_id,player_name,position,date_of_birth,age,nationality,height,foot
 23,317444,Ron-Thorben Hoffmann,Goalkeeper,1999-04-04,25.0,Germany,192.0,right,1/14/2025,FC Schalke 04,2025-06-30,600000.0
 23,316983,Marko Johansson,Goalkeeper,1998-08-25,26.0,"Sweden, Serbia",194.0,right,8/9/2024,Hamburger SV,2025-06-30,400000.0
 23,169271,Tino Casali,Goalkeeper,1995-11-14,29.0,Austria,193.0,right,7/1/2023,SCR Altach,2025-06-30,300000.0
-23,688544,Justin Duda,Goalkeeper,2003-02-05,22.0,Germany,193.0,right,7/1/2023,Eintracht Braunschweig II,2025-06-30,50000.0
 23,284248,Paul Jaeckel,Centre-Back,1998-07-22,26.0,Germany,186.0,right,8/29/2024,1.FC Union Berlin,2025-06-30,1500000.0
 23,373876,Robert Ivanov,Centre-Back,1994-09-19,30.0,Finland,197.0,right,7/1/2023,Warta Poznan,2025-06-30,750000.0
 23,447783,Kevin Ehlers,Centre-Back,2001-01-23,24.0,Germany,190.0,right,7/1/2024,SG Dynamo Dresden,2027-06-30,500000.0
@@ -22279,11 +22231,9 @@ club_id,player_id,player_name,position,date_of_birth,age,nationality,height,foot
 41,196139,Robert Glatzel,Centre-Forward,1994-01-08,31.0,"Germany, Eritrea",193.0,both,7/1/2021,Cardiff City,2027-06-30,3000000.0
 41,470038,Ransford Königsdörffer,Centre-Forward,2001-09-13,23.0,"Ghana, Germany",182.0,right,7/1/2022,SG Dynamo Dresden,2026-06-30,3000000.0
 41,178459,Davie Selke,Centre-Forward,1995-01-20,30.0,Germany,195.0,right,7/11/2024,1.FC Köln,2025-06-30,2000000.0
-41,1058520,Otto Stange,Centre-Forward,2007-02-09,18.0,"Germany, Brazil",187.0,right,11/9/2024,Hamburger SV II,2027-06-30,400000.0
 269,296428,Timon Weiner,Goalkeeper,1999-01-18,26.0,Germany,191.0,both,7/1/2018,FC Schalke 04 U19,2027-06-30,1500000.0
 269,115979,Thomas Dähne,Goalkeeper,1994-01-04,31.0,Germany,193.0,both,7/1/2020,Wisla Plock,2026-06-30,400000.0
 269,124080,Marcel Engelhardt,Goalkeeper,1993-04-05,31.0,Germany,191.0,right,7/1/2023,FSV Zwickau,2027-06-30,175000.0
-269,883902,Tyler Doğan,Goalkeeper,2005-11-18,19.0,"Türkiye, Germany",187.0,right,7/1/2024,Without Club,2028-06-30,75000.0
 269,706024,Marko Ivezic,Centre-Back,2001-12-02,23.0,Serbia,191.0,right,7/1/2023,FK Vozdovac,2027-06-30,2500000.0
 269,622722,Colin Kleine-Bekel,Centre-Back,2003-01-24,22.0,Germany,192.0,right,7/1/2023,Holstein Kiel II,2025-06-30,2500000.0
 269,282349,Timo Becker,Centre-Back,1997-03-25,27.0,Germany,190.0,right,7/1/2022,FC Schalke 04,2025-06-30,2000000.0
@@ -22301,7 +22251,6 @@ club_id,player_id,player_name,position,date_of_birth,age,nationality,height,foot
 269,651735,Magnus Knudsen,Central Midfield,2001-06-15,23.0,Norway,186.0,right,7/1/2024,FC Rostov,2027-06-30,2500000.0
 269,592534,Nicolai Remberg,Central Midfield,2000-06-19,24.0,Germany,188.0,right,7/1/2023,Preußen Münster,2027-06-30,1800000.0
 269,55508,Lewis Holtby,Central Midfield,1990-09-18,34.0,"Germany, England",176.0,left,8/17/2021,Blackburn Rovers,2025-06-30,500000.0
-269,747983,Aurel Wagbe,Left Midfield,2004-02-04,21.0,Germany,191.0,left,7/1/2023,VfL Wolfsburg U19,2026-06-30,100000.0
 269,241307,Finn Porath,Attacking Midfield,1997-02-23,28.0,Germany,180.0,right,7/1/2019,: Ablöse ?,2026-06-30,1500000.0
 269,93827,Steven Skrzybski,Attacking Midfield,1992-11-18,32.0,Germany,174.0,right,7/5/2021,FC Schalke 04,2026-06-30,1000000.0
 269,719694,Andu Kelati,Left Winger,2002-08-13,22.0,"Germany, Eritrea",181.0,right,7/1/2024,TSG 1899 Hoffenheim II,2028-06-30,800000.0
@@ -22373,15 +22322,12 @@ club_id,player_id,player_name,position,date_of_birth,age,nationality,height,foot
 48,829299,Max Weiß,Goalkeeper,2004-06-15,20.0,Germany,190.0,right,7/1/2022,Karlsruher SC U19,2027-06-30,2000000.0
 48,1008184,Mustafe Abdullahu,Goalkeeper,2004-02-27,21.0,Kosovo,199.0,right,2/3/2025,KF Tirana,2025-06-30,175000.0
 48,53116,Robin Himmelmann,Goalkeeper,1989-02-05,36.0,Germany,187.0,right,7/1/2024,1.FC Kaiserslautern,2027-06-30,150000.0
-48,829243,Aki Koch,Goalkeeper,2004-03-18,20.0,"Germany, Japan",187.0,right,7/1/2024,1.FSV Mainz 05 II,2027-06-30,100000.0
 48,594655,Marcel Beifus,Centre-Back,2002-10-27,22.0,Germany,187.0,right,7/1/2023,FC St. Pauli,2027-06-30,2000000.0
 48,152435,Marcel Franke,Centre-Back,1993-04-05,31.0,Germany,193.0,right,7/1/2022,Hannover 96,2027-06-30,700000.0
 48,307509,Christoph Kobald,Centre-Back,1997-08-18,27.0,Austria,186.0,both,7/10/2018,: Ablöse free transfer,2025-06-30,600000.0
 48,283286,Robin Bormuth,Centre-Back,1995-09-19,29.0,Germany,190.0,right,7/5/2023,SC Paderborn 07,2025-06-30,600000.0
-48,495530,Enes Zengin,Centre-Back,2002-12-27,22.0,Germany,188.0,right,7/1/2024,Without Club,2027-06-30,50000.0
 48,604358,David Herold,Left-Back,2003-02-20,22.0,Germany,185.0,left,7/1/2024,FC Bayern Munich II,2027-06-30,1500000.0
 48,522245,Lasse Günther,Left-Back,2003-03-21,21.0,Germany,181.0,left,7/1/2024,FC Augsburg,2025-06-30,1500000.0
-48,653186,Benedikt Bauer,Left-Back,2003-08-17,21.0,Germany,179.0,both,7/1/2024,SpVgg Unterhaching,2027-06-30,250000.0
 48,1085900,Rafael Pinto Pedrosa,Right-Back,2007-09-30,17.0,"Germany, Portugal",180.0,right,7/1/2024,Without Club,2026-06-30,350000.0
 48,49730,Sebastian Jung,Right-Back,1990-06-22,34.0,Germany,179.0,right,9/22/2020,: Ablöse free transfer,2027-06-30,300000.0
 48,185427,Nicolai Rapp,Defensive Midfield,1996-12-13,28.0,Germany,186.0,right,1/23/2024,SV Werder Bremen,2027-06-30,1000000.0
@@ -22392,7 +22338,6 @@ club_id,player_id,player_name,position,date_of_birth,age,nationality,height,foot
 48,696019,Meiko Wäschenbach,Central Midfield,2004-01-13,21.0,Germany,178.0,right,1/30/2025,1.FC Köln,2027-06-30,150000.0
 48,927017,Efe Kaan Sihlaroglu,Central Midfield,2005-07-08,19.0,"Türkiye, Germany",178.0,right,7/1/2024,Karlsruher SC U19,2026-06-30,150000.0
 48,251295,Dzenis Burnic,Right Midfield,1998-05-22,26.0,"Bosnia-Herzegovina, Germany",181.0,left,7/17/2023,1.FC Heidenheim 1846,2027-06-30,1200000.0
-48,699589,Robert Geller,Left Midfield,2004-01-05,21.0,"Serbia, Hungary",185.0,left,7/1/2024,Without Club,2027-06-30,100000.0
 48,472243,Lilian Egloff,Attacking Midfield,2002-08-20,22.0,"Germany, Switzerland",182.0,right,9/2/2024,Without Club,2027-06-30,600000.0
 48,1045852,Louey Ben Farhat,Attacking Midfield,2006-07-19,18.0,"Tunisia, Germany",175.0,right,7/1/2024,Without Club,2027-06-30,300000.0
 48,923611,Ali-Eren Ersungur,Attacking Midfield,2005-11-22,19.0,"Türkiye, Germany",185.0,right,4/10/2024,Karlsruher SC U19,2027-06-30,200000.0
@@ -22427,7 +22372,6 @@ club_id,player_id,player_name,position,date_of_birth,age,nationality,height,foot
 30,120296,Benjamin Uphoff,Goalkeeper,1993-08-08,31.0,Germany,192.0,right,7/1/2024,SC Freiburg,2026-06-30,300000.0
 30,94120,Philipp Klewin,Goalkeeper,1993-09-30,31.0,Germany,192.0,right,7/13/2024,VfB Lübeck,2025-06-30,150000.0
 30,548861,Max Hagemoser,Goalkeeper,2003-01-07,22.0,Germany,190.0,left,7/1/2022,1.FC Köln U19,2026-06-30,125000.0
-30,911462,Elias Höftmann,Goalkeeper,2004-02-07,21.0,Germany,189.0,right,7/1/2023,FC Hansa Rostock U19,2025-06-30,50000.0
 30,397696,Ahmet Gürleyen,Centre-Back,1999-04-26,25.0,"Germany, Türkiye",193.0,right,7/18/2024,1.FC Nuremberg,2027-06-30,500000.0
 30,296188,Alexander Rossipal,Centre-Back,1996-06-06,28.0,Germany,184.0,left,7/1/2023,SV Waldhof Mannheim,2025-06-30,400000.0
 30,159258,Franz Pfanne,Centre-Back,1994-12-10,30.0,Germany,187.0,right,7/1/2024,Borussia Dortmund II,2027-06-30,325000.0
@@ -22443,7 +22387,6 @@ club_id,player_id,player_name,position,date_of_birth,age,nationality,height,foot
 30,1010851,King Manu,Defensive Midfield,2003-11-23,21.0,"Germany, Ghana",195.0,right,8/31/2024,Fortuna Düsseldorf,2025-06-30,200000.0
 30,284178,Cedric Harenbrock,Central Midfield,1998-04-19,26.0,Germany,180.0,left,7/1/2024,Rot-Weiss Essen,2026-06-30,300000.0
 30,605222,Jonas Dirkner,Central Midfield,2002-07-15,22.0,Germany,181.0,both,7/1/2024,VSG Altglienicke,2027-06-30,275000.0
-30,820973,Benno Dietze,Central Midfield,2003-07-15,21.0,Germany,183.0,right,7/1/2024,FC Hansa Rostock II,2027-06-30,125000.0
 30,532784,Nils Fröling,Attacking Midfield,2000-04-20,24.0,"Sweden, United States",181.0,right,1/1/2022,Kalmar FF,2025-06-30,500000.0
 30,342968,Christian Kinsombi,Attacking Midfield,1999-08-24,25.0,"Germany, DR Congo",177.0,right,7/1/2023,SV Sandhausen,2026-06-30,400000.0
 30,395674,Adrien Lebeau,Attacking Midfield,1999-07-08,25.0,France,175.0,right,7/2/2024,Stade Brestois 29,2026-06-30,350000.0
@@ -22570,7 +22513,6 @@ club_id,player_id,player_name,position,date_of_birth,age,nationality,height,foot
 39,334207,Maxim Leitsch,Centre-Back,1998-05-18,26.0,Germany,189.0,left,7/1/2022,VfL Bochum,2026-06-30,2000000.0
 39,82350,Stefan Bell,Centre-Back,1991-08-24,33.0,Germany,192.0,right,7/1/2010,: Ablöse -,2025-06-30,800000.0
 39,85906,Danny da Costa,Centre-Back,1993-07-13,31.0,"Germany, Angola",187.0,right,7/1/2022,Eintracht Frankfurt,2025-06-30,800000.0
-39,934317,Maxim Dal,Centre-Back,2006-01-26,19.0,"Germany, Türkiye",188.0,left,7/1/2024,Without Club,2027-06-30,150000.0
 39,127573,Phillipp Mwene,Left-Back,1994-01-29,31.0,"Austria, Kenya",170.0,right,8/23/2023,PSV Eindhoven,2026-06-30,1800000.0
 39,168989,Silvan Widmer,Right-Back,1993-03-05,32.0,Switzerland,183.0,right,7/9/2021,FC Basel 1893,2026-06-30,1500000.0
 39,601143,Nikolas Veratschnig,Right-Back,2003-01-24,22.0,Austria,180.0,right,7/1/2024,Wolfsberger AC,2028-06-30,800000.0
@@ -22954,13 +22896,11 @@ club_id,player_id,player_name,position,date_of_birth,age,nationality,height,foot
 44,401604,Michal Karbownik,Central Midfield,2001-03-13,23.0,Poland,175.0,right,8/8/2023,Brighton & Hove Albion,2026-06-30,2500000.0
 44,157535,Andreas Bouchalakis,Central Midfield,1993-04-05,31.0,Greece,186.0,left,8/31/2023,: Ablöse €400k,2025-06-30,500000.0
 44,448266,Bilal Hussein,Central Midfield,2000-04-22,24.0,"Sweden, Somalia",173.0,right,8/30/2023,AIK,2026-06-30,400000.0
-44,897428,Selim Telib,Central Midfield,2006-03-14,18.0,"Egypt, Germany",184.0,right,7/1/2024,Hertha BSC U19,2027-06-30,1143672.0
 44,905011,Ibrahim Maza,Attacking Midfield,2005-11-24,19.0,"Algeria, Germany",180.0,right,7/1/2023,Hertha BSC U19,2027-06-30,12000000.0
 44,977980,Julius Gottschalk,Attacking Midfield,2006-08-20,18.0,Germany,180.0,right,7/1/2024,Hertha BSC U19,2027-06-30,300000.0
 44,227102,Fabian Reese,Left Winger,1997-11-29,27.0,Germany,189.0,right,7/1/2023,Holstein Kiel,2028-06-30,5000000.0
 44,331739,Jón Dagur Thorsteinsson,Left Winger,1998-11-26,26.0,Iceland,177.0,right,8/27/2024,Oud-Heverlee Leuven,2027-06-30,1500000.0
 44,820957,Derry Scherhant,Left Winger,2002-11-10,22.0,Germany,185.0,right,7/1/2022,Hertha BSC II,2027-06-30,1500000.0
-44,897441,Luis Trus,Left Winger,2006-06-13,18.0,Germany,178.0,right,7/1/2024,Without Club,2027-06-30,125000.0
 44,574569,Marten Winkler,Right Winger,2002-10-31,22.0,Germany,184.0,left,7/1/2023,Hertha BSC II,2027-06-30,1500000.0
 44,300508,Palkó Dárdai,Right Winger,1999-04-24,25.0,"Hungary, Germany",180.0,left,7/25/2023,Fehérvár FC,2027-06-30,800000.0
 44,328264,Smail Prevljak,Centre-Forward,1995-05-10,29.0,Bosnia-Herzegovina,187.0,right,7/18/2023,KAS Eupen,2025-06-30,700000.0
@@ -23424,35 +23364,28 @@ club_id,player_id,player_name,position,date_of_birth,age,nationality,height,foot
 275,59229,Marc-Philipp Zimmermann,Centre-Forward,1990-03-22,34.0,Germany,178.0,right,8/14/2023,VfB Auerbach,2025-06-30,100000.0
 275,390892,Lucas Albert,Centre-Forward,1999-09-02,25.0,Germany,189.0,right,7/1/2023,VFC Plauen,2027-06-30,50000.0
 275,891955,Felix Pilger,Centre-Forward,2002-05-10,22.0,Germany,188.0,both,7/1/2024,Berliner AK 07,2026-06-30,50000.0
-34,774531,Luca Podlech,Goalkeeper,2005-03-23,19.0,Germany,200.0,right,7/1/2024,Without Club,2028-06-30,50000.0
 34,713719,Finn Kotyrba,Goalkeeper,2004-02-13,21.0,Germany,188.0,right,1/31/2025,TSV Steinbach Haiger,2025-06-30,25000.0
 34,920936,Faaris Yusufu,Goalkeeper,2005-02-11,20.0,"Germany, Ghana",190.0,right,7/1/2024,FC Schalke 04 U19,2026-06-30,503914.0
 34,508961,Malik Talabidi,Centre-Back,2001-07-16,23.0,"Germany, Togo",185.0,right,7/1/2023,Without Club,2025-06-30,75000.0
 34,577729,Tim Schmidt,Centre-Back,2002-07-09,22.0,Germany,190.0,right,7/1/2023,VfR Aalen,2025-06-30,75000.0
 34,866610,Pablo Zahnen-Martinez,Centre-Back,2005-02-21,20.0,"Germany, Spain",187.3,right,7/1/2024,FC Viktoria Köln U19,2026-06-30,50000.0
-34,919703,Vitalie Becker,Left-Back,2005-03-03,20.0,Germany,179.0,left,7/1/2024,Without Club,2027-06-30,100000.0
 34,463571,Phil Kemper,Left-Back,2002-03-13,22.0,Germany,190.0,left,10/31/2024,Without Club,2025-06-30,75000.0
 34,806732,Tidiane Touré,Right-Back,2004-11-05,20.0,"France, Germany",178.7,right,7/1/2024,1.FC Köln II,2025-06-30,50000.0
 34,696115,Ngufor Anubodem,Right-Back,2004-05-01,20.0,"Germany, Cameroon",178.7,right,7/1/2023,FC Schalke 04 U19,2025-06-30,50000.0
-34,920938,Niklas Barthel,Right-Back,2005-02-15,20.0,Germany,180.0,right,7/1/2024,Without Club,2025-06-30,50000.0
 34,391379,Yassin Ben Balla,Defensive Midfield,1996-02-24,29.0,"France, Morocco",180.0,right,11/15/2024,Without Club,2025-06-30,200000.0
 34,93658,Tim Albutat,Defensive Midfield,1992-09-23,32.0,Germany,184.0,right,7/1/2022,Without Club,2025-06-30,125000.0
-34,1017047,Mauro Zalazar,Defensive Midfield,2005-04-13,19.0,"Uruguay, Spain",175.0,right,7/1/2024,Without Club,2028-06-30,100000.0
 34,599418,Felix Allgaier,Defensive Midfield,2003-03-01,22.0,Germany,179.0,right,1/24/2024,SC Freiburg II,2025-06-30,75000.0
 34,696146,Tim Giesen,Defensive Midfield,2003-03-24,21.0,Germany,193.0,right,7/1/2023,1.FC Köln II,2025-06-30,50000.0
 34,920947,Nedzhib Hadzha,Defensive Midfield,2005-08-15,19.0,Bulgaria,181.4,right,7/1/2024,FC Schalke 04 U19,2025-06-30,25000.0
 34,361538,Finn Heiserholt,Defensive Midfield,1996-06-25,28.0,Germany,186.0,right,7/1/2023,SV Lippstadt 08,2025-03-31,75000.0
 34,627661,Timothé Rupil,Central Midfield,2003-06-12,21.0,"Luxembourg, Italy",171.0,right,7/1/2024,1.FSV Mainz 05 II,2026-06-30,150000.0
 34,696015,Simon Breuer,Attacking Midfield,2003-03-05,22.0,Germany,182.0,right,7/1/2024,1.FC Düren,2025-06-30,100000.0
-34,897403,Aris Bayindir,Attacking Midfield,2006-12-27,18.0,"Germany, Türkiye",185.0,both,7/1/2024,Without Club,2028-06-30,100000.0
-34,724055,Tristan Osmani,Attacking Midfield,2005-03-30,19.0,"Austria, Croatia",177.0,left,7/1/2024,Without Club,2027-06-30,100000.0
 34,637919,Oguzcan Büyükarslan,Left Winger,2003-11-10,21.0,"Germany, Türkiye",182.0,left,2/3/2025,Borussia Mönchengladbach II,2025-06-30,75000.0
 34,795506,Philip Buczkowski,Left Winger,2005-02-19,20.0,"Poland, Germany",175.0,left,7/1/2024,FC Schalke 04 U19,2025-06-30,50000.0
 34,796187,Yannick Tonye,Right Winger,2004-09-18,20.0,"Germany, Cameroon",186.0,right,7/1/2023,FC Schalke 04 U19,2025-06-30,25000.0
 34,1114566,Niklas Frese,Right Winger,2005-09-07,19.0,Germany,180.0,right,7/1/2024,1.FC Gievenbeck,2025-06-30,110516.0
 34,810669,Seok-ju Hong,Centre-Forward,2003-05-07,21.0,"Korea, South",187.0,right,7/1/2024,FC Viktoria Köln,2025-06-30,125000.0
 34,73013,Pierre-Michel Lasogga,Centre-Forward,1991-12-15,33.0,Germany,189.0,right,7/1/2023,Without Club,2025-06-30,100000.0
-34,987122,Peter Remmert,Centre-Forward,2005-07-09,19.0,Germany,193.0,right,7/1/2024,Without Club,2028-06-30,100000.0
 34,85538,Maurice Deville,Centre-Forward,1992-07-31,32.0,"Luxembourg, Germany",194.0,right,1/31/2025,Without Club,2025-06-30,44723.0
 34,934327,Bojan Potnar,Centre-Forward,2005-11-11,19.0,"Germany, Croatia",192.0,left,2/3/2025,TSV Meerbusch,2026-06-30,347964.0
 1115,803387,Luc Rees,Goalkeeper,2004-06-29,20.0,Wales,189.7,right,7/1/2023,Fleetwood Town U21,2025-05-31,50000.0
@@ -23580,16 +23513,13 @@ club_id,player_id,player_name,position,date_of_birth,age,nationality,height,foot
 281,418560,Erling Haaland,Centre-Forward,2000-07-21,24.0,Norway,195.0,left,7/1/2022,Borussia Dortmund,2034-06-30,200000000.0
 281,445939,Omar Marmoush,Centre-Forward,1999-02-07,26.0,"Egypt, Canada",183.0,right,1/23/2025,Eintracht Frankfurt,2029-06-30,60000000.0
 42,21327,Ron-Robert Zieler,Goalkeeper,1989-02-12,36.0,Germany,188.0,right,7/1/2019,VfB Stuttgart,2026-06-30,500000.0
-42,1105999,Leon-Oumar Wechsel,Goalkeeper,2005-03-09,19.0,Germany,190.0,right,7/1/2023,SV Rödinghausen,2026-06-30,350000.0
 42,196427,Leo Weinkauf,Goalkeeper,1996-07-07,28.0,Germany,198.0,right,7/1/2018,: Ablöse free transfer,2026-06-30,250000.0
 42,265176,Phil Neumann,Centre-Back,1997-07-08,27.0,Germany,192.0,right,7/1/2022,Holstein Kiel,2025-06-30,3000000.0
 42,280581,Boris Tomiak,Centre-Back,1998-09-11,26.0,Germany,193.0,right,1/16/2025,1.FC Kaiserslautern,2028-06-30,2000000.0
 42,527276,Kenneth Schmidt,Centre-Back,2002-06-03,22.0,"Germany, Madagascar",187.0,left,1/1/2025,SC Freiburg,2026-06-30,1500000.0
 42,70243,Marcel Halstenberg,Centre-Back,1991-09-27,33.0,Germany,188.0,left,7/19/2023,RB Leipzig,2025-06-30,1500000.0
 42,425026,Josh Knight,Centre-Back,1997-09-07,27.0,England,192.0,right,7/1/2024,Peterborough United,2026-06-30,1000000.0
-42,675870,Eric Uhlmann,Centre-Back,2003-01-05,22.0,Germany,181.0,right,7/1/2024,Hannover 96 II,2025-06-30,350000.0
 42,589013,Bartlomiej Wdowik,Left-Back,2000-09-25,24.0,Poland,184.0,left,8/30/2024,SC Braga,2025-06-30,2500000.0
-42,521474,Brooklyn Ezeh,Left-Back,2001-06-23,23.0,"Germany, Nigeria",188.0,left,7/1/2023,SV Wehen Wiesbaden,2026-06-30,500000.0
 42,211671,Jannik Dehm,Right-Back,1996-05-02,28.0,Germany,181.0,right,7/19/2021,Holstein Kiel,2025-06-30,900000.0
 42,188910,Sei Muroya,Right-Back,1994-04-05,30.0,Japan,176.0,right,8/17/2020,: Ablöse €50k,2025-06-30,700000.0
 42,334186,Fabian Kunze,Defensive Midfield,1998-06-14,26.0,Germany,193.0,right,7/1/2022,Arminia Bielefeld,2025-06-30,1200000.0
@@ -23598,10 +23528,7 @@ club_id,player_id,player_name,position,date_of_birth,age,nationality,height,foot
 42,383362,Enzo Leopold,Central Midfield,2000-07-23,24.0,Germany,174.0,right,7/1/2022,SC Freiburg II,2026-06-30,2500000.0
 42,709166,Hyun-ju Lee,Attacking Midfield,2003-02-07,22.0,"Korea, South",172.0,right,7/1/2024,FC Bayern Munich II,2025-06-30,1500000.0
 42,455932,Lars Gindorf,Attacking Midfield,2001-08-13,23.0,Germany,182.0,right,4/9/2024,Hannover 96 II,2026-06-30,400000.0
-42,905896,Montell Ndikom,Attacking Midfield,2005-02-05,20.0,Germany,182.0,left,7/1/2024,Hannover 96 U19,2027-06-30,200000.0
 42,501794,Jannik Rochelt,Left Winger,1998-09-27,26.0,Germany,182.0,both,7/17/2024,SV 07 Elversberg,2027-06-30,1200000.0
-42,392157,Kolja Oudenne,Left Winger,2001-11-11,23.0,"Sweden, Germany",183.0,right,7/1/2023,VSG Altglienicke,2026-06-30,400000.0
-42,1145570,Husseyn Chakroun,Left Winger,2004-11-10,20.0,"Lebanon, Germany",174.0,right,7/1/2024,Hannover 96 II,2026-06-30,300000.0
 42,404384,Rabbi Matondo,Right Winger,2000-09-09,24.0,"Wales, England",175.0,right,1/30/2025,Rangers FC,2025-06-30,3000000.0
 42,605242,Monju Momuluh,Right Winger,2002-02-18,23.0,Germany,181.0,right,1/1/2023,Hannover 96 II,2026-06-30,500000.0
 42,717329,Nicolò Tresoldi,Centre-Forward,2004-08-20,20.0,"Germany, Italy",186.0,right,7/1/2022,Hannover 96 U19,2026-06-30,5000000.0
@@ -24078,16 +24005,12 @@ club_id,player_id,player_name,position,date_of_birth,age,nationality,height,foot
 534,597955,Zakhar Tarasenko,Centre-Forward,1997-10-12,27.0,Russia,185.0,right,1/13/2025,FC West Armenia,2025-06-30,200000.0
 534,66241,Mirko Ivanovski,Centre-Forward,1989-10-31,35.0,"North Macedonia, Bulgaria",182.0,right,7/12/2024,CS Tunari,2027-06-30,100000.0
 16,257814,Gregor Kobel,Goalkeeper,1997-12-06,27.0,Switzerland,196.0,right,7/1/2021,VfB Stuttgart,2028-06-30,40000000.0
-16,453737,Marcel Lotka,Goalkeeper,2001-05-25,23.0,"Germany, Poland",190.0,right,7/1/2022,Hertha BSC,2025-06-30,1300000.0
 16,76158,Alexander Meyer,Goalkeeper,1991-04-13,33.0,Germany,195.0,right,7/1/2022,SSV Jahn Regensburg,2026-06-30,800000.0
-16,684116,Silas Ostrzinski,Goalkeeper,2003-11-19,21.0,"Germany, Poland",198.0,right,1/4/2025,Borussia Dortmund II,2025-06-30,200000.0
 16,388198,Nico Schlotterbeck,Centre-Back,1999-12-01,25.0,Germany,191.0,left,7/1/2022,SC Freiburg,2027-06-30,40000000.0
 16,193004,Waldemar Anton,Centre-Back,1996-07-20,28.0,Germany,189.0,right,7/8/2024,VfB Stuttgart,2028-06-30,24000000.0
 16,166601,Niklas Süle,Centre-Back,1995-09-03,29.0,Germany,195.0,right,7/1/2022,: Ablöse free transfer,2026-06-30,15000000.0
-16,883007,Filippo Mané,Centre-Back,2005-03-08,19.0,"Italy, Senegal",188.0,right,1/6/2025,Borussia Dortmund II,2028-06-30,400000.0
 16,284732,Ramy Bensebaini,Left-Back,1995-04-16,29.0,Algeria,187.0,left,7/1/2023,Borussia Mönchengladbach,2027-06-30,7000000.0
 16,579287,Daniel Svensson,Left-Back,2002-02-12,23.0,Sweden,183.0,left,2/3/2025,FC Nordsjaelland,2025-06-30,5500000.0
-16,884820,Almugera Kabar,Left-Back,2006-06-06,18.0,"Germany, Libya",186.0,left,8/7/2024,Borussia Dortmund U19,2028-06-30,1000000.0
 16,627228,Yan Couto,Right-Back,2002-06-03,22.0,"Brazil, Portugal",168.0,right,8/3/2024,Manchester City,2025-06-30,25000000.0
 16,370789,Julian Ryerson,Right-Back,1997-11-17,27.0,"Norway, United States",183.0,right,1/17/2023,1.FC Union Berlin,2028-06-30,20000000.0
 16,244940,Salih Özcan,Defensive Midfield,1998-01-11,27.0,"Türkiye, Germany",183.0,right,7/1/2022,1.FC Köln,2026-06-30,7000000.0
@@ -24096,13 +24019,11 @@ club_id,player_id,player_name,position,date_of_birth,age,nationality,height,foot
 16,659459,Carney Chukwuemeka,Central Midfield,2003-10-20,21.0,"England, Nigeria",188.0,right,2/3/2025,Chelsea FC,2025-06-30,15000000.0
 16,106987,Marcel Sabitzer,Central Midfield,1994-03-17,30.0,Austria,178.0,right,7/24/2023,: Ablöse €19.00m,2027-06-30,15000000.0
 16,82873,Pascal Groß,Central Midfield,1991-06-15,33.0,Germany,181.0,right,8/1/2024,Brighton & Hove Albion,2026-06-30,7000000.0
-16,884810,Kjell Wätjen,Central Midfield,2006-02-16,19.0,Germany,184.0,right,7/1/2024,Borussia Dortmund U19,2028-06-30,2000000.0
 16,187492,Julian Brandt,Attacking Midfield,1996-05-02,28.0,Germany,185.0,right,7/1/2019,Bayer 04 Leverkusen,2026-06-30,35000000.0
 16,504215,Giovanni Reyna,Attacking Midfield,2002-11-13,22.0,"United States, Portugal",185.0,right,1/12/2020,Borussia Dortmund U19,2026-06-30,12000000.0
 16,670882,Jamie Gittens,Left Winger,2004-08-08,20.0,"England, Barbados",178.0,right,7/1/2022,Borussia Dortmund U19,2028-06-30,50000000.0
 16,819215,Julien Duranville,Left Winger,2006-05-05,18.0,Belgium,173.0,right,1/27/2023,: Ablöse €8.50m,2027-06-30,8500000.0
 16,496094,Karim Adeyemi,Right Winger,2002-01-18,23.0,"Germany, Nigeria",180.0,left,7/1/2022,Red Bull Salzburg,2027-06-30,35000000.0
-16,866579,Cole Campbell,Right Winger,2006-02-20,19.0,"United States, Iceland",170.0,left,7/9/2024,Borussia Dortmund U19,2028-06-30,1500000.0
 16,270541,Serhou Guirassy,Centre-Forward,1996-03-12,28.0,"Guinea, France",187.0,right,7/18/2024,VfB Stuttgart,2028-06-30,40000000.0
 16,578392,Maximilian Beier,Centre-Forward,2002-10-17,22.0,Germany,185.0,right,8/12/2024,TSG 1899 Hoffenheim,2029-06-30,30000000.0
 9,242637,Konstantinos Kotsaris,Goalkeeper,1996-07-25,28.0,Greece,185.0,right,7/15/2024,Athens Kallithea,2026-06-30,400000.0
@@ -24190,15 +24111,12 @@ club_id,player_id,player_name,position,date_of_birth,age,nationality,height,foot
 28,937952,Javier Fernández,Central Midfield,2006-11-28,18.0,Spain,186.0,both,1/24/2024,: Ablöse -,2025-06-30,1500000.0
 28,476524,Moritz Mosandl,Central Midfield,2002-06-17,22.0,Germany,183.0,right,7/1/2021,: Ablöse -,2025-06-30,25000.0
 28,856274,Jonathan Asp Jensen,Attacking Midfield,2006-01-14,19.0,Denmark,182.0,right,1/24/2024,: Ablöse -,2028-06-30,1500000.0
-28,994269,Bajung Darboe,Attacking Midfield,2006-11-07,18.0,United States,184.0,right,1/1/2025,Los Angeles FC,2029-06-30,1000000.0
 28,1008568,Guido Della Rovere,Attacking Midfield,2007-06-04,17.0,Italy,187.0,left,7/3/2024,Cremonese Primavera,2027-06-30,700000.0
 28,605109,Liul-Bruke Alemu,Attacking Midfield,2005-05-20,19.0,Germany,177.8,right,7/1/2024,FC Bayern Munich U19 ,2025-06-30,75000.0
 28,1009441,Felipe Chávez,Attacking Midfield,2007-04-10,17.0,"Peru, Germany",175.0,both,1/1/2025,FC Bayern Munich U19 ,2025-06-30,421289.0
 28,918445,Emirhan Demircan,Left Winger,2005-01-20,20.0,"Türkiye, Germany",181.0,both,7/1/2024,FC Bayern Munich U19 ,2025-06-30,600000.0
 28,604350,Younes Aitamer,Left Winger,2003-04-23,21.0,"Algeria, Germany",175.0,right,1/1/2022,: Ablöse -,2026-06-30,200000.0
-28,941175,Michael Scott,Left Winger,2006-02-02,19.0,Germany,177.2,right,7/1/2024,FC Bayern Munich U19 ,2027-06-30,200000.0
 28,960943,Adin Licina,Right Winger,2007-01-06,18.0,Germany,177.1,left,7/1/2024,FC Bayern Munich U19 ,2026-06-30,600000.0
-28,1070018,Tim Binder,Right Winger,2007-01-30,18.0,Germany,178.0,left,1/1/2025,FC Bayern Munich U19 ,2027-06-30,419435.0
 28,1069512,Jonah Kusi-Asare,Centre-Forward,2007-07-04,17.0,"Sweden, Ghana",196.0,right,7/1/2024,FC Bayern Munich U19 ,2026-06-30,2500000.0
 28,685454,Maximilian Wagner,Centre-Forward,2004-02-06,21.0,Germany,182.0,right,7/1/2023,VfB Stuttgart U19,2026-06-30,200000.0
 28,792382,Samuel Unsöld,Centre-Forward,2005-03-11,19.0,Germany,189.0,left,7/1/2024,FC Bayern Munich U19 ,2025-06-30,125000.0
@@ -24344,497 +24262,6 @@ club_id,player_id,player_name,position,date_of_birth,age,nationality,height,foot
 520,918414,Paris Brunner,Centre-Forward,2006-02-15,19.0,"Germany, DR Congo",186.0,right,8/17/2024,AS Monaco,2025-06-30,1500000.0
 520,1176433,Abdoul Kader Ouattara,Centre-Forward,2005-05-26,19.0,Burkina Faso,171.0,right,1/1/2024,Jong Cercle,2028-06-30,900000.0
 520,923838,Steve Ngoura,Centre-Forward,2005-02-22,20.0,"France, Cameroon",193.0,right,1/7/2025,Le Havre AC,2028-06-30,800000.0
-368,453704,Álvaro Fernández,Goalkeeper,1998-04-13,26.0,Spain,185.0,right,8/12/2024,SD Huesca,2025-06-30,2500000.0
-368,73517,Ørjan Nyland,Goalkeeper,1990-09-10,34.0,Norway,192.0,right,8/20/2023,RB Leipzig,2026-06-30,1000000.0
-368,730581,Loïc Badé,Centre-Back,2000-04-11,24.0,"France, Cote d'Ivoire",191.0,right,7/1/2023,Stade Rennais FC,2029-06-30,25000000.0
-368,766583,Kike Salas,Centre-Back,2002-04-23,22.0,Spain,188.0,left,1/1/2023,Sevilla Atlético,2029-06-30,8000000.0
-368,439022,Marcão,Centre-Back,1996-06-05,28.0,Brazil,185.0,left,7/8/2022,Galatasaray,2027-06-30,4000000.0
-368,538996,Tanguy Nianzou,Centre-Back,2002-06-07,22.0,"France, Cote d'Ivoire",191.0,right,8/17/2022,: Ablöse €16.00m,2027-06-30,3000000.0
-368,501418,Adrià Pedrosa,Left-Back,1998-05-13,26.0,Spain,172.0,left,7/1/2023,RCD Espanyol Barcelona,2028-06-30,7000000.0
-368,676042,Juanlu Sánchez,Right-Back,2003-08-15,21.0,Spain,186.0,right,7/1/2022,Sevilla Atlético,2026-06-30,12000000.0
-368,711625,José Ángel Carmona,Right-Back,2002-01-29,23.0,Spain,184.0,right,7/1/2022,Sevilla Atlético,2028-06-30,10000000.0
-368,569384,Lucien Agoumé,Defensive Midfield,2002-02-09,23.0,"France, Cameroon",185.0,right,8/6/2024,Inter Milan,2028-06-30,7000000.0
-368,74294,Nemanja Gudelj,Defensive Midfield,1991-11-16,33.0,"Serbia, Netherlands",187.0,right,7/23/2019,Guangzhou Evergrande Taobao,2026-06-30,3500000.0
-368,381967,Albert Sambi Lokonga,Central Midfield,1999-10-22,25.0,"Belgium, DR Congo",183.0,right,7/15/2024,Arsenal FC,2025-06-30,12000000.0
-368,212723,Djibril Sow,Central Midfield,1997-02-06,28.0,"Switzerland, Senegal",184.0,right,8/4/2023,Eintracht Frankfurt,2028-06-30,7500000.0
-368,148928,Saúl Ñíguez,Central Midfield,1994-11-21,30.0,Spain,184.0,left,7/15/2024,Atlético de Madrid,2025-06-30,3500000.0
-368,766723,Manu Bueno,Central Midfield,2004-07-27,20.0,Spain,178.0,left,7/1/2024,Without Club,2026-06-30,1500000.0
-368,743387,Stanis Idumbo,Attacking Midfield,2005-06-29,19.0,"Belgium, DR Congo",171.0,right,7/1/2024,Sevilla Atlético,2028-06-30,2500000.0
-368,345886,Rubén Vargas,Left Winger,1998-08-05,26.0,"Switzerland, Dominican Republic",179.0,right,1/10/2025,FC Augsburg,2029-06-30,7000000.0
-368,500067,Chidera Ejuke,Left Winger,1998-01-02,27.0,Nigeria,176.0,right,7/1/2024,CSKA Moscow,2027-06-30,6000000.0
-368,303259,Dodi Lukébakio,Right Winger,1997-09-24,27.0,"Belgium, DR Congo",187.0,left,8/24/2023,Hertha BSC,2028-06-30,20000000.0
-368,111961,Suso,Right Winger,1993-11-19,31.0,Spain,177.0,left,7/21/2020,AC Milan,2025-06-30,2500000.0
-368,639733,Peque Fernández,Second Striker,2002-10-04,22.0,Spain,172.0,right,7/11/2024,Racing Santander,2028-06-30,5000000.0
-368,687609,Isaac Romero,Centre-Forward,2000-05-18,24.0,Spain,183.0,left,1/11/2024,Sevilla Atlético,2028-06-30,15000000.0
-368,607034,Akor Adams,Centre-Forward,2000-01-29,25.0,Nigeria,190.0,right,1/27/2025,Montpellier HSC,2029-06-30,9000000.0
-1158,147051,Yvon Mvogo,Goalkeeper,1994-06-06,30.0,"Switzerland, Cameroon",190.0,right,7/13/2022,RB Leipzig,2025-06-30,3000000.0
-1158,124901,Benjamin Leroy,Goalkeeper,1989-04-07,35.0,France,184.0,right,7/5/2024,Quevilly - Rouen Métropole,2026-06-30,200000.0
-1158,872757,Gaël Alette,Goalkeeper,2001-04-27,23.0,France,202.0,right,7/4/2024,FC Lorient B,2027-06-30,1781194.0
-1158,496706,Montassar Talbi,Centre-Back,1998-05-26,26.0,"Tunisia, France",190.0,right,7/18/2022,Rubin Kazan,2027-06-30,5000000.0
-1158,649023,Formose Mendy,Centre-Back,2001-01-02,24.0,"Senegal, Guinea-Bissau",191.0,right,7/20/2023,Amiens SC,2028-06-30,3500000.0
-1158,646829,Nathaniel Adjei,Centre-Back,2002-08-21,22.0,Ghana,191.0,right,7/1/2024,Hammarby IF,2026-06-30,2000000.0
-1158,386057,Julien Laporte,Centre-Back,1993-11-04,31.0,France,185.0,right,7/8/2019,Clermont Foot 63,2025-06-30,1200000.0
-1158,1130941,Enzo Genton,Centre-Back,2006-03-31,18.0,France,188.0,right,7/1/2024,FC Lorient B,2027-06-30,100000.0
-1158,717118,Darlin Yongwa,Left-Back,2000-09-22,24.0,Cameroon,177.0,left,7/1/2022,Chamois Niortais FC,2026-06-30,2000000.0
-1158,746642,Isaac James,Left-Back,2004-08-28,20.0,Nigeria,175.0,left,7/1/2024,FC Lorient B,2025-06-30,200000.0
-1158,395685,Gédéon Kalulu,Right-Back,1997-08-29,27.0,"DR Congo, France",179.0,right,7/1/2022,AC Ajaccio,2026-06-30,2500000.0
-1158,816308,Panos Katseris,Right-Back,2001-07-05,23.0,Greece,187.0,right,1/23/2024,US Catanzaro,2028-06-30,2500000.0
-1158,391720,Igor Silva,Right-Back,1996-08-21,28.0,Brazil,173.0,right,7/23/2021,NK Osijek,2026-06-30,800000.0
-1158,238626,Laurent Abergel,Defensive Midfield,1993-02-01,32.0,France,170.0,right,7/26/2019,AS Nancy-Lorraine,2029-06-30,2500000.0
-1158,322305,Jean-Victor Makengo,Central Midfield,1998-06-12,26.0,"France, DR Congo",177.0,left,1/30/2023,Udinese Calcio,2027-06-30,3000000.0
-1158,1074628,Arthur Avom,Central Midfield,2004-12-15,20.0,Cameroon,173.0,right,7/1/2024,FC Lorient B,2026-06-30,800000.0
-1158,569390,Julien Ponceau,Attacking Midfield,2000-11-28,24.0,"France, Angola",170.0,right,7/1/2018,FC Lorient U19,2025-06-30,3500000.0
-1158,590914,Bandiougou Fadiga,Attacking Midfield,2001-01-15,24.0,"France, Mali",178.0,right,8/14/2024,Olympiacos Piraeus B,2028-06-30,300000.0
-1158,700078,Joel Mvuka,Right Winger,2002-11-12,22.0,Norway,176.0,right,1/31/2023,FK Bodø/Glimt,2027-06-30,3000000.0
-1158,428954,Stéphane Diarra,Right Winger,1998-12-09,26.0,"Cote d'Ivoire, France",173.0,left,7/1/2020,Le Mans FC,2025-06-30,1000000.0
-1158,955357,Eli Junior Kroupi,Centre-Forward,2006-06-23,18.0,"France, Cote d'Ivoire",179.0,right,2/4/2025,AFC Bournemouth,2025-06-30,10000000.0
-1158,619461,Mohamed Bamba,Centre-Forward,2001-12-10,23.0,"Cote d'Ivoire, Guinea",185.0,right,1/26/2024,Wolfsberger AC,2028-06-30,5000000.0
-1158,239647,Aiyegun Tosin,Centre-Forward,1998-06-26,26.0,"Benin, Nigeria",179.0,right,7/25/2023,FC Zürich,2027-06-30,2000000.0
-1158,704270,Sambou Soumano,Centre-Forward,2001-01-03,24.0,Senegal,182.0,right,1/1/2022,FC Lorient B,2026-06-30,2000000.0
-1158,810411,Pablo Pagis,Centre-Forward,2002-12-29,22.0,France,180.0,both,7/1/2022,FC Lorient B,2027-06-30,800000.0
-200,248658,Vasilios Barkas,Goalkeeper,1994-05-30,30.0,"Greece, Netherlands",196.0,left,7/28/2023,Celtic FC,2025-06-30,3000000.0
-200,231650,Michael Brouwer,Goalkeeper,1993-01-21,32.0,Netherlands,189.0,right,7/25/2024,Heracles Almelo,2026-06-30,500000.0
-200,729010,Tom de Graaff,Goalkeeper,2004-12-10,20.0,Netherlands,193.0,left,7/1/2024,Ajax Amsterdam U21,2027-06-30,350000.0
-200,607133,Kevin Gadellaa,Goalkeeper,2003-04-08,21.0,Netherlands,206.0,right,7/1/2024,FC Utrecht U21,2027-06-30,150000.0
-200,187105,Mike van der Hoorn,Centre-Back,1992-10-15,32.0,Netherlands,190.0,right,7/1/2022,Arminia Bielefeld,2026-06-30,1200000.0
-200,570597,Matisse Didden,Centre-Back,2001-10-08,23.0,Belgium,198.0,right,7/1/2024,Roda JC Kerkrade,2028-06-30,900000.0
-200,93081,Nick Viergever,Centre-Back,1989-08-03,35.0,Netherlands,183.0,left,7/1/2022,SpVgg Greuther Fürth,2025-06-30,400000.0
-200,691975,Joshua Mukeh,Centre-Back,2003-02-18,22.0,"Netherlands, Nigeria",185.0,left,7/1/2024,FC Utrecht U21,2027-06-30,300000.0
-200,541134,Souffian El Karouani,Left-Back,2000-10-19,24.0,"Morocco, Netherlands",178.0,left,7/1/2023,NEC Nijmegen,2026-06-30,5000000.0
-200,320421,Kolbeinn Finnsson,Left-Back,1999-08-25,25.0,Iceland,181.0,left,8/21/2024,Lyngby Boldklub,2027-06-30,900000.0
-200,314915,Siebe Horemans,Right-Back,1998-06-02,26.0,Belgium,186.0,right,7/1/2024,Excelsior Rotterdam,2027-06-30,2500000.0
-200,422932,Niklas Vesterlund,Right-Back,1999-06-06,25.0,Denmark,185.0,right,1/31/2024,Tromsø IL,2027-06-30,1000000.0
-200,565436,Alonzo Engwanda,Defensive Midfield,2003-01-27,22.0,"Belgium, DR Congo",185.0,right,7/1/2024,RSCA Futures,2028-06-30,2500000.0
-200,795738,Paxten Aaronson,Central Midfield,2003-08-26,21.0,United States,175.0,right,7/1/2024,Eintracht Frankfurt,2025-06-30,6000000.0
-200,406609,Can Bozdogan,Central Midfield,2001-04-05,23.0,"Germany, Türkiye",174.0,left,7/1/2023,FC Schalke 04,2026-06-30,4500000.0
-200,610428,Oscar Fraulo,Central Midfield,2003-12-06,21.0,"Denmark, Italy",180.0,right,8/23/2023,Borussia Mönchengladbach,2025-06-30,3500000.0
-200,686845,Zidane Iqbal,Central Midfield,2003-04-27,21.0,"Iraq, England",181.0,right,7/1/2023,Manchester United,2027-06-30,1000000.0
-200,400548,Victor Jensen,Attacking Midfield,2000-02-08,25.0,Denmark,175.0,both,1/31/2023,Ajax Amsterdam U21,2026-06-30,2300000.0
-200,134999,Jens Toornstra,Attacking Midfield,1989-04-04,35.0,Netherlands,178.0,right,8/23/2022,: Ablöse free transfer,2025-06-30,350000.0
-200,782476,Yoann Cathline,Left Winger,2002-07-22,22.0,France,176.0,right,7/23/2024,FC Lorient,2025-06-30,4000000.0
-200,875581,Adrian Blake,Left Winger,2005-07-15,19.0,"England, Jamaica",170.0,right,7/1/2024,FC Utrecht U21,2027-06-30,500000.0
-200,634427,Miguel Rodríguez,Right Winger,2003-04-29,21.0,Spain,179.0,left,7/5/2024,Celta de Vigo,2025-06-30,2000000.0
-200,723008,Miliano Jonathans,Right Winger,2004-04-05,20.0,Netherlands,178.0,left,1/1/2025,Vitesse Arnhem,2028-06-30,900000.0
-200,557410,Noah Ohio,Centre-Forward,2003-01-16,22.0,"Netherlands, England",183.0,left,7/8/2024,Standard Liège,2027-06-30,3000000.0
-200,181375,Sébastien Haller,Centre-Forward,1994-06-22,30.0,"Cote d'Ivoire, France",190.0,right,1/9/2025,Borussia Dortmund,2025-06-30,3000000.0
-200,604813,David Min,Centre-Forward,1999-06-23,25.0,Netherlands,194.0,right,7/1/2024,RKC Waalwijk,2028-06-30,1000000.0
-200,565434,Anthony Descotte,Centre-Forward,2003-08-03,21.0,Belgium,180.0,right,1/31/2023,R Charleroi SC,2025-06-30,650000.0
-937,358502,Ryuki Miura,Goalkeeper,1992-05-17,32.0,Japan,181.0,right,1/6/2017,Nagano Parceiro,2026-01-31,200000.0
-937,295022,Koto Abe,Goalkeeper,1997-08-01,27.0,Japan,186.0,right,1/20/2025,Albirex Niigata,2026-01-31,150000.0
-937,77383,Eiji Kawashima,Goalkeeper,1983-03-20,41.0,Japan,185.0,right,1/12/2024,Without Club,2026-01-31,75000.0
-937,1001234,Tsubasa Nishizawa,Goalkeeper,2002-08-29,22.0,Japan,189.0,right,2/1/2025,Toin University of Yokohama,2027-06-30,374177.0
-937,524607,Ricardo Graça,Centre-Back,1997-02-16,28.0,"Brazil, Portugal",182.0,left,1/9/2022,Clube de Regatas Vasco da Gama,2025-12-31,900000.0
-937,632730,Katsunori Ueebisu,Centre-Back,1996-04-05,28.0,Japan,182.0,right,1/20/2025,Sagan Tosu,2026-01-31,400000.0
-937,518402,Hasan Hilu,Centre-Back,1999-11-25,25.0,Israel,188.0,right,7/10/2024,Ihud Bnei Sakhnin,2027-06-30,375000.0
-937,895375,Takuro Ezaki,Centre-Back,2000-02-05,25.0,Japan,177.0,right,1/20/2025,Roasso Kumamoto,2026-01-31,325000.0
-937,353904,Riku Morioka,Centre-Back,1998-11-20,26.0,Japan,181.0,right,2/1/2021,Hosei University,2026-01-31,175000.0
-937,1216787,Se-gi Park,Centre-Back,2005-05-16,19.0,"Korea, South",184.0,right,2/1/2024,High School (Japan),2027-01-31,378844.0
-937,307300,Ko Matsubara,Left-Back,1996-08-30,28.0,Japan,182.0,left,7/23/2022,Sint-Truidense VV,2026-01-31,600000.0
-937,1140195,Ryusei Yoshimura,Left-Back,2003-07-02,21.0,Japan,181.0,left,7/1/2024,Without Club,2027-06-30,364336.0
-937,1030662,Hiroto Uemura,Right-Back,2001-08-26,23.0,Japan,173.0,right,2/1/2024,Waseda University,2026-01-31,400000.0
-937,924565,Shunsuke Nishikubo,Right-Back,2003-07-30,21.0,Japan,178.0,right,1/8/2024,JEF United Chiba,2026-01-31,325000.0
-937,165788,Naoki Kawaguchi,Right-Back,1994-05-24,30.0,Japan,175.0,right,2/1/2025,Kashiwa Reysol,2026-01-31,225000.0
-937,565524,Daiki Kaneko,Defensive Midfield,1998-08-28,26.0,Japan,177.0,right,1/20/2025,Kyoto Sanga,2026-01-31,600000.0
-937,813620,Yuki Aida,Defensive Midfield,1998-08-03,26.0,Japan,172.0,right,1/20/2025,Renofa Yamaguchi,2026-01-31,275000.0
-937,900219,Kensuke Fujiwara,Defensive Midfield,2003-12-21,21.0,Japan,177.0,right,2/1/2022,Júbilo Iwata U18,2026-01-31,250000.0
-937,356077,Rikiya Uehara,Central Midfield,1996-08-25,28.0,Japan,174.0,right,2/1/2015,Júbilo Iwata U18,2026-01-31,700000.0
-937,422521,Shun Nakamura,Central Midfield,1994-02-24,31.0,Japan,178.0,right,1/8/2024,Avispa Fukuoka,2026-01-31,400000.0
-937,578630,Léo Gomes,Central Midfield,1997-04-30,27.0,Brazil,181.0,right,1/8/2024,Esporte Clube Vitória,2025-12-31,325000.0
-937,916786,Tokumo Kawai,Central Midfield,2007-03-03,18.0,Japan,173.0,right,2/1/2025,Júbilo Iwata U18,2028-06-30,394858.0
-937,733098,Ikki Kawasaki,Right Midfield,1997-11-08,27.0,Japan,174.0,right,1/8/2024,Kamatamare Sanuki,2026-01-31,175000.0
-937,154860,Hirotaka Tameda,Left Midfield,1993-08-24,31.0,Japan,175.0,right,1/20/2025,Cerezo Osaka,2026-01-31,375000.0
-937,578655,Ken Masui,Attacking Midfield,2001-04-04,23.0,Japan,173.0,right,2/1/2025,Nagoya Grampus,2026-01-31,400000.0
-937,129581,Jordy Croux,Right Winger,1994-01-15,31.0,Belgium,172.0,left,7/16/2024,Cerezo Osaka,2026-01-31,450000.0
-937,566357,Koshiro Sumi,Right Winger,2002-08-13,22.0,Japan,166.0,right,2/1/2025,Tsukuba University,2027-06-30,385550.0
-937,518361,Matheus Peixoto,Centre-Forward,1995-11-16,29.0,Brazil,190.0,right,1/8/2024,Metalist Kharkiv,2025-12-31,1200000.0
-937,679908,Ryoga Sato,Centre-Forward,1999-02-20,26.0,Japan,178.0,right,1/20/2025,Avispa Fukuoka,2027-06-30,650000.0
-937,644725,Ryo Watanabe,Centre-Forward,1996-10-25,28.0,Japan,179.0,right,2/1/2025,Cerezo Osaka,2026-01-31,350000.0
-294,537844,Anatoliy Trubin,Goalkeeper,2001-08-01,23.0,Ukraine,199.0,right,8/10/2023,Shakhtar Donetsk,2028-06-30,25000000.0
-294,504072,Samuel Soares,Goalkeeper,2002-06-15,22.0,"Portugal, Guinea-Bissau",190.0,right,1/1/2023,SL Benfica B,2027-06-30,3000000.0
-294,670710,André Gomes,Goalkeeper,2004-10-20,20.0,Portugal,182.0,left,7/1/2024,Without Club,2028-06-30,2000000.0
-294,650568,António Silva,Centre-Back,2003-10-30,21.0,Portugal,187.0,right,7/1/2022,SL Benfica U23,2027-06-30,38000000.0
-294,504087,Tomás Araújo,Centre-Back,2002-05-16,22.0,Portugal,187.0,right,7/1/2022,SL Benfica B,2029-06-30,28000000.0
-294,582987,Adrian Bajrami,Centre-Back,2002-04-05,22.0,"Albania, Switzerland",188.0,left,8/30/2024,SL Benfica B,2029-06-30,1500000.0
-294,54781,Nicolás Otamendi,Centre-Back,1988-02-12,37.0,Argentina,183.0,right,9/29/2020,Manchester City,2025-06-30,1000000.0
-294,811778,Álvaro Carreras,Left-Back,2003-03-23,21.0,Spain,186.0,left,7/1/2024,Manchester United,2029-06-30,18000000.0
-294,605396,Samuel Dahl,Left-Back,2003-03-04,22.0,Sweden,174.0,left,2/3/2025,AS Roma,2025-06-30,4000000.0
-294,452607,Alexander Bah,Right-Back,1997-12-09,27.0,"Denmark, The Gambia",183.0,right,7/1/2022,SK Slavia Prague,2029-06-30,14000000.0
-294,1173926,Leandro Santos,Right-Back,2005-09-28,19.0,Portugal,181.0,right,1/1/2025,SL Benfica B,2027-06-30,500000.0
-294,357162,Florentino,Defensive Midfield,1999-08-19,25.0,"Portugal, Angola",184.0,right,1/1/2019,SL Benfica B,2027-06-30,20000000.0
-294,699592,Manu Silva,Defensive Midfield,2001-06-12,23.0,Portugal,190.0,right,1/20/2025,Vitória Guimarães SC,2030-06-30,3000000.0
-294,454567,Orkun Kökçü,Central Midfield,2000-12-29,24.0,"Türkiye, Netherlands",175.0,both,7/1/2023,: Ablöse €25.00m,2028-06-30,28000000.0
-294,223367,Fredrik Aursnes,Central Midfield,1995-12-10,29.0,Norway,181.0,right,8/24/2022,: Ablöse €13.00m,2029-06-30,20000000.0
-294,357233,Leandro Barreiro,Central Midfield,2000-01-03,25.0,"Luxembourg, Portugal",174.0,right,7/2/2024,1.FSV Mainz 05,2029-06-30,15000000.0
-294,258027,Renato Sanches,Central Midfield,1997-08-18,27.0,"Portugal, Sao Tome and Principe",176.0,right,8/5/2024,Paris Saint-Germain,2025-06-30,5000000.0
-294,931415,João Rego,Attacking Midfield,2005-06-20,19.0,Portugal,182.0,right,1/1/2025,SL Benfica B,2028-06-30,2200000.0
-294,382528,Kerem Aktürkoğlu,Left Winger,1998-10-21,26.0,Türkiye,173.0,right,9/3/2024,Galatasaray,2029-06-30,25000000.0
-294,670103,Andreas Schjelderup,Left Winger,2004-06-01,20.0,Norway,176.0,right,1/12/2023,FC Nordsjaelland,2028-06-30,10000000.0
-294,139396,Bruma,Left Winger,1994-10-24,30.0,"Portugal, Guinea-Bissau",173.0,right,2/3/2025,SC Braga,2028-06-30,8000000.0
-294,1000674,Gianluca Prestianni,Right Winger,2006-01-31,19.0,"Argentina, Italy",166.0,right,1/31/2024,CA Vélez Sarsfield,2029-06-30,10000000.0
-294,479638,Tiago Gouveia,Right Winger,2001-06-18,23.0,Portugal,176.0,right,4/1/2022,SL Benfica B,2028-06-30,5000000.0
-294,45320,Ángel Di María,Right Winger,1988-02-14,37.0,"Argentina, Italy",178.0,left,7/5/2023,Juventus FC,2025-06-30,3000000.0
-294,324503,Vangelis Pavlidis,Centre-Forward,1998-11-21,26.0,Greece,186.0,both,7/1/2024,AZ Alkmaar,2029-06-30,23000000.0
-294,548729,Zeki Amdouni,Centre-Forward,2000-12-04,24.0,"Switzerland, Türkiye",185.0,both,8/29/2024,Burnley FC,2025-06-30,15000000.0
-294,390638,Arthur Cabral,Centre-Forward,1998-04-25,26.0,Brazil,186.0,right,8/10/2023,ACF Fiorentina,2028-06-30,12000000.0
-294,167727,Andrea Belotti,Centre-Forward,1993-12-20,31.0,Italy,181.0,right,2/3/2025,Como 1907,2025-06-30,2000000.0
-1112,503769,Arthur Okonkwo,Goalkeeper,2001-09-09,23.0,"England, Nigeria",198.0,right,7/1/2024,Arsenal FC,2027-06-30,1200000.0
-1112,236495,Callum Burton,Goalkeeper,1996-08-15,28.0,England,188.0,right,7/15/2024,Plymouth Argyle,2026-06-30,200000.0
-1112,653353,Luke McNicholas,Goalkeeper,2000-01-01,25.0,"Ireland, England",192.0,right,1/23/2024,Sligo Rovers,2026-06-30,100000.0
-1112,25186,Mark Howard,Goalkeeper,1986-09-21,38.0,England,183.0,right,7/5/2022,Carlisle United,2025-06-30,50000.0
-1112,1011320,Liam Hall,Goalkeeper,2004-12-18,20.0,England,191.0,right,8/18/2023,Bradford (Park Avenue),2025-06-30,50000.0
-1112,541516,Bradley Foster,Goalkeeper,2001-10-05,23.0,England,194.0,right,12/7/2024,Without Club,2025-06-30,394562.0
-1112,705160,Max Cleworth,Centre-Back,2002-08-09,22.0,"Wales, England",191.0,right,10/7/2020,FC Wrexham U18,2027-06-30,700000.0
-1112,533657,Lewis Brunt,Centre-Back,2000-11-06,24.0,England,187.0,right,7/2/2024,Leicester City U21,2027-06-30,600000.0
-1112,407363,Dan Scarr,Centre-Back,1994-12-24,30.0,England,188.0,right,8/2/2024,Plymouth Argyle,2027-06-30,450000.0
-1112,357661,Thomas O'Connor,Centre-Back,1999-04-21,25.0,Ireland,186.0,left,1/31/2022,Burton Albion,2027-06-30,350000.0
-1112,280982,Eoghan O'Connell,Centre-Back,1995-08-13,29.0,Ireland,187.0,right,1/31/2023,Charlton Athletic,2027-06-30,300000.0
-1112,247400,Will Boyle,Centre-Back,1995-09-01,29.0,"England, Scotland",191.0,left,7/13/2023,Huddersfield Town,2026-06-30,200000.0
-1112,667925,Sebastian Revan,Left-Back,2003-07-14,21.0,"England, St. Kitts & Nevis",181.0,left,7/15/2024,Aston Villa U21,2027-06-30,400000.0
-1112,822163,Jacob Mendy,Left-Back,1996-12-27,28.0,"The Gambia, Spain",182.0,left,8/1/2022,Boreham Wood FC,2026-06-30,200000.0
-1112,382553,Luke Bolton,Right-Back,1999-10-07,25.0,England,174.0,right,2/1/2024,Salford City,2026-06-30,400000.0
-1112,292734,George Dobson,Defensive Midfield,1997-11-15,27.0,England,185.0,right,7/6/2024,Charlton Athletic,2027-06-30,500000.0
-1112,181498,George Evans,Defensive Midfield,1994-12-13,30.0,England,184.0,right,9/1/2023,Millwall FC,2026-06-30,250000.0
-1112,404553,Ollie Rathbone,Central Midfield,1996-10-10,28.0,England,170.0,right,8/9/2024,Rotherham United,2027-06-30,800000.0
-1112,341882,Andy Cannon,Central Midfield,1996-03-14,28.0,England,176.0,right,12/9/2022,Hull City,2026-06-30,225000.0
-1112,73522,Matty James,Central Midfield,1991-07-22,33.0,England,181.0,right,10/25/2024,Without Club,2026-06-30,200000.0
-1112,479203,Ryan Barnett,Right Midfield,1999-09-23,25.0,England,180.0,right,2/24/2023,Solihull Moors,2027-06-30,350000.0
-1112,1193460,Harry Ashfield,Right Midfield,2006-03-23,18.0,Wales,177.4,right,7/1/2024,FC Wrexham U18,2025-06-30,230353.0
-1112,85935,James McClean,Left Midfield,1989-04-22,35.0,"Ireland, Northern Ireland",180.0,left,8/4/2023,Wigan Athletic,2026-06-30,150000.0
-1112,229826,Elliot Lee,Attacking Midfield,1994-12-16,30.0,England,180.0,right,7/8/2022,Luton Town,2027-06-30,700000.0
-1112,633654,Josh Adam,Attacking Midfield,2004-02-03,21.0,Scotland,177.8,right,9/9/2024,Without Club,2025-06-30,510960.0
-1112,512175,Ryan Longman,Left Winger,2000-11-06,24.0,England,180.0,right,1/24/2025,Hull City,2027-06-30,2000000.0
-1112,278501,Paul Mullin,Centre-Forward,1994-11-06,30.0,"England, Wales",178.0,right,7/23/2021,Cambridge United,2027-06-30,650000.0
-1112,53360,Jay Rodríguez,Centre-Forward,1989-07-29,35.0,"England, Spain",185.0,right,1/31/2025,Burnley FC,2026-06-30,600000.0
-1112,424885,Sam Smith,Centre-Forward,1998-03-08,26.0,England,181.0,left,1/31/2025,Reading FC,2028-06-30,600000.0
-1112,268746,Jack Marriott,Centre-Forward,1994-09-09,30.0,England,173.0,right,2/1/2024,Fleetwood Town,2026-06-30,450000.0
-1112,741694,Mo Faal,Centre-Forward,2003-02-11,22.0,"The Gambia, England",196.0,right,8/30/2024,West Bromwich Albion U21,2027-06-30,400000.0
-1112,282256,Ollie Palmer,Centre-Forward,1992-01-21,33.0,England,196.0,right,1/24/2022,AFC Wimbledon,2026-06-30,125000.0
-1112,35099,Steven Fletcher,Centre-Forward,1987-03-26,37.0,"Scotland, England",185.0,left,9/8/2023,Without Club,2025-06-30,100000.0
-122,463527,Kjell Scherpen,Goalkeeper,2000-01-23,25.0,Netherlands,206.0,right,7/6/2023,Brighton & Hove Albion,2025-06-30,4000000.0
-122,718756,Daniil Khudyakov,Goalkeeper,2004-01-09,21.0,Russia,194.0,right,7/22/2024,Lokomotiv Moscow,2028-06-30,1000000.0
-122,629032,Matteo Bignetti,Goalkeeper,2004-05-06,20.0,Austria,190.0,right,7/1/2023,Eintracht Frankfurt II,2026-06-30,250000.0
-122,203125,Gregory Wüthrich,Centre-Back,1994-12-04,30.0,"Switzerland, Ghana",192.0,right,8/7/2020,Perth Glory,2025-06-30,4000000.0
-122,394152,Emanuel Aiwu,Centre-Back,2000-12-25,24.0,Austria,187.0,right,7/10/2024,US Cremonese,2028-06-30,3000000.0
-122,394008,Niklas Geyrhofer,Centre-Back,2000-02-11,25.0,Austria,188.0,right,1/1/2020,SK Sturm Graz II,2025-06-30,2000000.0
-122,805534,Arjan Malic,Centre-Back,2005-08-28,19.0,"Bosnia-Herzegovina, Slovenia",186.0,right,7/1/2024,SV Ried,2027-06-30,600000.0
-122,321050,Alexandar Borkovic,Centre-Back,1999-06-11,25.0,Austria,184.0,left,7/1/2023,TSG 1899 Hoffenheim II,2026-06-30,400000.0
-122,420890,Dimitri Lavalée,Left-Back,1997-01-13,28.0,Belgium,187.0,left,7/1/2024,KV Mechelen,2026-06-30,4000000.0
-122,913495,Emran Soglo,Left-Back,2005-07-11,19.0,"England, France",178.0,left,1/30/2025,Olympique Marseille,2027-06-30,800000.0
-122,286596,Emir Karic,Left-Back,1997-06-09,27.0,"Bosnia-Herzegovina, Austria",184.0,left,7/1/2024,SV Darmstadt 98,2027-06-30,700000.0
-122,652632,Max Johnston,Right-Back,2003-12-26,21.0,"Scotland, England",185.0,right,7/25/2023,Motherwell FC,2027-06-30,1500000.0
-122,245034,Jon Gorenc Stankovic,Defensive Midfield,1996-01-14,29.0,Slovenia,190.0,right,7/27/2020,Huddersfield Town,2027-06-30,4000000.0
-122,553328,Tochi Chukwuani,Central Midfield,2003-03-24,21.0,"Denmark, Nigeria",187.0,right,7/1/2024,Lyngby Boldklub,2028-06-30,4000000.0
-122,954277,Martin Kern,Central Midfield,2006-03-23,18.0,Hungary,176.0,left,7/1/2024,Puskás Akadémia FC II,2027-06-30,250000.0
-122,1178758,Malick Yalcouyé,Right Midfield,2005-11-18,19.0,"Mali, Cote d'Ivoire",169.0,right,8/29/2024,Brighton & Hove Albion,2025-06-30,13000000.0
-122,59053,Stefan Hierländer,Right Midfield,1991-02-03,34.0,Austria,180.0,right,7/7/2016,: Ablöse free transfer,2025-06-30,275000.0
-122,610400,William Bøving,Left Midfield,2003-03-01,22.0,Denmark,176.0,right,8/30/2022,: Ablöse €2.20m,2026-06-30,5000000.0
-122,352596,Otar Kiteishvili,Attacking Midfield,1996-03-26,28.0,Georgia,173.0,both,7/31/2018,Dinamo Tbilisi,2027-06-30,5000000.0
-122,340415,Tomi Horvat,Attacking Midfield,1999-03-24,25.0,Slovenia,176.0,left,7/1/2022,NS Mura,2025-06-30,4000000.0
-122,892973,Lovro Zvonarek,Attacking Midfield,2005-05-08,19.0,Croatia,180.0,right,7/4/2024,Bayern Munich,2025-06-30,2500000.0
-122,826719,Fally Mayulu,Centre-Forward,2002-07-15,22.0,"France, DR Congo",193.0,right,1/26/2025,Bristol City,2025-06-30,3000000.0
-122,661206,Seedy Jatta,Centre-Forward,2003-03-18,21.0,Norway,182.0,right,8/17/2023,Vålerenga Fotball Elite,2027-06-30,2500000.0
-122,1155608,Amady Camara,Centre-Forward,2005-05-28,19.0,Mali,180.0,left,1/1/2024,SK Sturm Graz II,2027-06-30,2000000.0
-122,822601,Leon Grgic,Centre-Forward,2006-01-22,19.0,"Austria, Croatia",189.0,both,7/1/2023,SK Sturm Graz II,2027-06-30,1000000.0
-393,908366,Jan Mottl,Goalkeeper,2005-04-18,19.0,Germany,193.0,right,7/1/2024,SpVgg Greuther Fürth U19,2026-06-30,50000.0
-393,913422,Silas Prüfrock,Goalkeeper,2005-01-25,20.0,Germany,180.0,right,7/1/2024,RB Leipzig U19,2025-06-30,50000.0
-393,958014,Simon Hoffmann,Goalkeeper,2006-05-05,18.0,Germany,183.0,right,1/1/2024,SpVgg Greuther Fürth U19,2027-06-30,25000.0
-393,747982,Vin Kastull,Centre-Back,2004-11-29,20.0,Germany,191.0,right,7/1/2024,BSG Chemie Leipzig,2025-06-30,100000.0
-393,810831,Raphael Adiele,Centre-Back,2005-03-30,19.0,"Germany, Poland",196.0,both,7/1/2024,SpVgg Greuther Fürth U19,2025-06-30,100000.0
-393,372236,Yannick Scholz,Centre-Back,1996-08-14,28.0,Germany,192.0,right,10/7/2024,Without Club,2025-06-30,75000.0
-393,829841,Richard Hauth,Centre-Back,2005-08-22,19.0,"Germany, United States",187.0,right,7/1/2024,SpVgg Greuther Fürth U19,2025-06-30,25000.0
-393,923141,Nikolaos Vakouftsis,Centre-Back,2004-03-31,20.0,Greece,196.0,right,1/27/2025,1.FC Kaiserslautern II,2025-06-30,141633.0
-393,829736,Rico Wuttke,Left-Back,2005-01-04,20.0,Germany,178.8,left,7/1/2024,SpVgg Greuther Fürth U19,2025-06-30,75000.0
-393,867759,Aiden Mostofi,Left-Back,2004-02-14,21.0,"Australia, Iran",189.0,left,7/14/2023,St. George City FA,2025-06-30,75000.0
-393,1034889,Raul Mariţa,Left-Back,2006-09-27,18.0,"Romania, Germany",178.8,left,1/1/2025,SpVgg Greuther Fürth U19,2027-06-30,75000.0
-393,729096,Kenan Aydin,Right-Back,2004-10-02,20.0,"Germany, Türkiye",176.0,right,7/1/2023,SpVgg Greuther Fürth U19,2025-06-30,75000.0
-393,807466,Christoph Meister,Right-Back,2004-09-25,20.0,Germany,179.0,right,7/1/2023,SpVgg Greuther Fürth U19,2025-06-30,50000.0
-393,810902,Arjanit Fazlija,Defensive Midfield,2005-02-05,20.0,"Kosovo, Germany",182.0,left,7/1/2024,Bayer 04 Leverkusen U19,2025-06-30,75000.0
-393,1034888,Jakob Engel,Defensive Midfield,2006-03-30,18.0,Germany,181.4,right,1/1/2025,SpVgg Greuther Fürth U19,2027-06-30,75000.0
-393,744785,Leart Haskaj,Defensive Midfield,2004-02-24,21.0,"Kosovo, Germany",182.0,right,1/31/2023,TSG 1899 Hoffenheim U19,2025-06-30,50000.0
-393,807469,Lukas Näpflein,Central Midfield,2005-05-11,19.0,Germany,176.0,both,7/1/2024,SpVgg Greuther Fürth U19,2025-06-30,100000.0
-393,904058,Giovanni Nkowa,Right Midfield,2005-09-24,19.0,"Germany, Cameroon",175.0,both,7/1/2024,SpVgg Greuther Fürth U19,2025-06-30,50000.0
-393,985371,Jorden Aigboje,Right Midfield,2003-04-28,21.0,Germany,182.0,right,7/3/2024,FC Gießen,2025-06-30,50000.0
-393,1034887,Adem Imeri,Left Midfield,2006-02-13,19.0,"Germany, Kosovo",178.0,left,1/1/2025,SpVgg Greuther Fürth U19,2026-06-30,75000.0
-393,1196327,Ismael Wiegand,Left Midfield,2005-05-11,19.0,Germany,180.0,right,1/14/2025,TSV Schott Mainz,2026-06-30,88056.0
-393,669213,Halit Yılmaz,Attacking Midfield,2003-09-02,21.0,"Germany, Türkiye",177.8,both,1/31/2025,Türkgücü München,2025-06-30,150000.0
-393,31469,Daniel Adlung,Attacking Midfield,1987-10-01,37.0,Germany,180.0,right,1/1/2022,1.FC Schweinfurt 05,2027-06-30,100000.0
-393,807463,Marlon Fries,Attacking Midfield,2004-06-29,20.0,Germany,168.0,right,8/28/2023,Akron Zips (University of Akron),2025-06-30,75000.0
-393,727697,Nico Grimbs,Second Striker,2004-02-19,21.0,"Germany, Austria",184.0,right,7/1/2024,SpVgg Greuther Fürth,2026-06-30,100000.0
-393,555499,Daniel Kasper,Centre-Forward,2002-06-23,22.0,Germany,188.0,right,7/1/2024,VfR Wormatia Worms,2025-06-30,150000.0
-393,941792,Marin Hrgota,Centre-Forward,2004-06-21,20.0,"Sweden, Croatia",180.0,right,9/1/2023,Jönköpings Södra IF U19,2025-06-30,50000.0
-3159,289583,Antoine Lejoly,Goalkeeper,1998-03-26,26.0,Belgium,187.0,right,8/3/2022,Beerschot VA,2025-06-30,150000.0
-3159,59633,Kevin Debaty,Goalkeeper,1989-06-12,35.0,Belgium,189.0,right,9/15/2019,Without Club,2025-06-30,100000.0
-3159,1170606,Joshua Mpenza,Goalkeeper,2005-11-16,19.0,Belgium,189.7,right,7/1/2024,Without Club,2026-06-30,50000.0
-3159,613168,Jordan Bustin,Centre-Back,1998-09-09,26.0,Belgium,187.3,left,7/1/2019,RFC Lüttich U21,2026-06-30,350000.0
-3159,140786,Pierre-Yves Ngawa,Centre-Back,1992-02-09,33.0,"Belgium, DR Congo",187.0,right,7/20/2024,Oud-Heverlee Leuven,2027-06-30,200000.0
-3159,34913,Benjamin Lambot,Centre-Back,1987-05-02,37.0,Belgium,190.0,right,7/1/2021,NorthEast United FC,2025-06-30,75000.0
-3159,1299220,Liam Moreau,Centre-Back,2007-12-15,17.0,Belgium,192.0,left,7/1/2024,Royal Excelsior Virton U19,2026-06-30,50000.0
-3159,181677,Jonathan D'Ostilio,Left-Back,1994-02-24,31.0,Belgium,175.0,left,2/1/2016,KAS Eupen,2025-06-30,350000.0
-3159,912110,Lucca Lucker,Left-Back,2001-03-09,23.0,Belgium,185.0,left,9/6/2023,Jong Cercle,2026-06-30,300000.0
-3159,83945,Stefano Marzo,Right-Back,1991-03-22,33.0,"Belgium, Italy",181.0,right,7/12/2024,FCV Dender EH,2027-06-30,250000.0
-3159,780615,Jérémie Lioka,Defensive Midfield,1998-08-23,26.0,France,185.0,right,7/1/2023,Olympic Charleroi,2025-06-30,300000.0
-3159,378225,Théo Pierrot,Defensive Midfield,1994-01-01,31.0,France,184.0,right,7/1/2024,Lommel SK,2026-06-30,150000.0
-3159,1309330,Stephen Reynaerts,Midfielder,2005-06-17,19.0,Belgium,176.1,right,1/29/2025,STVV Youth,2025-06-30,356131.0
-3159,538970,Ryan Merlen,Central Midfield,2002-05-11,22.0,France,188.0,right,7/20/2022,RC Lens B,2026-06-30,500000.0
-3159,972480,Flavio Da Silva,Attacking Midfield,2001-03-04,24.0,"France, Portugal",175.0,right,8/14/2024,R Charleroi SC,2026-06-30,350000.0
-3159,1048358,Abian Arslan,Attacking Midfield,2004-12-10,20.0,"Belgium, Türkiye",177.8,left,7/1/2023,RFC Lüttich U21,2026-06-30,200000.0
-3159,250509,Benoit Bruggeman,Left Winger,1997-02-05,28.0,Belgium,177.2,left,7/1/2016,Royal Excel Mouscron U21 (-2022),2025-06-30,300000.0
-3159,407347,Alessandro Albanese,Left Winger,2000-01-12,25.0,"Belgium, Italy",174.0,right,1/24/2025,HJK Helsinki,2025-06-30,200000.0
-3159,202830,Alessio Cascio,Left Winger,1994-07-19,30.0,"Belgium, Italy",170.0,right,7/1/2023,URSL Visé,2027-06-30,200000.0
-3159,196721,Yannick Loemba,Left Winger,1990-04-21,34.0,"Congo, Belgium",178.0,right,7/1/2022,Renaissance AEC Mons,2025-06-30,100000.0
-3159,857154,Alexis Lefebvre,Right Winger,2003-05-21,21.0,France,166.0,right,8/20/2024,ESTAC Troyes,2027-06-30,200000.0
-3159,370520,Damien Mouchamps,Right Winger,1996-01-10,29.0,Belgium,172.0,right,7/1/2018,KAS Eupen,2025-06-30,200000.0
-3159,486475,Maxime Cavelier,Right Winger,2002-08-08,22.0,Belgium,177.1,right,7/1/2021,KAA Gent U21,2026-06-30,150000.0
-3159,748023,Zakaria Atteri,Centre-Forward,2002-02-11,23.0,"Belgium, Morocco",189.0,left,9/6/2023,FCV Dender EH,2026-06-30,250000.0
-1008,315235,Thijmen Nijhuis,Goalkeeper,1998-07-25,26.0,Netherlands,197.0,right,7/17/2024,FC Utrecht,2025-12-31,300000.0
-1008,93456,Jesse Öst,Goalkeeper,1990-10-23,34.0,Finland,194.0,right,1/1/2023,SJK Seinäjoki,2026-12-31,100000.0
-1008,927630,Alex Ramula,Goalkeeper,2005-01-17,20.0,Finland,184.0,right,1/1/2025,HJK Klubi 04 Helsinki,2025-12-31,211705.0
-1008,482004,Ville Tikkanen,Centre-Back,1999-08-08,25.0,Finland,186.0,right,1/1/2025,SJK Seinäjoki,2026-12-31,400000.0
-1008,465537,Georgios Antzoulas,Centre-Back,2000-02-04,25.0,Greece,191.0,right,7/18/2024,Újpest FC,2025-12-31,300000.0
-1008,131967,Daniel O'Shaughnessy,Centre-Back,1994-09-14,30.0,"Finland, Ireland",190.0,left,7/2/2024,Karlsruher SC,2026-12-31,300000.0
-1008,814426,Michael Boamah,Centre-Back,2003-04-16,21.0,"Finland, United States",190.0,right,1/1/2024,HJK Klubi 04 Helsinki,2026-12-31,100000.0
-1008,1015336,Kaius Simojoki,Centre-Back,2006-03-21,18.0,Finland,187.3,right,1/1/2025,HJK Klubi 04 Helsinki,2025-12-31,10000.0
-1008,1013991,Aaro Soiniemi,Left-Back,2005-08-08,19.0,Finland,178.8,left,1/1/2024,Käpylän Pallo,2026-12-31,25000.0
-1008,462698,Brooklyn Lyons-Foster,Right-Back,2000-12-01,24.0,"England, Ireland",183.0,right,2/14/2024,: Ablöse ?,2025-12-31,200000.0
-1008,716894,Miska Ylitolva,Right-Back,2004-05-23,20.0,Finland,178.0,right,1/20/2022,Rovaniemen Palloseura,2026-12-31,150000.0
-1008,82113,Alexander Ring,Central Midfield,1991-04-09,33.0,Finland,178.0,right,2/5/2025,Austin FC,2026-12-31,800000.0
-1008,322994,Lucas Lingman,Central Midfield,1998-01-25,27.0,Finland,178.0,left,1/4/2024,Helsingborgs IF,2026-12-31,500000.0
-1008,534675,Georgios Kanellopoulos,Central Midfield,2000-01-29,25.0,Greece,185.0,right,1/14/2023,: Ablöse ?,2025-12-31,400000.0
-1008,713140,Jere Kallinen,Central Midfield,2002-01-10,23.0,Finland,178.0,right,1/1/2025,AC Oulu,2026-12-31,300000.0
-1008,741585,Aaro Toivonen,Central Midfield,2005-04-19,19.0,Finland,175.0,right,1/1/2024,HJK Klubi 04 Helsinki,2025-12-31,50000.0
-1008,990336,Matias Ritari,Central Midfield,2005-07-15,19.0,Finland,179.2,right,1/1/2025,HJK Klubi 04 Helsinki,2026-12-31,211671.0
-1008,937990,Pyry Mentu,Central Midfield,2006-11-01,18.0,Finland,179.2,right,1/1/2025,HJK Klubi 04 Helsinki,2027-12-31,215562.0
-1008,718431,Liam Möller,Attacking Midfield,2004-12-21,20.0,Finland,182.0,right,1/1/2024,HJK Klubi 04 Helsinki,2026-12-31,150000.0
-1008,380118,Ozan Kökcü,Left Winger,1998-08-18,26.0,"Azerbaijan, Netherlands",176.0,both,7/31/2024,FC Eindhoven,2026-12-31,500000.0
-1008,504259,Hassane Bandé,Left Winger,1998-10-30,26.0,Burkina Faso,178.0,right,8/11/2023,Amiens SC,2025-06-30,350000.0
-1008,418762,Santeri Hostikka,Left Winger,1997-09-30,27.0,Finland,183.0,right,8/4/2021,Pogon Szczecin,2025-12-31,300000.0
-1008,741584,Ville Vuorinen,Left Winger,2005-02-21,20.0,Finland,185.0,left,1/1/2025,HJK Klubi 04 Helsinki,2026-12-31,209594.0
-1008,944834,Stanislav Baranov,Right Winger,2005-04-15,19.0,"Finland, Russia",188.0,right,1/1/2025,HJK Klubi 04 Helsinki,2026-12-31,50000.0
-1008,741588,Roni Hudd,Second Striker,2005-01-20,20.0,Finland,174.0,right,8/26/2024,Vaasan Palloseura,2026-12-31,100000.0
-1008,46972,Teemu Pukki,Centre-Forward,1990-03-29,34.0,Finland,180.0,right,1/24/2025,Minnesota United FC,2026-12-31,800000.0
-1008,937987,David Ezeh,Centre-Forward,2006-02-13,19.0,"Finland, Nigeria",187.0,right,1/1/2023,HJK Klubi 04 Helsinki,2026-12-31,100000.0
-272,366458,Kalle Joelsson,Goalkeeper,1998-03-21,26.0,Sweden,189.0,right,1/29/2025,Helsingborgs IF,2027-12-31,350000.0
-272,75890,Kristoffer Nordfeldt,Goalkeeper,1989-06-23,35.0,Sweden,190.0,right,8/9/2021,Genclerbirligi Ankara,2025-12-31,200000.0
-272,293168,Filip Benkovic,Centre-Back,1997-07-13,27.0,Croatia,194.0,right,1/29/2025,Without Club,2026-12-31,1500000.0
-272,108468,Benjamin Tiedemann,Centre-Back,1994-02-07,31.0,Denmark,189.0,right,1/8/2024,Molde FK,2025-12-31,900000.0
-272,322075,Thomas Isherwood,Centre-Back,1998-01-28,27.0,"Sweden, England",195.0,left,8/26/2024,SV Darmstadt 98,2025-06-30,400000.0
-272,97616,Sotirios Papagiannopoulos,Centre-Back,1990-09-05,34.0,"Sweden, Greece",190.0,right,8/17/2020,: Ablöse ?,2025-12-31,200000.0
-272,950400,Ahmad Faqa,Centre-Back,2003-01-10,22.0,"Syria, Sweden",187.3,right,3/23/2022,AIK U19,2026-12-31,150000.0
-272,131827,Jere Uronen,Left-Back,1994-07-13,30.0,Finland,177.0,left,1/29/2025,Charlotte FC,2026-12-31,1000000.0
-272,281252,Mads Thychosen,Right-Back,1997-06-27,27.0,Denmark,178.0,right,7/7/2023,: Ablöse €70k,2027-12-31,1200000.0
-272,1183410,Charlie Pavey,Right-Back,2008-06-07,16.0,Sweden,178.7,right,1/29/2025,AIK U17,2027-12-31,527479.0
-272,719926,Áron Csongvai,Defensive Midfield,2000-10-31,24.0,Hungary,186.0,right,2/13/2025,Fehérvár FC,2027-12-31,900000.0
-272,263718,Martin Ellingsen,Defensive Midfield,1995-05-04,29.0,Norway,180.0,left,2/1/2024,Molde FK,2026-12-31,500000.0
-272,1311107,Stanley Wilson,Midfielder,2006-08-21,18.0,Kenya,176.1,right,8/21/2024,FC Kariobangi Sharks,2027-12-31,553434.0
-272,1058791,Andreas Redkin,Midfielder,2007-01-19,18.0,Sweden,176.1,right,1/29/2025,AIK U19,2027-12-31,491674.0
-272,249102,Anton Salétros,Central Midfield,1996-04-12,28.0,"Sweden, Hungary",183.0,left,7/8/2023,SM Caen,2028-12-31,2500000.0
-272,418557,Johan Hove,Central Midfield,2000-09-07,24.0,Norway,178.0,right,2/13/2025,FC Groningen,2028-12-31,1500000.0
-272,892087,Kazper Karlsson,Central Midfield,2005-03-21,19.0,Sweden,183.0,right,1/29/2025,Bologna Primavera,2028-12-31,1000000.0
-272,361772,Dino Besirovic,Central Midfield,1994-01-31,31.0,"Bosnia-Herzegovina, Portugal",179.0,left,7/7/2023,Mezőkövesd Zsóry FC,2025-11-30,500000.0
-272,989508,Victor Gonçalves Andersson,Central Midfield,2004-10-22,20.0,"Sweden, Guatemala",174.0,right,10/24/2022,AIK U19,2027-12-31,400000.0
-272,963314,Abdihakin Ali,Central Midfield,2002-01-22,23.0,"Sweden, Somalia",178.0,right,2/1/2023,Vasalunds IF,2026-12-31,350000.0
-272,804936,Eskil Edh,Right Midfield,2002-08-04,22.0,Norway,181.0,right,3/15/2024,Lillestrøm SK,2027-12-31,2000000.0
-272,229695,Bersant Celina,Attacking Midfield,1996-09-09,28.0,"Kosovo, Norway",181.0,right,1/8/2024,Dijon FCO,2026-08-31,1500000.0
-272,920310,Taha Ayari,Left Winger,2005-05-10,19.0,"Sweden, Tunisia",177.0,right,10/18/2022,AIK U19,2025-12-31,1500000.0
-272,866082,Danilo Al-Saed,Left Winger,1999-02-24,26.0,"Iraq, Sweden",178.0,right,1/29/2025,SC Heerenveen,2025-06-30,1000000.0
-272,585334,Oscar Uddenäs,Right Winger,2002-08-17,22.0,Sweden,186.0,left,8/26/2024,Excelsior Rotterdam,2025-06-30,400000.0
-272,944083,Alexander Fesshaie,Right Winger,2004-02-29,21.0,"Sweden, Eritrea",179.0,right,10/18/2022,AIK U19,2027-12-31,400000.0
-272,98596,John Guidetti,Centre-Forward,1992-04-15,32.0,Sweden,185.0,right,7/15/2022,Deportivo Alavés,2025-12-31,300000.0
-272,891757,William Hofvander,Centre-Forward,2001-12-31,23.0,Sweden,184.2,right,1/29/2025,Umeå FC,2026-12-31,533762.0
-354,450218,Ortwin De Wolf,Goalkeeper,1997-04-23,27.0,Belgium,190.0,left,7/1/2024,Zulte Waregem,2027-06-30,1200000.0
-354,685106,Nacho Miras,Goalkeeper,1997-07-19,27.0,Spain,187.0,right,1/14/2025,KMSK Deinze (-2024),2025-06-30,400000.0
-354,1063262,Oskar Annell,Goalkeeper,2005-02-15,20.0,Belgium,190.0,right,7/1/2023,Jong KV Mechelen,2025-06-30,50000.0
-354,338672,Zinho Vanheusden,Centre-Back,1999-07-29,25.0,Belgium,187.0,right,7/25/2024,Inter Milan,2025-06-30,2500000.0
-354,325924,Ahmed Touba,Centre-Back,1998-03-13,26.0,"Algeria, Belgium",190.0,left,9/4/2024,Basaksehir FK,2025-06-30,2200000.0
-354,563139,José Marsà,Centre-Back,2002-03-04,23.0,Spain,185.0,left,7/13/2024,FC Andorra,2027-06-30,1200000.0
-354,712086,Toon Raemaekers,Centre-Back,2000-09-09,24.0,Belgium,194.0,right,7/1/2022,Oud-Heverlee Leuven,2026-06-30,850000.0
-354,403568,Stephen Welsh,Centre-Back,2000-01-19,25.0,Scotland,188.0,right,1/9/2025,Celtic FC,2025-06-30,800000.0
-354,621195,Bas Van den Eynden,Centre-Back,2002-01-07,23.0,Belgium,190.0,right,7/1/2021,KV Mechelen U21,2025-06-30,700000.0
-354,1070395,Lukas Baert,Centre-Back,2005-02-01,20.0,Belgium,186.0,right,7/1/2024,Jong KV Mechelen,2026-06-30,50000.0
-354,338637,Daam Foulon,Left-Back,1999-03-23,25.0,Belgium,180.0,left,7/7/2023,Benevento Calcio,2025-06-30,3000000.0
-354,864306,Rafik Belghali,Right-Back,2002-06-07,22.0,"Algeria, Belgium",180.0,right,7/1/2023,Lommel SK,2026-06-30,800000.0
-354,678100,Aziz Ouattara,Defensive Midfield,2001-01-04,24.0,Cote d'Ivoire,188.0,right,7/23/2024,KRC Genk,2025-06-30,2000000.0
-354,504245,Fredrik Hammar,Defensive Midfield,2001-02-26,24.0,Sweden,182.0,right,1/7/2025,Hammarby IF,2028-06-30,750000.0
-354,364370,Mory Konaté,Defensive Midfield,1993-11-15,31.0,Guinea,191.0,right,7/13/2023,Sint-Truidense VV,2026-06-30,600000.0
-354,1126669,Elton Yeboah,Defensive Midfield,2005-03-25,19.0,Belgium,185.0,left,7/1/2024,Jong KV Mechelen,2026-06-30,200000.0
-354,157396,Rob Schoofs,Central Midfield,1994-03-23,30.0,Belgium,178.0,left,7/5/2017,: Ablöse €1.00m,2027-06-30,2200000.0
-354,1082083,Noah Makanza,Central Midfield,2005-01-14,20.0,"DR Congo, Belgium",177.0,right,1/1/2025,Jong KV Mechelen,2027-06-30,813574.0
-354,159522,Patrick Pflücke,Right Midfield,1996-11-30,28.0,Germany,170.0,left,8/21/2023,Servette FC,2026-06-30,1800000.0
-354,225569,Kerim Mrabti,Attacking Midfield,1994-05-20,30.0,"Sweden, Tunisia",175.0,right,8/17/2020,Birmingham City,2026-06-30,2200000.0
-354,1063263,Bilal Bafdili,Attacking Midfield,2004-08-03,20.0,Belgium,180.0,right,7/1/2023,Jong KV Mechelen,2027-06-30,1000000.0
-354,183120,Nikola Storm,Left Winger,1994-09-30,30.0,Belgium,178.0,right,7/1/2018,Club Brugge KV,2026-06-30,2000000.0
-354,912078,Petter Nosa Dahl,Left Winger,2003-10-22,21.0,Norway,180.0,right,7/23/2024,FK Bodø/Glimt,2028-06-30,700000.0
-354,956050,Bill Antonio,Right Winger,2002-09-03,22.0,Zimbabwe,177.0,right,1/1/2024,Jong KV Mechelen,2027-06-30,1200000.0
-354,110292,Geoffry Hairemans,Right Winger,1991-10-21,33.0,Belgium,183.0,left,9/2/2019,Royal Antwerp FC,2025-06-30,550000.0
-354,112930,Benito Raman,Centre-Forward,1994-11-07,30.0,Belgium,172.0,right,8/23/2024,Samsunspor,2026-06-30,1300000.0
-354,583919,Keano Vanrafelghem,Centre-Forward,2003-08-02,21.0,Belgium,171.0,right,1/16/2025,Patro Eisden Maasmechelen,2029-06-30,900000.0
-354,307800,Lion Lauberbach,Centre-Forward,1998-02-15,27.0,Germany,194.0,left,7/1/2023,Eintracht Braunschweig,2026-06-30,800000.0
-354,286005,Julien Ngoy,Centre-Forward,1997-11-02,27.0,"Belgium, DR Congo",185.0,right,7/4/2022,KAS Eupen,2025-06-30,600000.0
-3595,47367,Ahmed Adel,Goalkeeper,1987-04-10,37.0,Egypt,189.0,right,9/14/2021,: Ablöse free transfer,2026-06-30,100000.0
-3595,676169,Kamal El Sayed,Goalkeeper,1999-10-10,25.0,Egypt,189.7,right,9/1/2021,Ismaily SC U21,2025-06-30,100000.0
-3595,1154337,Abdallah Gamal,Goalkeeper,2003-01-13,22.0,Egypt,189.7,right,7/21/2023,Ismaily SC U21,2027-06-30,25000.0
-3595,727725,Mohamed Ammar,Centre-Back,1999-09-01,25.0,Egypt,182.0,right,9/1/2019,Ismaily SC U21,2027-06-30,250000.0
-3595,810137,Mohamed Nasr,Centre-Back,2000-01-25,25.0,Egypt,187.3,right,9/1/2021,Ismaily SC U21,2025-06-30,150000.0
-3595,1053278,Abdallah Mohamed,Centre-Back,2002-09-01,22.0,Egypt,187.3,right,7/20/2023,Ismaily SC U21,2025-06-30,50000.0
-3595,1229514,Abdelkarim Mostafa,Left-Back,2003-01-26,22.0,Egypt,180.0,left,1/31/2024,: Ablöse €90k,2028-06-30,200000.0
-3595,799177,Hatem Sukar,Left-Back,2001-10-26,23.0,Egypt,178.8,left,1/31/2024,Zamalek SC,2026-06-30,125000.0
-3595,923593,Mohamed Ehab,Left-Back,2003-03-01,22.0,Egypt,178.0,left,7/21/2023,Ismaily SC U21,2027-06-30,273308.0
-3595,403617,Emad Hamdi,Defensive Midfield,1993-01-14,32.0,Egypt,185.0,right,7/30/2015,: Ablöse ?,2025-06-30,300000.0
-3595,327427,Mohamed Hassan,Defensive Midfield,1993-10-03,31.0,Egypt,176.0,right,9/19/2022,Cleopatra FC,2025-06-30,200000.0
-3595,112110,Hesham Mohamed,Defensive Midfield,1990-01-03,35.0,Egypt,170.0,right,1/31/2024,Without Club,2025-06-30,75000.0
-3595,672733,Mohamed Bayoumi,Central Midfield,2000-04-07,24.0,Egypt,179.0,right,9/1/2019,Ismaily SC U21,2025-06-30,150000.0
-3595,1052366,Abdallah El Said,Central Midfield,2001-07-20,23.0,Egypt,179.2,right,7/20/2023,Ismaily SC U21,2025-06-30,50000.0
-3595,1299857,Mahmoud Otaka,Central Midfield,2003-08-13,21.0,Egypt,179.2,right,9/1/2024,Ismaily SC U21,2027-06-30,273836.0
-3595,1305669,Ibrahim Abdelaal,Central Midfield,2006-12-03,18.0,Egypt,179.2,right,9/1/2024,Ismaily SC U21,2027-06-30,273836.0
-3595,373705,Eric Traoré,Attacking Midfield,1996-05-21,28.0,"Burkina Faso, Mali",182.0,right,1/31/2024,Without Club,2026-06-30,200000.0
-3595,624735,Abdelrahman El Dah,Attacking Midfield,1999-08-26,25.0,Egypt,177.8,right,2/6/2024,Tanta SC,2028-06-30,75000.0
-3595,987465,Ali El Malawany,Left Winger,1999-05-15,25.0,Egypt,177.0,right,2/3/2024,Port Fouad SC,2028-06-30,150000.0
-3595,1184163,Nader Farag,Left Winger,2001-04-01,23.0,Egypt,177.2,right,7/21/2023,Ismaily SC U21,2027-06-30,100000.0
-3595,1276260,Mohamed Khatary,Left Winger,2004-02-10,21.0,Egypt,177.2,both,9/1/2024,Ismaily SC U21,2027-06-30,75000.0
-3595,1154336,Mohamed Wagdi,Left Winger,2002-03-04,23.0,Egypt,177.2,right,7/20/2023,Ismaily SC U21,2026-06-30,25000.0
-3595,866846,Marwan Hamdi,Right Winger,2001-10-01,23.0,Egypt,186.0,right,7/20/2023,Ismaily SC U21,2026-06-30,250000.0
-3595,902001,Mohamed Abdelsamia,Right Winger,2000-03-10,24.0,Egypt,177.1,right,9/1/2021,Ismaily SC U21,2026-06-30,100000.0
-3595,304763,Ahmed El Sheikh,Right Winger,1992-09-11,32.0,Egypt,184.0,left,1/31/2024,Ittihad Alexandria SC,2026-06-30,75000.0
-3595,1278505,Omar El Kot,Right Winger,2005-07-15,19.0,Egypt,177.1,right,9/1/2024,Ismaily SC U21,2027-06-30,50000.0
-3595,1155369,Mohamed El Behiry,Right Winger,2001-12-01,23.0,Egypt,177.1,right,7/20/2023,Ismaily SC U21,2026-06-30,25000.0
-3595,1210522,Amr El Said,Right Winger,2003-02-03,22.0,Egypt,177.1,right,8/21/2024,Ismaily SC U21,2027-06-30,25000.0
-3595,887985,Khaled Al-Nabris,Centre-Forward,2003-03-27,21.0,Palestine,180.0,both,2/18/2024,Ittihad Khanyunis Municipal Club,2026-06-30,175000.0
-3595,1053281,Mohamed Zidan,Centre-Forward,2001-08-06,23.0,Egypt,184.2,right,7/21/2023,Ismaily SC U21,2027-06-30,50000.0
-3595,1053280,Hassan Saber,Centre-Forward,2005-01-01,20.0,Egypt,184.2,right,9/1/2024,Ismaily SC U21,2027-06-30,50000.0
-730,221560,Aleksandar Lyubenov,Goalkeeper,1995-02-11,30.0,Bulgaria,187.0,right,7/1/2021,: Ablöse free transfer,2027-06-30,500000.0
-730,715541,Dragomir Petkov,Goalkeeper,1998-06-08,26.0,Bulgaria,184.0,left,1/3/2025,Strumska Slava,2027-06-30,200000.0
-730,872097,Zharko Istatkov,Goalkeeper,2003-03-23,21.0,"Bulgaria, Serbia",186.0,right,7/1/2021,Lokomotiv Sofia U19,2027-06-30,100000.0
-730,272617,Ryan Bidounga,Centre-Back,1997-04-29,27.0,"Congo, France",186.0,right,1/1/2025,CSKA 1948,2025-12-31,200000.0
-730,656393,Athanasios Pitsolis,Centre-Back,1999-07-01,25.0,Greece,185.0,right,7/23/2024,Spartak Pleven,2025-06-30,100000.0
-730,866721,Luka Ivanov,Centre-Back,2003-12-31,21.0,"Bulgaria, Serbia",185.0,right,7/1/2020,: Ablöse -,2027-06-30,100000.0
-730,1082003,Mamadou Diarra,Centre-Back,1998-08-25,26.0,"France, Mali",192.0,left,8/19/2024,Paris 13 Atletico,2025-06-30,100000.0
-730,1069869,Bruno Franco,Left-Back,1998-04-10,26.0,Brazil,183.0,left,1/4/2023,: Ablöse free transfer,2025-06-30,300000.0
-730,221579,Miki Orachev,Left-Back,1996-03-19,28.0,Bulgaria,171.0,left,2/9/2024,CSKA 1948,2025-06-30,100000.0
-730,820370,Patrik-Gabriel Galchev,Right-Back,2001-04-14,23.0,"Bulgaria, Spain",178.0,both,2/24/2025,Levski Sofia,2025-12-31,900000.0
-730,597603,Celso Raposo,Right-Back,1996-04-03,28.0,Portugal,180.0,right,2/6/2024,PS Kalamata,2025-06-30,450000.0
-730,299625,Dzhuneyt Ali,Right-Back,1994-09-05,30.0,Bulgaria,174.0,right,2/11/2025,Krumovgrad,2026-06-30,300000.0
-730,586892,Bozhidar Katsarov,Defensive Midfield,1993-12-30,31.0,Bulgaria,190.0,right,1/1/2025,Krumovgrad,2027-06-30,700000.0
-730,547052,Donaldo Acka,Defensive Midfield,1997-09-17,27.0,"Albania, Greece",179.0,right,7/25/2024,SC Gjilani,2025-06-30,200000.0
-730,169006,Simeon Slavchev,Defensive Midfield,1993-09-25,31.0,Bulgaria,185.0,right,7/1/2024,Wieczysta Krakow,2027-06-30,200000.0
-730,271405,Krasimir Stanoev,Central Midfield,1994-09-14,30.0,Bulgaria,185.0,right,7/1/2023,Septemvri Sofia,2027-06-30,400000.0
-730,502661,Diogo Teixeira,Central Midfield,1999-01-20,26.0,"Portugal, Belgium",180.0,right,7/15/2023,CDC Montalegre,2025-06-30,150000.0
-730,1102503,Kristian Chachev,Central Midfield,2006-06-06,18.0,Bulgaria,181.0,right,7/1/2024,Lokomotiv Sofia U19,2027-06-30,10000.0
-730,269469,Octávio,Attacking Midfield,1993-12-29,31.0,"Brazil, Spain",184.0,right,1/1/2025,CSKA 1948,2027-06-30,400000.0
-730,540913,Gianni dos Santos,Left Winger,1998-11-21,26.0,"Cape Verde, Netherlands",176.0,right,9/17/2024,Without Club,2025-06-30,200000.0
-730,548850,Anisse Brrou,Right Winger,1999-01-01,26.0,"Morocco, Belgium",170.0,right,9/10/2024,Standard de Liège 16 FC,2026-06-30,250000.0
-730,240629,Yuliyan Nenov,Right Winger,1994-11-17,30.0,Bulgaria,178.0,right,7/1/2024,Hamrun Spartans,2025-06-30,200000.0
-730,124869,Spas Delev,Right Winger,1989-09-22,35.0,Bulgaria,169.0,right,1/1/2025,Ludogorets Razgrad,2026-06-30,50000.0
-730,340199,Ante Aralica,Centre-Forward,1996-07-23,28.0,Croatia,190.0,right,7/1/2024,Wieczysta Krakow,2027-06-30,200000.0
-730,282879,Svetoslav Dikov,Centre-Forward,1992-04-18,32.0,Bulgaria,196.0,both,7/1/2024,Sportist Svoge,2025-06-30,125000.0
-730,1154673,Erik Manolkov,Centre-Forward,2005-12-31,19.0,Bulgaria,181.0,right,7/1/2023,Lokomotiv Sofia U19,2027-06-30,10000.0
-3329,282654,Ivan Zlobin,Goalkeeper,1997-03-07,28.0,Russia,191.0,right,8/22/2020,SL Benfica,2025-06-30,1500000.0
-3329,344457,Lazar Carević,Goalkeeper,1999-03-16,25.0,Montenegro,195.0,right,8/21/2024,FK Vojvodina Novi Sad,2028-06-30,1000000.0
-3329,537475,Hugo Cunha,Goalkeeper,2001-09-06,23.0,Portugal,198.0,right,7/1/2023,FC Famalicão U23,2026-06-30,100000.0
-3329,448920,Enea Mihaj,Centre-Back,1998-07-05,26.0,"Albania, Greece",186.0,right,8/15/2022,PAOK Thessaloniki,2025-06-30,3000000.0
-3329,420196,Justin de Haas,Centre-Back,2000-02-01,25.0,Netherlands,194.0,left,7/3/2023,NK Lokomotiva Zagreb,2026-06-30,1500000.0
-3329,656409,Leo Realpe,Centre-Back,2001-02-26,24.0,Ecuador,186.0,right,9/2/2024,Red Bull Bragantino,2025-06-30,1000000.0
-3329,198006,Rafa Soares,Left-Back,1995-05-09,29.0,Portugal,177.0,left,9/2/2024,PAOK Thessaloniki,2026-06-30,1200000.0
-3329,847484,Pedro Bondo,Left-Back,2004-11-16,20.0,Angola,172.0,left,1/21/2025,CA Petróleos Luanda,2029-06-30,25000.0
-3329,686597,Calegari,Right-Back,2002-02-27,23.0,Brazil,171.0,right,7/27/2024,Fluminense Football Club,2025-06-30,4000000.0
-3329,549038,Rodrigo Pinheiro,Right-Back,2002-08-28,22.0,Portugal,183.0,right,7/1/2024,FC Porto B,2028-06-30,1500000.0
-3329,615302,Mirko Topić,Defensive Midfield,2001-02-05,24.0,"Serbia, Bosnia-Herzegovina",190.0,right,7/1/2023,FK Vojvodina Novi Sad,2027-06-30,5000000.0
-3329,420189,Tom van de Looi,Defensive Midfield,1999-07-02,25.0,Netherlands,186.0,right,7/1/2024,Brescia Calcio,2027-06-30,750000.0
-3329,724966,Otar Mamageishvili,Central Midfield,2003-01-15,22.0,Georgia,180.0,right,1/30/2025,Iberia 1999 Tbilisi,2029-06-30,500000.0
-3329,1061975,Mathias de Amorim,Central Midfield,2004-12-10,20.0,"France, Portugal",178.0,right,8/8/2024,FC Girondins Bordeaux,2028-06-30,400000.0
-3329,549041,Samuel Lobato,Central Midfield,2001-10-19,23.0,Portugal,184.0,right,7/1/2024,FC Famalicão U23,2026-06-30,200000.0
-3329,982575,Gustavo Sá,Attacking Midfield,2004-11-11,20.0,Portugal,189.0,right,7/1/2022,FC Famalicão Y19,2029-06-30,10000000.0
-3329,718152,Otso Liimatta,Attacking Midfield,2004-07-10,20.0,Finland,169.0,left,7/29/2023,AC Oulu,2027-06-30,800000.0
-3329,868101,Sorriso,Left Winger,2001-02-23,24.0,Brazil,175.0,right,1/26/2024,Red Bull Bragantino,2025-06-30,4000000.0
-3329,652332,Óscar Aranda,Left Winger,2002-04-29,22.0,Spain,181.0,right,8/8/2023,Real Madrid Castilla,2026-06-30,3000000.0
-3329,290336,Rochinha,Left Winger,1995-05-03,29.0,Portugal,169.0,right,7/1/2024,Kasimpasa,2027-06-30,1500000.0
-3329,329723,Gil Dias,Right Winger,1996-09-28,28.0,Portugal,186.0,left,7/2/2024,VfB Stuttgart,2027-06-30,1500000.0
-3329,1153105,Yassir Zabiri,Right Winger,2005-02-23,20.0,Morocco,177.0,right,8/26/2024,Union Touarga Sportif,2028-06-30,500000.0
-3329,804661,Simon Elisor,Centre-Forward,1999-07-22,25.0,"France, Guadeloupe",185.0,left,1/22/2025,FC Metz,2028-06-30,800000.0
-3329,629777,Vaclav Sejk,Centre-Forward,2002-05-18,22.0,Czech Republic,180.0,right,1/8/2025,AC Sparta Prague,2025-06-30,600000.0
-3329,957736,Leonardo Oliveira,Centre-Forward,2005-02-08,20.0,"Sweden, Portugal",187.0,right,7/1/2024,Without Club,2025-06-30,100000.0
-429,166326,Peter Leeuwenburgh,Goalkeeper,1994-03-23,30.0,Netherlands,196.0,right,8/12/2023,FC Groningen,2025-05-31,500000.0
-429,399664,Dimitris Dimitriou,Goalkeeper,1999-01-15,26.0,Cyprus,193.0,right,7/16/2019,Anorthosis Famagusta,2025-05-31,300000.0
-429,124187,Philipp Kühn,Goalkeeper,1992-09-02,32.0,Germany,189.0,right,11/21/2024,Without Club,2025-05-31,250000.0
-429,138788,Georgios Loizou,Goalkeeper,1992-02-25,33.0,Cyprus,185.0,right,7/19/2022,Omonia 29is Maiou,2025-05-31,25000.0
-429,1310903,Lefteris Eleftheriou,Goalkeeper,2005-08-12,19.0,Cyprus,181.0,right,7/1/2024,Apollon Limassol U19,2027-06-30,550454.0
-429,1184665,Chrysanthos Christodoulou,Goalkeeper,2005-01-18,20.0,Cyprus,189.7,right,7/1/2024,Without Club,2027-06-30,261525.0
-429,260041,Josef Kvida,Centre-Back,1997-01-23,28.0,Czech Republic,196.0,left,1/31/2025,Pafos FC,2026-05-31,650000.0
-429,136645,Praxitelis Vouros,Centre-Back,1995-05-05,29.0,Greece,183.0,right,7/1/2024,OFI Crete FC,2026-05-31,550000.0
-429,131821,Thomas Lam,Centre-Back,1993-12-18,31.0,"Finland, Netherlands",188.0,right,8/15/2024,PEC Zwolle,2026-05-31,550000.0
-429,355656,Vernon de Marco,Centre-Back,1992-11-18,32.0,"Slovakia, Argentina",186.0,left,8/17/2024,Hatta Club,2026-05-31,350000.0
-429,399671,Zacharias Adoni,Centre-Back,1999-07-13,25.0,Cyprus,190.0,right,7/1/2023,: Ablöse free transfer,2026-05-31,150000.0
-429,393872,Giorgos Malekkidis,Left-Back,1997-07-14,27.0,Cyprus,190.0,left,7/1/2020,Aris Limassol,2027-05-31,550000.0
-429,333633,Bruno Santos,Right-Back,1993-02-07,32.0,"Brazil, Portugal",182.0,right,1/4/2024,Goiás EC,2025-05-31,400000.0
-429,696602,Carlos Barahona,Right-Back,2002-08-22,22.0,Costa Rica,169.0,right,7/1/2024,CS Cartaginés,2025-06-30,250000.0
-429,203970,Charalampos Kyriakou,Defensive Midfield,1995-02-09,30.0,Cyprus,181.0,right,8/31/2012,: Ablöse -,2025-05-31,550000.0
-429,291111,Sessi D'Almeida,Defensive Midfield,1995-11-20,29.0,"Benin, France",178.0,right,7/8/2024,Pau FC,2026-05-31,450000.0
-429,603471,Danilo Spoljaric,Defensive Midfield,1999-07-14,25.0,"Cyprus, Serbia",189.0,right,8/4/2018,: Ablöse -,2026-05-31,400000.0
-429,412671,Quentin Boisgard,Central Midfield,1997-03-17,27.0,France,174.0,right,7/26/2024,FC Lorient,2025-05-31,600000.0
-429,235413,Jaromir Zmrhal,Left Midfield,1993-08-02,31.0,Czech Republic,189.0,left,7/4/2024,Slovan Bratislava,2026-05-31,450000.0
-429,347958,Gaétan Weissbeck,Attacking Midfield,1997-01-17,28.0,France,177.0,right,8/13/2024,FC Sochaux-Montbéliard,2026-05-31,1300000.0
-429,1197110,Christos Charalampous,Attacking Midfield,2008-01-09,17.0,Cyprus,174.0,right,8/26/2024,Apollon Limassol U19,2026-05-31,608547.0
-429,190941,Ángelo Sagal,Left Winger,1993-04-18,31.0,Chile,182.0,left,8/4/2023,Gaziantep FK,2025-05-31,550000.0
-429,618080,Tayrell Wouter,Right Winger,2002-07-16,22.0,"Netherlands, Suriname",179.0,right,1/25/2025,FC Dila Gori,2028-05-31,600000.0
-429,509116,Babacar Dione,Right Winger,1997-03-22,27.0,"Belgium, Senegal",167.0,left,7/2/2024,Lokomotiv Plovdiv,2026-05-31,400000.0
-429,695646,Charles Boli,Right Winger,1998-08-30,26.0,"France, Cote d'Ivoire",175.0,left,7/25/2024,Pau FC,2026-05-31,300000.0
-429,837735,Clinton Duodu,Right Winger,2005-06-20,19.0,Ghana,180.0,right,9/6/2024,Bechem United FC,2027-05-31,50000.0
-429,501131,Ali Youssef,Centre-Forward,2000-08-05,24.0,"Tunisia, Sweden",182.0,right,1/26/2025,BK Häcken,2027-05-31,2000000.0
-429,404383,Pedro Marques,Centre-Forward,1998-04-25,26.0,Portugal,181.0,right,7/1/2024,NEC Nijmegen,2026-05-31,700000.0
-429,522868,Diego Dorregaray,Centre-Forward,1992-05-09,32.0,Argentina,187.0,right,7/13/2024,Universitario de Deportes,2025-05-31,350000.0
-1694,475641,Benedikt Willert,Goalkeeper,2001-06-02,23.0,Germany,190.0,right,7/1/2024,FSV Stadeln,2027-06-30,50000.0
-1694,597067,Fabian Dellermann,Goalkeeper,1998-04-15,26.0,Germany,186.0,right,7/1/2017,FC Eintracht Bamberg U19,2025-06-30,10000.0
-1694,911663,Ben Olschewski,Goalkeeper,2003-06-02,21.0,Germany,196.0,right,1/1/2022,DJK Don Bosco Bamberg,2025-06-30,10000.0
-1694,691899,Jonas Hartwig,Centre-Back,2003-11-29,21.0,Germany,189.0,right,7/3/2022,Würzburger Kickers U19,2025-06-30,50000.0
-1694,362419,Marco Schmitt,Centre-Back,1995-10-30,29.0,Germany,188.0,left,7/1/2017,DJK Don Bosco Bamberg,2025-06-30,25000.0
-1694,912734,Sebastian Valdez,Centre-Back,2002-11-08,22.0,Germany,184.0,right,7/1/2021,FC Eintracht Bamberg U19,2025-06-30,25000.0
-1694,119817,Christopher Kettler,Centre-Back,1993-01-22,32.0,Germany,180.0,right,7/1/2021,DJK Don Bosco Bamberg,2025-06-30,25000.0
-1694,910497,Robin Zeitler,Centre-Back,2003-02-06,22.0,Germany,185.0,right,1/1/2025,TSV Großbardorf,2025-06-30,45660.0
-1694,406214,Tobias Linz,Left-Back,1996-05-29,28.0,Germany,185.0,left,7/1/2016,FC Eintracht Bamberg II,2025-06-30,25000.0
-1694,912750,Fabio Reck,Defensive Midfield,2002-05-15,22.0,Germany,174.0,right,7/1/2021,1.FC Schweinfurt 05 U19,2025-06-30,25000.0
-1694,295671,Marc Reischmann,Defensive Midfield,1993-04-30,31.0,Germany,180.0,right,1/1/2017,FV Ravensburg II,2025-06-30,25000.0
-1694,816575,Luca Auer,Central Midfield,2004-06-07,20.0,Germany,180.0,right,7/1/2023,1.FC Nürnberg U19,2025-06-30,50000.0
-1694,382420,Simon Kollmer,Central Midfield,1999-06-09,25.0,Germany,170.0,right,7/1/2018,FC Eintracht Bamberg U19,2025-06-30,10000.0
-1694,1146810,Koray Kaiser,Central Midfield,2004-06-25,20.0,Germany,175.0,right,7/1/2024,SpVgg Bayreuth,2027-06-30,10000.0
-1694,1149289,Benjamin Desic,Central Midfield,2005-03-08,19.0,"Germany, Montenegro",187.0,both,1/29/2025,SpVgg Greuther Fürth II,2027-06-30,25000.0
-1694,279573,Luca Ljevsic,Right Midfield,1996-04-19,28.0,Germany,180.0,right,7/1/2021,1.FC Lichtenfels,2025-06-30,50000.0
-1694,119819,Andreas Mahr,Right Midfield,1993-06-05,31.0,Germany,180.0,right,7/1/2023,1.FC Lichtenfels,2025-06-30,10000.0
-1694,1121384,Nico Baumgartl,Right Midfield,2004-06-22,20.0,Germany,173.0,both,7/1/2023,FC Eintracht Bamberg U19,2025-06-30,10000.0
-1694,691896,Luca Leistner,Attacking Midfield,2003-04-30,21.0,Germany,175.0,left,7/1/2022,FC Eintracht Bamberg U19,2025-06-30,50000.0
-1694,1275000,Andreas Pfahlmann,Attacking Midfield,2001-10-02,23.0,Germany,197.0,right,7/1/2024,TSV Burgebrach,2027-06-30,10000.0
-1694,1034892,Jonah Schildbach,Attacking Midfield,2006-09-03,18.0,Germany,177.8,right,1/29/2025,Baiersdorfer SV U19,2027-06-30,104224.0
-1694,958633,Luis Schneider,Left Winger,2003-03-20,21.0,Germany,172.0,right,7/1/2022,FC Eintracht Bamberg U19,2025-06-30,10000.0
-1694,177589,Björn Schönwiesner,Left Winger,1992-12-07,32.0,Germany,185.0,left,7/10/2022,TSV Aubstadt,2027-06-30,10000.0
-1694,443878,Lukasz Jankowiak,Centre-Forward,1997-12-07,27.0,Poland,190.0,right,7/1/2024,1.FC Lichtenfels,2025-06-30,25000.0
-1694,823073,David Lang,Centre-Forward,2001-07-07,23.0,Germany,187.0,both,7/1/2020,FC Eintracht Bamberg U19,2025-06-30,25000.0
-1694,1196814,Rodion Gushcha,Centre-Forward,2005-09-02,19.0,Belarus,185.0,right,7/1/2024,FC Eintracht Bamberg U19,2025-06-30,25000.0
-1694,912712,Timm Strasser,Centre-Forward,2001-05-29,23.0,Germany,189.0,left,7/1/2022,1.FC Sand,2025-06-30,10000.0
-1694,1194931,Muiz Alli,Centre-Forward,2005-05-19,19.0,Nigeria,186.0,right,7/1/2024,FC Eintracht Bamberg U19,2025-06-30,10000.0
-720,357153,Diogo Costa,Goalkeeper,1999-09-19,25.0,"Portugal, Switzerland",186.0,right,7/1/2019,FC Porto B,2027-06-30,40000000.0
-720,155396,Cláudio Ramos,Goalkeeper,1991-11-16,33.0,Portugal,183.0,right,8/14/2020,CD Tondela,2027-06-30,1500000.0
-720,284701,Samuel Portugal,Goalkeeper,1994-03-29,30.0,Brazil,188.0,right,9/1/2022,Portimonense SC,2027-06-30,1000000.0
-720,491693,Nehuén Pérez,Centre-Back,2000-06-24,24.0,Argentina,186.0,right,8/30/2024,Udinese Calcio,2025-06-30,13000000.0
-720,420465,Tiago Djaló,Centre-Back,2000-04-09,24.0,"Portugal, Guinea-Bissau",190.0,right,9/2/2024,Juventus FC,2025-06-30,12000000.0
-720,818495,Otávio,Centre-Back,2002-04-21,22.0,Brazil,188.0,left,1/31/2024,FC Famalicão,2028-06-30,12000000.0
-720,406151,Zé Pedro,Centre-Back,1997-06-06,27.0,Portugal,187.0,right,12/21/2023,FC Porto B,2027-06-30,3000000.0
-720,57723,Iván Marcano,Centre-Back,1987-06-23,37.0,Spain,189.0,left,7/11/2019,AS Roma,2025-06-30,200000.0
-720,478365,Francisco Moura,Left-Back,1999-08-16,25.0,Portugal,181.0,left,9/2/2024,FC Famalicão,2029-06-30,8000000.0
-720,544784,Zaidu,Left-Back,1997-06-13,27.0,Nigeria,182.0,left,8/30/2020,: Ablöse €4.00m,2027-06-30,3000000.0
-720,537602,João Mário,Right-Back,2000-01-03,25.0,Portugal,178.0,right,9/1/2020,FC Porto B,2027-06-30,14000000.0
-720,935480,Martim Fernandes,Right-Back,2006-01-18,19.0,Portugal,181.0,right,4/17/2024,FC Porto B,2028-06-30,8000000.0
-720,756990,Alan Varela,Defensive Midfield,2001-07-04,23.0,Argentina,177.0,right,8/16/2023,CA Boca Juniors,2028-06-30,35000000.0
-720,222813,Marko Grujić,Defensive Midfield,1996-04-13,28.0,Serbia,191.0,right,7/1/2022,: Ablöse €9.00m,2026-06-30,5000000.0
-720,512913,Stephen Eustaquio,Central Midfield,1996-12-21,28.0,"Canada, Portugal",177.0,right,7/1/2022,FC Paços de Ferreira,2027-06-30,11000000.0
-720,575716,Vasco Sousa,Central Midfield,2003-04-03,21.0,Portugal,169.0,right,7/1/2024,FC Porto B,2027-06-30,5000000.0
-720,1152154,Tomás Pérez,Central Midfield,2005-08-26,19.0,Argentina,182.0,right,2/3/2025,CA Newell's Old Boys,2029-06-30,400000.0
-720,537598,Fábio Vieira,Attacking Midfield,2000-05-30,24.0,Portugal,170.0,left,8/27/2024,Arsenal FC,2025-06-30,22000000.0
-720,957653,Rodrigo Mora,Attacking Midfield,2007-05-05,17.0,Portugal,168.0,right,7/1/2024,FC Porto B,2027-06-30,10000000.0
-720,448470,André Franco,Attacking Midfield,1998-04-12,26.0,Portugal,177.0,left,8/4/2022,Estoril Praia,2027-06-30,2500000.0
-720,1004725,William Gomes,Left Winger,2006-03-15,18.0,Brazil,171.0,left,1/31/2025,São Paulo Futebol Clube,2029-06-30,6000000.0
-720,520662,Pepê,Right Winger,1997-02-24,28.0,"Brazil, Italy",175.0,right,7/1/2021,Grêmio Foot-Ball Porto Alegrense,2027-06-30,27000000.0
-720,479649,Gonçalo Borges,Right Winger,2001-03-29,23.0,Portugal,184.0,right,7/1/2023,FC Porto B,2027-06-30,4000000.0
-720,991268,Samu Aghehowa,Centre-Forward,2004-05-05,20.0,"Spain, Nigeria",193.0,right,8/23/2024,Atlético de Madrid,2029-06-30,50000000.0
-720,392767,Danny Namaso,Centre-Forward,2000-08-28,24.0,"England, Cameroon",182.0,right,7/1/2022,FC Porto B,2028-06-30,5000000.0
-720,1063292,Deniz Gül,Centre-Forward,2004-07-02,20.0,"Türkiye, Sweden",190.0,right,8/24/2024,Hammarby IF,2029-06-30,4500000.0
 951,486572,Andrea Hoxha,Goalkeeper,1999-09-28,25.0,Albania,189.7,right,7/1/2024,Bremer SV,2027-06-30,75000.0
 951,789331,Kevin Ehmann,Goalkeeper,2003-11-24,21.0,"Germany, Romania",188.0,right,7/1/2022,1.FC Heidenheim 1846 U19,2025-06-30,25000.0
 951,685434,Marius Kaiser,Goalkeeper,2003-07-12,21.0,Germany,189.7,left,1/15/2025,Without Club,2027-06-30,366401.0
@@ -24895,18 +24322,15 @@ club_id,player_id,player_name,position,date_of_birth,age,nationality,height,foot
 2865,709998,Lucas Alcázar,Left-Back,2002-07-11,22.0,Spain,182.0,left,8/8/2023,Real Madrid Castilla,2025-06-30,200000.0
 2865,971774,Xavi Pleguezuelo,Left-Back,2003-01-14,22.0,Spain,178.0,left,7/1/2022,Real Betis Balompié U19,2025-06-30,100000.0
 2865,1054909,Pablo Busto,Right-Back,2005-09-25,19.0,Spain,180.0,right,7/1/2022,Calavera CF U19,2025-06-30,300000.0
-2865,933908,Ángel Ortiz,Right-Back,2004-07-25,20.0,Spain,167.0,right,7/1/2022,Real Betis Balompié U19,2025-06-30,300000.0
 2865,1018922,Òscar Masqué,Right-Back,2007-01-15,18.0,Spain,178.7,right,2/1/2025,Real Betis Balompié U19,2026-06-30,2081580.0
 2865,1054429,Carlos Guirao,Defensive Midfield,2003-04-27,21.0,Spain,181.4,right,8/30/2024,CD Leganés B,2025-06-30,300000.0
 2865,972730,Mawuli Mensah,Central Midfield,2003-11-15,21.0,Ghana,168.0,right,7/31/2023,Antequera CF,2026-06-30,400000.0
 2865,961944,Ginés Sorroche,Central Midfield,2004-03-24,20.0,Spain,180.0,right,10/1/2022,Real Betis Balompié U19,2026-06-30,250000.0
-2865,1061283,Mateo Flores,Central Midfield,2004-04-07,20.0,Spain,179.2,left,7/1/2023,Real Betis Balompié U19,2025-06-30,250000.0
 2865,1228383,Ismael Barea,Central Midfield,2005-07-16,19.0,Spain,179.2,right,7/1/2024,Real Betis Balompié U19,2027-06-30,200000.0
 2865,1122925,Sander Ballero,Central Midfield,2004-06-19,20.0,Spain,181.0,right,7/1/2024,CE Sabadell FC,2027-06-30,100000.0
 2865,895331,Dani Pérez,Attacking Midfield,2005-07-26,19.0,Spain,173.0,right,7/6/2022,Real Betis Balompié U19,2025-06-30,500000.0
 2865,1061281,Carlos Reina,Attacking Midfield,2004-08-10,20.0,Spain,176.0,right,7/1/2023,Real Betis Balompié U19,2026-06-30,200000.0
 2865,1064419,Usse Diao,Attacking Midfield,2005-09-07,19.0,"Spain, Senegal",182.0,right,7/1/2024,Real Betis Balompié U19,2027-06-30,50000.0
-2865,1190411,Jesús Rodríguez,Left Winger,2005-11-21,19.0,Spain,185.0,right,10/1/2023,Real Betis Balompié U19,2029-06-30,1000000.0
 2865,666971,Souleymane Faye,Right Winger,2003-02-08,22.0,Senegal,179.0,right,7/8/2024,CF Talavera de la Reina,2028-06-30,500000.0
 2865,961087,Pablo García,Right Winger,2006-08-15,18.0,Spain,177.1,left,7/1/2024,Real Betis Balompié U19,2029-06-30,100000.0
 2865,1222768,João Fersura,Right Winger,2005-04-20,19.0,Brazil,180.0,left,7/22/2024,Clube Atlético do Porto,2029-06-30,50000.0
@@ -25650,33 +25074,24 @@ club_id,player_id,player_name,position,date_of_birth,age,nationality,height,foot
 776,184604,Dellatorre,Centre-Forward,1992-05-01,32.0,"Brazil, Italy",181.0,right,1/1/2025,Mirassol Futebol Clube (SP),2025-12-31,450000.0
 776,1090820,Éberth,Centre-Forward,2003-06-19,21.0,Brazil,193.0,left,1/1/2024,Goiás EC,2026-12-31,400000.0
 776,345401,Nicolas Careca,Centre-Forward,1997-05-18,27.0,Brazil,188.0,right,2/28/2025,FC Anyang,2027-06-30,150000.0
-45,822960,Tim Goller,Goalkeeper,2005-01-26,20.0,Germany,193.0,right,1/26/2023,Hertha BSC U19,2027-06-30,350000.0
 45,342966,Dennis Smarsch,Goalkeeper,1999-01-14,26.0,Germany,195.0,both,7/19/2024,MSV Duisburg,2025-06-30,75000.0
 45,706615,Maximilian Mohwinkel,Goalkeeper,2004-02-24,21.0,Germany,192.0,right,7/1/2023,Hertha BSC U19,2026-06-30,50000.0
-45,989121,Laurenz Pohlmann,Goalkeeper,2006-09-05,18.0,Germany,189.7,right,7/1/2024,Hertha BSC U19,2025-06-30,25000.0
 45,905012,Sebastian Weiland,Centre-Back,2005-01-02,20.0,Germany,186.0,right,7/1/2023,Hertha BSC U19,2025-06-30,125000.0
 45,533007,Marlon Morgenstern,Centre-Back,2001-01-30,24.0,Germany,188.0,right,9/6/2024,Without Club,2025-06-30,100000.0
-45,977978,Jaime Sherwood,Centre-Back,2006-01-09,19.0,"Germany, England",190.0,both,7/1/2024,Hertha BSC U19,2025-06-30,100000.0
 45,815158,Peter Matiebel,Centre-Back,2005-01-22,20.0,Germany,195.0,left,7/1/2023,Hertha BSC U19,2026-06-30,100000.0
 45,914716,Eliyas Strasner,Left-Back,2005-03-02,20.0,Germany,179.0,left,7/1/2024,Hertha BSC U19,2025-06-30,200000.0
 45,1023788,Noah Kardam,Left-Back,2005-02-12,20.0,Germany,178.8,left,7/1/2024,Hertha BSC U19,2025-06-30,25000.0
 45,907468,Janne Berner,Right-Back,2005-04-06,19.0,Germany,178.7,right,7/1/2024,1.FC Heidenheim 1846 U19,2026-06-30,75000.0
-45,1067659,Boris Mamuzah Lum,Defensive Midfield,2007-10-02,17.0,"Germany, Cameroon",173.0,both,7/1/2024,Hertha BSC U19,2026-06-30,500000.0
 45,1022431,Biyan Kizildemir,Defensive Midfield,2004-05-24,20.0,Germany,185.0,both,7/1/2023,Berliner AK 07 U19,2025-06-30,50000.0
 45,878796,Lukas Michelbrink,Central Midfield,2005-04-15,19.0,"Lithuania, Germany",181.0,right,7/1/2024,Hertha BSC U19,2027-06-30,150000.0
 45,701825,Dion Ajvazi,Central Midfield,2004-02-10,21.0,"Albania, Kosovo",181.0,both,7/1/2023,Hertha BSC U19,2025-06-30,150000.0
 45,625903,Safa Yildirim,Central Midfield,2004-01-10,21.0,"Türkiye, Germany",183.0,both,7/1/2022,Hertha BSC U19,2025-06-30,50000.0
 45,467425,Jetmir Ameti,Central Midfield,2002-02-22,23.0,"Germany, Albania",182.0,right,1/31/2025,Without Club,2025-06-30,22230.0
-45,897428,Selim Telib,Central Midfield,2006-03-14,18.0,"Egypt, Germany",184.0,right,7/1/2024,Without Club,2027-06-30,1143672.0
-45,977980,Julius Gottschalk,Attacking Midfield,2006-08-20,18.0,Germany,180.0,right,7/1/2024,Without Club,2027-06-30,300000.0
 45,528866,Shalva Ogbaidze,Attacking Midfield,2002-08-01,22.0,"Georgia, Germany",177.0,right,1/31/2025,Without Club,2026-06-30,150000.0
 45,35872,Änis Ben-Hatira,Attacking Midfield,1988-07-18,36.0,"Tunisia, Germany",183.0,both,8/24/2023,Without Club,2027-06-30,75000.0
 45,528577,Ensar Aksakal,Left Winger,2001-10-01,23.0,"Türkiye, Germany",174.0,right,7/1/2024,Hertha BSC,2025-06-30,150000.0
-45,897441,Luis Trus,Left Winger,2006-06-13,18.0,Germany,178.0,right,7/1/2024,Hertha BSC U19,2027-06-30,125000.0
-45,1062715,Jelani Ndi,Right Winger,2007-08-04,17.0,"Germany, Cameroon",180.0,left,7/1/2024,Hertha BSC U19,2026-06-30,200000.0
 45,809460,Dominik Schickersinsky,Right Winger,2004-02-28,21.0,Germany,170.0,right,7/1/2023,Hertha BSC U19,2025-06-30,50000.0
 45,797562,Pepe Pereira Mendes,Right Winger,2005-02-25,20.0,"Germany, Spain",177.1,right,7/1/2024,Hertha BSC U19,2025-06-30,50000.0
-45,904975,Oliver Rölke,Centre-Forward,2005-01-06,20.0,Germany,192.0,right,7/1/2024,Without Club,2027-06-30,250000.0
 45,678088,Luca Wollschläger,Centre-Forward,2003-02-08,22.0,Germany,195.0,both,7/1/2023,Hertha BSC,2025-06-30,125000.0
 45,807955,Oliver Schmidhauser,Centre-Forward,2004-06-02,20.0,"Dominican Republic, Switzerland",189.0,right,8/15/2024,Without Club,2026-06-30,25000.0
 543,249994,José Sá,Goalkeeper,1993-01-17,32.0,Portugal,192.0,right,7/15/2021,: Ablöse €8.00m,2027-06-30,8000000.0
@@ -26353,7 +25768,6 @@ club_id,player_id,player_name,position,date_of_birth,age,nationality,height,foot
 2491,995480,Julius Joas,Central Midfield,2006-01-03,19.0,Germany,179.2,right,7/1/2023,SV Werder Bremen U17,2025-06-30,205298.0
 2491,1042450,Yuval Ranon,Attacking Midfield,2006-02-11,19.0,"Israel, Germany",177.8,right,7/1/2023,SV Werder Bremen U17,2025-06-30,224764.0
 2491,1169839,Arda Halicioglu,Attacking Midfield,2006-10-10,18.0,"Germany, Türkiye",180.0,right,1/11/2024,Blumenthaler SV U19,2025-06-30,216985.0
-2491,1114155,Patrice Covic,Attacking Midfield,2007-06-25,17.0,"Croatia, Germany",177.8,right,7/1/2024,Hertha BSC U17,2027-06-30,324558.0
 2491,1080555,Paul Erevbenagie,Right Winger,2007-08-09,17.0,Germany,177.1,right,7/1/2024,SV Werder Bremen U17,2026-06-30,222330.0
 2491,1179107,Boran-Firat Coskun,Right Winger,2007-09-24,17.0,Germany,177.1,right,7/1/2024,SV Werder Bremen U17,2027-06-30,222485.0
 2491,1042472,Salim Musah,Centre-Forward,2006-02-22,19.0,"Germany, Ghana",198.0,right,7/1/2023,SV Werder Bremen U17,2026-06-30,223083.0
@@ -26433,17 +25847,14 @@ club_id,player_id,player_name,position,date_of_birth,age,nationality,height,foot
 3793,195162,Mayron George,Centre-Forward,1993-10-23,31.0,Costa Rica,189.0,right,8/29/2023,Pau FC,2025-06-30,400000.0
 3793,1105821,Nehoray Dabush,Centre-Forward,2004-10-18,20.0,Israel,184.2,right,1/1/2024,Beitar Jerusalem U19,2026-05-31,125000.0
 151,965993,David Schwingel,Goalkeeper,2002-10-03,22.0,Germany,200.0,right,7/1/2024,VfR Baumholder,2025-06-30,374728.0
-151,924125,Fabian Heck,Goalkeeper,2005-04-21,19.0,"Luxembourg, Germany",194.0,right,7/1/2024,Without Club,2027-06-30,370498.0
 151,1144524,Matteo Heinz,Centre-Back,2006-06-28,18.0,Germany,186.0,right,7/1/2024,Without Club,2025-06-30,190808.0
 151,829272,Drini Miftari,Centre-Back,2004-03-01,21.0,"Kosovo, Germany",185.0,right,7/1/2023,1.FC Kaiserslautern U19,2027-06-30,178162.0
 151,1205076,Anas Bouda,Centre-Back,2005-08-03,19.0,"Germany, Morocco",186.0,both,7/1/2024,1.FC Kaiserslautern U19,2025-06-30,141748.0
 151,1063224,Maik Gärtner,Centre-Back,2005-05-14,19.0,Germany,179.0,left,7/1/2024,1.FC Kaiserslautern U19,2025-06-30,151311.0
-151,924087,Mika Haas,Left-Back,2005-08-11,19.0,Germany,181.0,left,1/1/2024,1.FC Kaiserslautern U19,2026-06-30,150000.0
 151,696990,Neal Gibs,Left-Back,2002-01-01,23.0,Germany,180.0,both,7/1/2024,1.FC Kaiserslautern,2027-06-30,100000.0
 151,927007,Salvatore Mangano,Left-Back,2005-03-07,20.0,"Germany, Italy",170.0,left,7/1/2024,VfR Wormatia Worms U19,2025-06-30,761976.0
 151,348766,Emre Erkus,Right-Back,2002-05-15,22.0,"Luxembourg, Germany",178.0,right,7/1/2022,FC Victoria Rosport,2025-06-30,88522.0
 151,924085,Artur Reich,Right-Back,2005-01-19,20.0,Germany,169.0,right,7/1/2024,1.FC Kaiserslautern U19,2025-06-30,175667.0
-151,521142,Leon Robinson,Defensive Midfield,2001-07-11,23.0,Germany,186.0,right,7/1/2023,TSV Gau-Odernheim,2027-06-30,200000.0
 151,664875,Rilind Kabashi,Defensive Midfield,2003-03-29,21.0,"Germany, Kosovo",181.0,right,1/29/2025,FC Nöttingen,2027-06-30,25000.0
 151,535431,Robin Muth,Defensive Midfield,2000-12-12,24.0,Germany,182.0,right,1/25/2023,TuS Mechtersheim,2025-06-30,105199.0
 151,932375,David Schramm,Defensive Midfield,2006-06-28,18.0,"Germany, Ghana",183.0,right,7/1/2024,1.FC Kaiserslautern U19,2025-06-30,156337.0
@@ -26453,7 +25864,6 @@ club_id,player_id,player_name,position,date_of_birth,age,nationality,height,foot
 151,798093,Marius Bauer,Attacking Midfield,2003-06-02,21.0,Germany,180.0,right,7/1/2022,1.FC Kaiserslautern U19,2025-06-30,164819.0
 151,924089,Yasin Zor,Attacking Midfield,2005-10-25,19.0,"Türkiye, Germany",181.0,right,7/1/2024,1.FC Kaiserslautern U19,2025-06-30,547552.0
 151,815049,Marc-Michael Nauth,Attacking Midfield,2002-06-23,22.0,Germany,180.0,right,7/1/2024,Eintracht Bad Kreuznach,2025-06-30,536759.0
-151,741319,Shawn Blum,Left Winger,2003-01-14,22.0,Germany,180.0,both,7/1/2023,1.FC Nuremberg,2025-06-30,664418.0
 151,924088,Lucas Leibrock,Left Winger,2005-04-27,19.0,Germany,180.0,right,7/1/2024,1.FC Kaiserslautern U19,2027-06-30,501938.0
 151,639089,Angelos Stavridis,Right Winger,2003-07-22,21.0,"Germany, Greece",173.0,right,7/1/2024,1.FC Kaiserslautern,2025-06-30,75000.0
 151,1057742,Paul Petker,Right Winger,2002-05-27,22.0,"Germany, Russia",186.0,right,7/1/2023,SG Vettelschoß St. Katharinen,2027-06-30,94333.0
@@ -27196,30 +26606,6 @@ club_id,player_id,player_name,position,date_of_birth,age,nationality,height,foot
 1226,577388,Naqiuddin Eunos,Right Winger,1997-01-12,28.0,Singapore,176.0,right,1/16/2024,Tanjong Pagar United,2025-06-30,100000.0
 1226,746145,Tomoyuki Doi,Centre-Forward,1997-09-24,27.0,Japan,179.0,right,1/18/2024,Without Club,2025-06-30,250000.0
 1226,595905,Zikos Chua,Centre-Forward,2002-04-15,22.0,Singapore,182.0,right,1/14/2024,military service (Singapore),2025-06-30,25000.0
-3021,293785,Aidan McAdams,Goalkeeper,1999-03-23,25.0,Scotland,190.0,right,7/16/2024,Larne FC,2025-05-31,10000.0
-3021,652960,Jack McConnell,Goalkeeper,2004-02-11,21.0,Scotland,189.7,left,9/20/2024,Without Club,2025-06-14,360299.0
-3021,1031044,Dylan Smith,Centre-Back,2006-06-21,18.0,Scotland,187.3,right,9/30/2024,Ross County FC,2025-05-31,250000.0
-3021,694210,Aaron Steele,Centre-Back,2002-04-12,22.0,Scotland,185.0,left,7/1/2023,East Fife FC,2025-05-31,75000.0
-3021,832896,Jack Wilkie,Centre-Back,2002-12-20,22.0,Scotland,187.3,left,7/1/2024,Dundee FC,2026-05-31,184153.0
-3021,140914,Thomas O'Brien,Centre-Back,1991-08-07,33.0,Scotland,187.3,right,7/1/2017,Forfar Athletic FC,2028-05-31,222119.0
-3021,27700,Keith Watson,Centre-Back,1989-11-14,35.0,Scotland,185.0,right,7/25/2024,Raith Rovers FC,2025-05-31,200000.0
-3021,111829,Colin Hamilton,Left-Back,1992-05-07,32.0,Scotland,188.0,left,7/1/2016,Alloa Athletic FC,2025-05-31,75000.0
-3021,120980,Aaron Muirhead,Right-Back,1990-08-30,34.0,Scotland,188.0,right,2/25/2025,Partick Thistle FC ,2025-05-31,50000.0
-3021,41526,Jason Thomson,Right-Back,1987-07-26,37.0,Scotland,183.0,right,2/15/2025,Without Club,2025-05-31,273661.0
-3021,1112218,Callum Penman,Right-Back,2007-05-05,17.0,Scotland,178.7,right,2/5/2025,St. Mirren FC U18,2025-05-31,140551.0
-3021,192505,Sam Stanton,Central Midfield,1994-04-19,30.0,Scotland,180.0,left,1/23/2025,Raith Rovers FC,2025-05-31,175000.0
-3021,152419,David Gold,Central Midfield,1993-01-01,32.0,Scotland,178.0,right,7/1/2015,Berwick Rangers FC,2026-05-31,282333.0
-3021,1032311,Ali Spalding,Central Midfield,2005-10-06,19.0,Scotland,179.2,right,7/1/2024,Airdrieonians FC U20,2026-05-31,148316.0
-3021,60916,Ryan Dow,Right Midfield,1991-06-07,33.0,Scotland,176.0,right,1/5/2023,Peterhead FC,2025-05-31,277500.0
-3021,286328,Scott Stewart,Right Midfield,1996-04-29,28.0,Scotland,185.0,right,7/1/2019,Airdrieonians FC,2026-05-31,126972.0
-3021,45228,Ryan Flynn,Right Midfield,1988-09-04,36.0,Scotland,171.0,right,8/30/2024,St. Mirren FC,2025-05-31,100000.0
-3021,318552,Innes Murray,Right Midfield,1998-02-17,27.0,Scotland,180.0,right,1/1/2024,Edinburgh City ,2025-05-31,50000.0
-3021,599593,Kieran McKechnie,Right Midfield,2001-04-04,23.0,Scotland,173.0,right,1/24/2025,Queen of the South FC,2027-06-30,190096.0
-3021,921542,Fraser Taylor,Attacking Midfield,2003-02-20,22.0,Scotland,177.8,right,9/27/2024,St. Mirren FC,2025-05-31,175000.0
-3021,129973,Billy King,Left Winger,1994-05-12,30.0,Scotland,178.0,both,1/24/2025,Northern Colorado Hailstorm FC,2025-05-31,175000.0
-3021,567115,Andy Winter,Centre-Forward,2002-03-10,22.0,Scotland,170.0,right,1/24/2025,Livingston FC,2025-05-31,125000.0
-3021,156764,Gavin Reilly,Centre-Forward,1993-05-10,31.0,Scotland,181.0,right,7/1/2024,Queen of the South FC,2026-05-31,295686.0
-3021,208929,Calum Gallagher,Centre-Forward,1994-09-13,30.0,Scotland,180.0,right,7/1/2024,Airdrieonians FC,2026-05-31,200000.0
 3021,293785,Aidan McAdams,Goalkeeper,1999-03-23,25.0,Scotland,190.0,right,7/16/2024,Larne FC,2025-05-31,10000.0
 3021,652960,Jack McConnell,Goalkeeper,2004-02-11,21.0,Scotland,189.7,left,9/20/2024,Without Club,2025-06-14,360299.0
 3021,1031044,Dylan Smith,Centre-Back,2006-06-21,18.0,Scotland,187.3,right,9/30/2024,Ross County FC,2025-05-31,250000.0
