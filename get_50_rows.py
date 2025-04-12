@@ -13,6 +13,6 @@ def extract_first_50_rows(input_csv, output_csv):
     print(f"First 50 rows saved to {output_csv}")
 
 # Example usage
-input_file = "./data/player_market_values_updated.csv"  # Replace with your actual input file name
-output_file = "market_values_first_50.csv"  # Replace with your desired output file name
+input_file = "./data/player_injuries_updated.csv"  # Replace with your actual input file name
+output_file = "injuries_first_50.csv"  # Replace with your desired output file name
 extract_first_50_rows(input_file, output_file)
