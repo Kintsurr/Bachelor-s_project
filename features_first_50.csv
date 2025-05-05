@@ -1,0 +1,51 @@
+club_id,player_id,position,date_of_birth,age,nationality,height,foot,injury_index,addressLine3,league.id,market_value
+1,284346,Goalkeeper,1998-08-18,26.0,Germany,192.0,right,2.0,Germany,L3,600000.0
+1,109855,Goalkeeper,1992-08-05,32.0,Germany,192.0,right,2.0,Germany,L3,100000.0
+1,949387,Goalkeeper,2005-05-05,19.0,Germany,182.0,right,2.0,Germany,L3,206271.0
+1,339151,Centre-Back,1999-01-19,26.0,Germany,194.0,right,3.0,Germany,L3,450000.0
+1,335998,Centre-Back,2000-01-09,25.0,Germany,188.0,right,1.0,Germany,L3,250000.0
+1,620834,Centre-Back,2002-03-04,23.0,Switzerland,194.0,left,2.0,Germany,L3,250000.0
+1,91280,Centre-Back,1992-01-04,33.0,"Germany, Mozambique",191.0,both,3.0,Germany,L3,175000.0
+1,94210,Centre-Back,1992-04-11,32.0,Germany,191.0,right,3.0,Germany,L3,175000.0
+1,692020,Centre-Back,2003-03-20,21.0,Germany,188.0,both,2.0,Germany,L3,175000.0
+1,85960,Centre-Back,1990-08-01,34.0,Germany,181.0,right,2.0,Germany,L3,150000.0
+1,236467,Left-Back,1997-12-10,27.0,Germany,177.0,left,2.0,Germany,L3,400000.0
+1,690425,Right-Back,2003-01-02,22.0,Germany,175.0,right,1.0,Germany,L3,300000.0
+1,93753,Right-Back,1992-01-05,33.0,"Germany, Italy",170.0,both,2.0,Germany,L3,225000.0
+1,296897,Defensive Midfield,1998-07-03,26.0,Germany,168.0,right,2.0,Germany,L3,450000.0
+1,638631,Defensive Midfield,2003-08-24,21.0,Germany,188.0,right,3.0,Germany,L3,350000.0
+1,333516,Central Midfield,1997-10-04,27.0,"Greece, Germany",177.0,right,2.0,Germany,L3,500000.0
+1,993212,Central Midfield,2005-03-08,19.0,Italy,186.0,right,1.0,Germany,L3,400000.0
+1,588747,Central Midfield,2002-01-04,23.0,"Albania, Germany",180.0,both,2.0,Germany,L3,300000.0
+1,228953,Attacking Midfield,1996-10-29,28.0,Germany,174.0,left,1.0,Germany,L3,350000.0
+1,161079,Attacking Midfield,1994-09-13,30.0,Germany,183.0,both,2.0,Germany,L3,225000.0
+1,877234,Attacking Midfield,2000-10-05,24.0,France,177.8,right,2.0,Germany,L3,75000.0
+1,833372,Left Winger,1999-12-19,25.0,"France, Morocco",183.0,both,4.0,Germany,L3,325000.0
+1,196146,Left Winger,1993-02-24,32.0,"Germany, Bosnia-Herzegovina",179.0,both,2.0,Germany,L3,275000.0
+1,557205,Right Winger,2001-09-17,23.0,"Germany, Colombia",182.0,right,2.0,Germany,L3,350000.0
+1,187496,Right Winger,1996-12-15,28.0,Germany,173.0,right,2.0,Germany,L3,300000.0
+1,317740,Centre-Forward,1999-02-13,26.0,Germany,186.0,right,3.0,Germany,L3,400000.0
+1,284058,Centre-Forward,1994-06-10,30.0,Germany,190.0,right,3.0,Germany,L3,350000.0
+1,404949,Centre-Forward,2001-12-18,23.0,Austria,188.0,right,2.0,Germany,L3,350000.0
+1,124416,Centre-Forward,1993-09-10,31.0,Germany,186.0,right,2.0,Germany,L3,250000.0
+2,337082,Goalkeeper,2000-01-22,25.0,Germany,194.0,right,2.0,Germany,L2,1000000.0
+2,726120,Goalkeeper,2004-07-14,20.0,Albania,195.0,right,1.0,Germany,L2,400000.0
+2,273937,Goalkeeper,1997-02-12,28.0,"Bosnia-Herzegovina, Germany",190.0,right,2.0,Germany,L2,175000.0
+2,924125,Goalkeeper,2005-04-21,19.0,"Luxembourg, Germany",194.0,right,2.0,Germany,L2,370498.0
+2,388363,Centre-Back,2000-02-09,25.0,Germany,189.0,right,3.0,Germany,L2,3000000.0
+2,369888,Centre-Back,1999-07-29,25.0,Germany,189.0,right,1.0,Germany,L2,1000000.0
+2,216181,Centre-Back,1996-04-28,28.0,"Mali, France",181.0,right,3.0,Germany,L2,900000.0
+2,322506,Centre-Back,1996-09-30,28.0,Switzerland,187.0,right,2.0,Germany,L2,800000.0
+2,521928,Centre-Back,1999-06-14,25.0,Germany,186.0,right,2.0,Germany,L2,550000.0
+2,448027,Left-Back,2000-08-11,24.0,Germany,180.0,left,3.0,Germany,L2,800000.0
+2,260657,Left-Back,1997-07-03,27.0,Germany,186.0,left,3.0,Germany,L2,450000.0
+2,82018,Left-Back,1990-07-21,34.0,Germany,176.0,left,3.0,Germany,L2,175000.0
+2,924087,Left-Back,2005-08-11,19.0,Germany,181.0,left,1.0,Germany,L2,150000.0
+2,192840,Right-Back,1995-06-18,29.0,"Ghana, Germany",184.0,right,3.0,Germany,L2,700000.0
+2,270027,Right-Back,1997-07-21,27.0,"Germany, Ghana",179.0,right,3.0,Germany,L2,550000.0
+2,118196,Right-Back,1993-12-06,31.0,Germany,173.0,right,3.0,Germany,L2,450000.0
+2,569457,Defensive Midfield,2002-02-07,23.0,Germany,192.0,right,2.0,Germany,L2,3000000.0
+2,562409,Defensive Midfield,1999-10-03,25.0,Nigeria,181.0,right,2.0,Germany,L2,600000.0
+2,521142,Defensive Midfield,2001-07-11,23.0,Germany,186.0,right,1.0,Germany,L2,200000.0
+2,396230,Central Midfield,2000-02-27,25.0,Czech Republic,190.0,right,2.0,Germany,L2,1200000.0
+2,384745,Central Midfield,2000-02-21,25.0,Germany,177.0,right,1.0,Germany,L2,700000.0

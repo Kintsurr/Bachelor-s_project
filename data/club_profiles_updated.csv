@@ -1,4 +1,4 @@
-id,name,addressLine3,foundedOn,currentTransferRecord,currentMarketValue,squad.size,squad.averageAge,squad.foreigners,squad.nationalTeamPlayers,league.id,league.name,league.tier
+club_id,name,addressLine3,foundedOn,currentTransferRecord,currentMarketValue,squad.size,squad.averageAge,squad.foreigners,squad.nationalTeamPlayers,league.id,league.name,league.tier
 1,1.FC Saarbrücken,Germany,1903-04-18,-75000,8500000,29,27.0,7,0,L3,3. Liga,Third Tier
 2,1.FC Kaiserslautern,Germany,1900-06-02,-1890000,30450000,31,26.2,10,2,L2,2. Bundesliga,Second Tier
 3,1.FC Köln,Germany,1948-02-13,3100000,61630000,31,25.7,11,5,L2,2. Bundesliga,Second Tier
